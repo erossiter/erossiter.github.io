@@ -1,0 +1,26 @@
+---
+title: "Research"
+---
+
+### Publication
+
+Jacob M. Montgomery and Erin L. Rossiter.  ["So Many Questions, So Little Time: Adaptive Personality Inventories for Survey Research."](https://doi.org/10.1093/jssam/smz027) *Journal of Survey Statistics and Methodology*.
+
+- [Replication files](https://doi.org/10.7910/DVN/BRJAPZ)
+
+- [`catSurv`](https://cran.r-project.org/package=catSurv) --- R package on CRAN that implements methods of computerized adaptive testing for real-time survey administration using compiled C++ code.
+
+
+### Under review
+
+Erin L. Rossiter.  ["Measuring Agenda Setting Power in Interactive Political Communications."](files/agenda_setting.pdf)
+
+
+Jacob M. Montgomery and Erin L. Rossiter.  *Adaptive Inventories: A Practical Guide for Applied Researchers*. Book project.
+
+- [Project website](https://catsurv.com/)
+
+
+### In progress
+
+Erin L. Rossiter. "When Does Interparty Conversation Harm or Heal Affective Polarization?"
