@@ -1,0 +1,21 @@
+---
+title: "Contact"
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+
+Washington University in St. Louis\
+Department of Political Science\
+Seigle Hall 277\
+St. Louis, Missouri 63130\
+\
+`r fa("envelope")` [erinrossiter@wustl.edu](mailto:erinrossiter@wustl.edu)\
+`r fa("github")` [erossiter](https://github.com/erossiter)\
+
+
+
+
+

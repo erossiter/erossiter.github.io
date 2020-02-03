@@ -1,0 +1,24 @@
+/* top right bottom left */
+
+body .main-container {
+	max-width: 850px;
+}
+
+
+
+/* Header 1 */
+h1 { 
+  top-margin: 50px;
+}
+
+
+/* Header 2 
+/*h2 {
+    font-size: 18px;
+}*/
+
+
+
+/*p {
+	padding: 0px 0 10px 0;
+}*/
