@@ -10,17 +10,27 @@ Jacob M. Montgomery and Erin L. Rossiter.  ["So Many Questions, So Little Time: 
 
 - [`catSurv`](https://cran.r-project.org/package=catSurv) --- R package on CRAN that implements methods of computerized adaptive testing for real-time survey administration using compiled C++ code.
 
+<br>
 
 ### Under review
 
-Erin L. Rossiter.  ["Measuring Agenda Setting Power in Interactive Political Communications."](files/agenda_setting.pdf)
+Erin L. Rossiter.  ["Measuring Agenda Setting in Interactive Political Communications."](files/agenda_setting.pdf)
+
+- [Appendix](files/agenda_setting_appendix.pdf)
 
 
 Jacob M. Montgomery and Erin L. Rossiter.  *Adaptive Inventories: A Practical Guide for Applied Researchers*. Book project.
 
 - [Project website](https://catsurv.com/)
 
+<br>
 
-### In progress
+### Working Papers
 
-Erin L. Rossiter. "When Does Interparty Conversation Harm or Heal Affective Polarization?"
+Erin L. Rossiter. ["The Consequences of Interparty Conversation on Outparty Affect and Stereotypes."](files/conversations.pdf)
+
+<br>
+
+### In Progress
+
+Ryden Butler, JBrandon Duck-Mayr, David R. Miller, and Erin L. Rossiter.  Judges' Views on Presidential Power and Promotion to the U.S. Supreme Court.

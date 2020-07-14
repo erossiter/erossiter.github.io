@@ -8,6 +8,7 @@ Introduction to Python (Summer 2018)
 
 - [Teaching materials](https://github.com/erossiter/pythoncourse2018)
 
+<br>
 
 ### Teaching Assistant
 
