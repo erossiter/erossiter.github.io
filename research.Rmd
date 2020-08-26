@@ -2,35 +2,48 @@
 title: "Research"
 ---
 
-### Publication
+### Publications
 
-Jacob M. Montgomery and Erin L. Rossiter.  ["So Many Questions, So Little Time: Adaptive Personality Inventories for Survey Research."](https://doi.org/10.1093/jssam/smz027) *Journal of Survey Statistics and Methodology*.
+Jacob M. Montgomery and Erin L. Rossiter. Forthcoming. "So Many Questions, So Little Time: Adaptive Personality Inventories for Survey Research." *Journal of Survey Statistics and Methodology*.
+<details><summary>Abstract</summary>
+One of the most difficult tasks facing survey researchers is balancing the imperative to keep surveys short with the need to measure important concepts accurately. Not only are long batteries prohibitively expensive but lengthy surveys can also lead to less informative answers from respondents. Yet, scholars often wish to measure traits that require a multi-item battery. To resolve these contradicting constraints, we propose the use of adaptive inventories. This approach uses computerized adaptive testing methods to minimize the number of questions each respondent must answer while maximizing the accuracy of the resulting measurement. We provide evidence supporting the utility of adaptive inventories through an empirically informed simulation study, an experimental study, and a detailed case study using data from the 2016 American National Election Study (ANES) Pilot. The simulation and experiment illustrate the superior performance of adaptive inventories relative to fixed-reduced batteries in terms of precision and accuracy. The ANES analysis serves as an illustration of how adaptive inventories can be developed and fielded and also validates an adaptive inventory with a nationally representative sample. Critically, we provide extensive software tools that allow researchers to incorporate adaptive inventories into their own surveys.
+</details> 
 
-- [Replication files](https://doi.org/10.7910/DVN/BRJAPZ)
-
-- [`catSurv`](https://cran.r-project.org/package=catSurv) --- R package on CRAN that implements methods of computerized adaptive testing for real-time survey administration using compiled C++ code.
-
-<br>
+[Paper](https://doi.org/10.1093/jssam/smz027) | [Replication files](https://doi.org/10.7910/DVN/BRJAPZ) | [`catSurv` software](https://cran.r-project.org/package=catSurv)
 
 ### Under review
 
-Erin L. Rossiter.  ["Measuring Agenda Setting in Interactive Political Communications."](files/agenda_setting.pdf)
+Measuring Agenda Setting in Interactive Political Communications.
+<details><summary>Abstract</summary>
+While strategies exist to measure actors’ efforts to set policy, media, and lawmaking agendas, political scientists lack a method for identifying and accurately measuring another form of agenda setting that lies under the surface anytime two people talk. Within interactions, such as debates, deliberations, and discussions, actors can set the agenda by shifting others’ attention to their preferred topics. In this article, I use a topic model that locates where topic shifts occur within an interaction in order to measure the relative agenda-setting power of actors (Nguyen et al. 2014). Validation exercises show that the model accurately identifies topic shifts and infers coherent topics. Three empirical applications also validate the agenda-setting measure within different political settings: US presidential debates, in-person deliberations, and online discussions. These applications show that successfully setting the agenda can shape an interaction’s outcomes, demonstrating the importance of continued research on this form of agenda setting.
+</details> 
 
-- [Appendix](files/agenda_setting_appendix.pdf)
+[Paper](files/agenda_setting.pdf) | [Appendix](files/agenda_setting_appendix.pdf)
 
 
-Jacob M. Montgomery and Erin L. Rossiter.  *Adaptive Inventories: A Practical Guide for Applied Researchers*. Book project.
+*Adaptive Inventories: A Practical Guide for Applied Researchers*. Book project under contract with *Cambridge University Press*. (with Jacob M. Montgomery)
+<details><summary>About</summary>
+We provide a detailed introduction to adaptive inventories, a method
+that can help survey researchers measure important latent traits or attitudes accurately
+while minimizing the number of survey items a respondents must answer. In addition to a theoretical overview of the method, we provide a suite of tools and tricks for
+integrating it into the normal survey process.
+</details>
+[Project website](https://catsurv.com/)
 
-- [Project website](https://catsurv.com/)
 
-<br>
+### Working papers
 
-### Working Papers
+The Consequences of Interparty Conversation on Outparty Affect and Stereotypes.
+<details><summary>Abstract</summary>
+Americans increasingly dislike members of the opposite political party and associate negative trait stereotypes with them such as close-minded, mean, and hypocritical. Nevertheless, media, politicians, and nonprofits promote conversation with opposing party members as a remedy to America’s non-ideological divide. How do conversations that cross party lines impact the negative feelings and perceptions Americans hold for opposing party members? How might the consequences of conversations that touch on politics differ from those that do not? I assess the effect of interparty conversation on how partisans feel and think about the outparty using an experiment that manipulates whether a pair of opposing party members engage in conversation or not, and if so, whether they discuss a political or non-political topic. This experiment takes two novel approaches. First, I develop an algorithm to implement a blocked cluster design in settings where the researcher controls what clusters (e.g., conversations) form. Second, I develop a chat software so participants can have real-time, written conversations online. I find that conversation mitigates negative outparty affect and deters future use of negative stereotypes to
+describe the outparty. This positive effect holds for both non-political and political conversations. Surprisingly, I do not find evidence to suggest that talking politics is any less effective than avoiding overtly political topics for improving a partisan’s negative view of the outparty. These results provide new evidence that interparty conversation, whether politically-charged or not, can work to undo the negative view of outparty members held by many Americans.
+</details>
 
-Erin L. Rossiter. ["The Consequences of Interparty Conversation on Outparty Affect and Stereotypes."](files/conversations.pdf)
+[Paper](files/conversations.pdf)
 
-<br>
 
-### In Progress
+### In progress
 
-Ryden Butler, JBrandon Duck-Mayr, David R. Miller, and Erin L. Rossiter.  Judges' Views on Presidential Power and Promotion to the U.S. Supreme Court.
+Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.
+
+Judges' Views on Presidential Power and Promotion to the U.S. Supreme Court. (with Ryden Butler, JBrandon Duck-Mayr, and David R. Miller)
