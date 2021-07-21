@@ -7,12 +7,12 @@ library(fontawesome)
 ```
 
 
-Washington University in St. Louis\
+University of Notre Dame\
 Department of Political Science\
-Seigle Hall 277\
-St. Louis, Missouri 63130\
+2077 Jenkins Nanovic Halls\
+Notre Dame, IN 46556\
 \
-`r fa("envelope")` [erinrossiter@wustl.edu](mailto:erinrossiter@wustl.edu)\
+`r fa("envelope")` [erossite@nd.edu](mailto:erossite@nd.edu)\
 `r fa("github")` [erossiter](https://github.com/erossiter)\
 
 

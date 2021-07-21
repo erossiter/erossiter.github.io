@@ -7,6 +7,8 @@ As a instructor and section-leading teaching assistant at Washington University 
 
 ### Instructor
 
+- Social Influence in Politics (Spring 2021, Undergraduate)
+
 - Introduction to Python (Summer 2018, Graduate, [Materials](https://github.com/erossiter/pythoncourse2018))
 
 

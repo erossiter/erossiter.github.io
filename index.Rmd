@@ -10,7 +10,4 @@ knitr::include_graphics("images/pic.jpg")
 ```
 
 
-
-I am a Ph.D. candidate in the Department of Political Science and an A.M. in Statistics student in the Department of Mathematics and Statistics at Washington University in St. Louis.  I broadly study political methodology, American political behavior, and political communication.  You can find my CV [here](cv.html).
-
-My dissertation evaluates how conversations that cross party lines might reinforce or mitigate the animosity partisans hold toward members of the opposite political party. To study these questions, I apply and develop text-as-data and experimental methods suited for settings when people interact with each other. My dissertation work is funded by a National Science Foundation Doctoral Dissertation Research Improvement Grant.
+I am an Assistant Professor of Political Science at University of Notre Dame. I broadly study the dynamics of interpersonal political communications and the consequences such communications have for American political behavior, with a specific interest in political discussion and polarization. My research agenda also involves advancing quantitative methodologies, namely text-as-data and experimental methods, for settings involving interpersonal communication. My current work experimentally examines the consequences of conversations that cross partisan lines on how Americans feel about opposing party members. Before coming to Notre Dame, I earned a Ph.D. in Political Science at Washington University in St. Louis and a B.A. in Political Science & English at Creighton University
