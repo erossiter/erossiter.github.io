@@ -25,7 +25,8 @@ Measuring Agenda Setting in Interactive Political Communication. *American Journ
 The Consequences of Interparty Conversation on Outparty Affect and Stereotypes.\
 [Paper](files/conversations.pdf)
 
-Electoral Threat and the Impact of Interparty Contact on Affective Polarization. (with Taylor N. Carlson)
+Electoral Threat and the Impact of Interparty Contact on Affective Polarization. (with Taylor N. Carlson)\
+[Paper](files/rossiter_carlson_threat_contact_letter.pdf) | [Appendix](files/rossiter_carlson_threat_contact_appendix.pdf)
 
 Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.
 
