@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1508_A_b",
+	"argument" : "He is not the best President, however, there is years of history we cannot blame him for. He has done some good, however, has hurt when it comes to taking incomes such as eBay, Venmo etc"
+}

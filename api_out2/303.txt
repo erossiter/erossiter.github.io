@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1009_B_b",
+	"argument" : "Biden has done a horrible job in office so far. His decisions have made no sense, he can barely speak a whole sentence, and the gas prices are through the roof."
+}

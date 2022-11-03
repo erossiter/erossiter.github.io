@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1622_A_g",
+	"argument" : "I think people have the right to have guns, but with some restrictions so not everyone can get one willy nilly. I grew up hunting and they're dangerous things, but I definitely wouldn't want to go without one."
+}

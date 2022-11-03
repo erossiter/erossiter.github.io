@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1145_B_g",
+	"argument" : "The Second Amendment served a purpose at the time of its creation. When the 2nd amendment was passed, the U.S. had only recently entered a state of relative peace and this amendment was passed with the intent that citizens should be armed in case they needed to defend themselves against their own government, it was a direct byproduct of the revolutionary war. In this day and age, there is absolutely no reason why citizens need to have guns. There is no threat of a government attack and the 2nd amendment is a relic that needs to be done away with. Especially given the number of school shootings and mass shootings in general, it is embarrassing that the U.S. has yet to address this crisis."
+}

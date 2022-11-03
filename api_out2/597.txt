@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1194_A_g",
+	"argument" : "Gun control is an essential requirement for making America safer. We continue to see countless shootings that are heartbreaking. I have a little brother whose life I worry about every day he goes to school. We need stricter laws regarding being able to buy a gun, such as mental health screenings, classes, and requirements for gun storage."
+}

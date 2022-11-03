@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1236_A_g",
+	"argument" : "I believe that gun control laws should be in place, but should not be so restrictive. The gun control laws we have today are good and fair and align with the rights given by the Constitution."
+}

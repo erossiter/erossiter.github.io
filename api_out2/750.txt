@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1436_A_g",
+	"argument" : "Politicians should not be attempting to control people's access to guns. It is our first amendment right to own guns."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1180_A_i",
+	"argument" : "The United States should adopt more inclusive immigration policy. Immigrants significantly contribute to the US economy, and their contributions should be appreciated and encouraged in the US with more lenient immigration policy. Furthermore, immigrants should have a more easy transition to citizenship once they have entered the country."
+}

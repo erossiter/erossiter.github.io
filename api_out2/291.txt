@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1448_A_b",
+	"argument" : "Biden's performance in office so far has been about as bad as it could be. Gas is at an all-time high since 2014, inflation is skyrocketing, the administration pulled out of Afghanistan with zero plan leaving billions in the hands of the Taliban and Americans dead, stopped the Keystone XL hurting America's energy independence and thousands of jobs, has been a massive increase of illegal border crossings, American cities are seeing a significant increase in violent crime as well. Just about everything his administration has touched is worse off. The new polling numbers speak for themselves."
+}

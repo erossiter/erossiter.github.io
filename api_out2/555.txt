@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1460_A_g",
+	"argument" : "Our second amendment right states the people of the United States have the right to keep and bear arms. The further interference of the government into the lives of the people will only disrupt our nation’s natural order. The first ten amendments of the Constitution are our countries core ideologies and should not be changed. They are the undeniable rights of all American citizens."
+}

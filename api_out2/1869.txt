@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1377_B_r",
+	"argument" : "Religion has played a large role in my life my whole life. I grew up in the South and attended Catholic school from kindergarten until senior year of high school. I used to go to church every Sunday with my family. I attended religion class every year of my life. When I got to college and was on my own for the first time, my religious experience changed drastically. I was exposed to so many people that came from drastically different religious backgrounds than myself. Now, my religious beliefs and my religious perspective has changed a lot and I no longer associate religiously anymore."
+}

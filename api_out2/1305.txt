@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1068_A_i",
+	"argument" : "I believe that the barriers to entry for immigrants into America are unfavorable towards immigration, however, it is crucial that we ensure that the immigrants we legally recognize complete the process to its entirety (although as earlier stated it should be modified)"
+}

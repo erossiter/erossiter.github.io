@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1383_B_g",
+	"argument" : "Gun control is a huge problem in the United States and there need to be fewer firearms available to the general public. As it stands currently the ease of access to powerful and deadly firearms is too high and it creates more opportunities for those who wish to harm to do so."
+}

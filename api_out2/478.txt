@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1002_A_g",
+	"argument" : "I think that guns have been used in horrible ways and something needs to be done about that. We must be doing more to prevent school shootings and that should be of the highest urgency. However, completely banning guns may not be the best way to do this because people who have evil intentions are likely to still get access to guns and other weapons, and if we ban guns for the rest of the population, we prevent them from having the ability to protect themselves from real threats (ie. sexual predators, etc). "
+}

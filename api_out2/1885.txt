@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1044_A_r",
+	"argument" : "I grew up in church and the things I learned as a child and adolescent are always a part of my decision and thinking process.  It does no dominate my day or my decisions.  I unconsciously am always thinking about what is right and wrong and how to treat others."
+}

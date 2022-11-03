@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1087_B_g",
+	"argument" : "I do not think that we have enough laws regarding gun control. Gun safety is a rapidly growing issue in our country and the government needs to do something to make getting a gun harder and limiting the spaces in which you can legally carry one."
+}

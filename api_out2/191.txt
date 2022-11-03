@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1180_A_b",
+	"argument" : "Although I believe that President Biden has made mistakes so far in his presidency, I believe that he has been much more successful in office than his predecessor. Biden responded well to the COVID pandemic with vaccine mandates to stop the spread of the virus. Biden could be doing more to achieve more wealth and social equality, but his performance is a significant improvement from that of President Trump."
+}

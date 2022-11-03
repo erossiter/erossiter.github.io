@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1296_A_r",
+	"argument" : "Religion plays a very little role in my life and I agree more in science as fact than religion, religion shouldn’t guide policy decisions and doesn’t have a role in government and in our political institutions. We should listen purely to science when making decisions, especially about climate change. "
+}

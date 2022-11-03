@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1385_B_h",
+	"argument" : "I've always been interested in astronomy, astrology, and greek/roman mythology and how they're all interconnected in some way, shape, or form. I'm also someone who loves video games (Pokemon, Valorant, Minecraft, Mario Kart, and Overwatch to name a few). Whenever I'm not feeling too lazy, I like to bake different treats like cookies, brownies, cakes, etc. I've also tried to take up knitting as a hobby, but I lowkey suck at it. Also, I love listening to most genres of music, except country (all they talk about is wiskey, women, farms, and pickup trucks in my opinion.) However, I like pop country-ish artists like Taylor Swift, Dan + Shay, Florida Georgia Line, Nelly, and Carrie Underwood. As for other genres, I mainly listen to Ariana Grande, Kendrick Lamar, Playboi Carti, Lil Uzi, Juice WRLD, Megan thee Stallion, The Weeknd, Ella Mae, Kehlani, H.E.R., Thuy, and Chase Atlantic. "
+}

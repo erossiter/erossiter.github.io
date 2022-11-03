@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1244_A_r",
+	"argument" : "Religion does not play a big role in my life. Occasionally I will go to service but usually not regularly. I try to keep religion from influencing my political views and stances."
+}

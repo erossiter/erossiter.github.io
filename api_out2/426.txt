@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1439_B_g",
+	"argument" : "I think we need more strict gun control laws because of recent events that have been ongoing in the United States, with multiple school shootings and mass murders. I think background checks should make it difficult to get a weapon that can end, or damage, someone's life. "
+}

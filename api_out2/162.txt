@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1514_A_b",
+	"argument" : "President Biden has done a poor job in office so far for multiple reasons. Firstly, inflation and the economy are terrible. Secondly, unemployment is on the rise. Thirdly, Ukraine. Fourthly, crime is on the rise. Fifthly, he has mentioned plans to legalize weed. Sixthly, he has been repeatedly embarrassing the United States during press conferences and speeches. He is failing both domestically and abroad."
+}

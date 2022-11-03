@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1296_A_i",
+	"argument" : "I believe there shouldn’t be any restrictions on immigration, as it is undemocratic to ban people from entering the country and improving the economy through diversifying our workforce and general population. "
+}

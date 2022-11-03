@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1364_A_i",
+	"argument" : "Immigration is really beneficial to the United States. They bring diverse perspectives and add to the US culture. Furthermore, immigrants have a significant impact on the economy. They typically work jobs that American workers do not desire and that the economy depends on."
+}

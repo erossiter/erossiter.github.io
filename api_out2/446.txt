@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1658_A_g",
+	"argument" : "The Uvalde school shooting highlights the urgent need to implement further gun regulations in America. New gun regulations should include in-depth background checks, social media checks, and raising the minimum age for purchasing a gun to 21. I believe these regulations will provide access to responsible gun users while reducing the possibility of mass shootings. "
+}

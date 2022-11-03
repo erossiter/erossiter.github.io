@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1142_A_b",
+	"argument" : "Terrible, he's Sleepy Joe and has dementia. He caused inflation and that's why our gas is more expensive"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1480_A_g",
+	"argument" : "I want there to be some sort of gun control laws. 18-year-olds cannot buy alcohol until they are 21, but in some states, they can buy semi-automatic weapons the day they turn 18. I also feel like people should not be able to buy semi-automatic weapons in general; if they want to hunt, there are other alternatives, but I do not think we should ban guns altogether."
+}

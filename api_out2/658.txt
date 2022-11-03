@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1259_B_g",
+	"argument" : "I believe guns should be banned altogether. When looking at the number of mass shootings throughout the United States at schools or large gatherings, guns need to be regulated. Guns are too easily accessible to everyone and when guns end up in the wrong hands, people are killed."
+}

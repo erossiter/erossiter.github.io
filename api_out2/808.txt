@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1228_A_h",
+	"argument" : "I grew up in a smaller up and coming affluent neighborhood, with both of my parents and two older siblings. I ran track and played volleyball in middle and high school and became a vegetarian after watching a documentary about eating meat and its harmfulness to the environment. I enjoy all types of music but my favorites are rap and pop, I also enjoy the occasional country. My absolute favorite dish is veggie nachos, however when going out to restaurants I can't complain about a good veggie burger or Caesar salad. I am majoring in political science and hope to do some good in the world with my degree. I will hopefully go to law school and become an immigration lawyer to help those who seek asylum get the help they need and become U.S. citizens. "
+}

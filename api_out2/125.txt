@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1232_A_b",
+	"argument" : "I think he  has been quiet and has not gotten much done. He has remained extremely passive and has failed to deliver on many campaign promises, while taking the side of those who need governmental aid while making no moves to actually provide assistance. He feels like a bystander."
+}

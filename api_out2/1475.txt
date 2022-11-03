@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1417_B_i",
+	"argument" : "Immigration is the backbone of America. Everyone who needs a safe place to live should be allowed to come no matter what. There should be no green cards since they are hard and costly to obtain. Free education should also be given to immigrants. Overall, there should be little to no regulations on immigration."
+}

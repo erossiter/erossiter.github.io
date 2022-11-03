@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1399_B_i",
+	"argument" : "I believe that the US should have immigration that is open to all those who are qualified to enter the US, however, I also believe that currently, we are letting in too many people who are not contributing to the country's economy and are leaching off the system, also I believe we are letting in too many illegal immigrants we need stronger border protection. "
+}

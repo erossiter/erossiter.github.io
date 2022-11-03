@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1693_B_g",
+	"argument" : "As recent tragedies have shown, current gun laws are not strict enough in America. Assault weapons are more accessible than abortions and affordable healthcare in America. Reform is desperately needed to protect our citizens. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1088_A_g",
+	"argument" : "Gun control limits the lawful expression that every American citizen has to the Second Amendment. Gun control doesn't deter people from violence; rather, it only prohibits law-abiding citizens from enacting their Constitutionally given rights. Gun control is unconstitutional and shouldn't be enacted."
+}

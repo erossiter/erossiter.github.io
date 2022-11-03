@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1698_A_b",
+	"argument" : "I believe that President Biden has been one of the worst US Presidents of all time. He constantly demonstrates that he is physically and mentally incapable of holding to the duties of his office, and his policy decisions have been bad for the nation overall. Gas and inflation have been through the roof, and the nation hasn't been this divided since the Civil War. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1004_A_b",
+	"argument" : "President Biden is not performing well in the position of office. So far, he has caused inflation rates to skyrocket leaving the prices of goods extremely high, especially gas prices. He has made a number of promises he has yet to fulfill, filling the American population with false hope for his own benefit. "
+}

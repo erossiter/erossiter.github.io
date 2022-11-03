@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1705_B_b",
+	"argument" : "I think President Biden is your very average president. Most of what he has done thus far is reversing the actions of President Trump, but he has not significantly contributed to bettering America. "
+}

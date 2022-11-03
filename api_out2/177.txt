@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1701_B_b",
+	"argument" : "President Biden has clearly been an ineffective leader. He's had two years in office and gas prices and unemployment are still high. He promised economic recovery from the COVID-spurred recession, yet no real change has occurred. Everyday, hard-working Americans still pay overinflated prices for gas, which is crippling the labor force. He needs to do more. "
+}

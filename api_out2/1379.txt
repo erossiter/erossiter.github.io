@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1583_B_i",
+	"argument" : "Immigration policy is very tricky. The US should allow people to come in to our country, but I believe that they need to go through a vetted process before coming in, especially before gaining citizenship. Many people are coming over and free-riding on things that citizens are actively working and paying for, and that is not always fair. Because of this, I believe the restrictions on immigration need to be tighter."
+}

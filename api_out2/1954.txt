@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1360_A_r",
+	"argument" : "Religion was very prevalent in my life growing up. Both of my parents are strong Christians and emphasized the importance of prayer and building a relationship with God. Since getting to college, I have not had as much time and no mom nagging me to go to church, so I have not been as surrounded by religion as I used to be, though I would still consider myself a Christian. "
+}

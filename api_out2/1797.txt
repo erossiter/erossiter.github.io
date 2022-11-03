@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1128_A_r",
+	"argument" : "I feel that there are many ways in which religion harms people in terms of mandating who their able to marry (same-sex marriages), what their able to wear, certain discriminatory behavior that shouldn't be excused even if it stems from their religion (ie some use the bible to justify certain actions and beliefs that are rather perverse.) But! I also whole-heartedly believe in the power of religion in that it offers certain guidance and hope in life when people need it--  giving people a sense of belonging and providing an important source of social support. "
+}

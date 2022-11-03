@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1629_B_g",
+	"argument" : "While we need common sense gun control laws the answer is not to outright ban assault rifles. The only thing that stops a bad person with a gun is a good person. What we need to do is have more gun education that teaches people how to safely operate them. By banning guns you leave criminals the ability to run rampant with firearms in the streets."
+}

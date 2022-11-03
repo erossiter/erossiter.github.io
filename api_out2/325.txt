@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1170_A_b",
+	"argument" : "Biden has not done much at all. He is too liberal with the policy that he has passed and has given out too much welfare and inflation has done nothing but go up."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1303_B_g",
+	"argument" : "I believe that gun control is one of the biggest issues facing our country today. The number of shootings seems to go up every year to the point that I am scared to leave my house. To me, it does not even seem like an issue with two sides. If you do not care about gun regulation, you are basically saying that you do not care about people around you in your community being shot. "
+}

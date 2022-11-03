@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1101_B_g",
+	"argument" : "I believe that assault weapons should be banned entirely. The United States is no longer an agrarian and rural society and, as a result of this reality, we should shift our policies on guns to reflect modern America as it is mostly urban and densely populated."
+}

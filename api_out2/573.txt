@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1687_B_g",
+	"argument" : "The media's exaggeration of gun-related deaths has led people to blame guns for problems in our society. Guns are not the problem. Police need guns to defend us and we need guns to protect ourselves from harm. I don't know about you, but I'd rather not die from a stabbing wound like they do in Europe where guns are banned. Rather than restrict gun use, we should arm teachers with weapons and heighten public knowledge on how to use guns properly. "
+}

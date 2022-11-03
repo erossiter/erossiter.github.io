@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1078_A_i",
+	"argument" : "I believe that our country should be a safe space for people trying to build better lives for themselves. We have made an impossible system for immigrants to receive citizenship and then discard them when they don't fulfill our expectations."
+}

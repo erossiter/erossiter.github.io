@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1369_B_g",
+	"argument" : "I believe that gun control laws should continue to be mandated the way they are currently. It is a person's right to protect themselves and their family, and the ownership of a gun can be important to that. While I understand the argument of a lot of mass shootings in America are due to a lack of gun control laws, it is the people who do these terrible things who are in the wrong for this."
+}

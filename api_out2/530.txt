@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1271_B_g",
+	"argument" : "I believe gun control laws are an infringement of the rights that belong to the American people. The Second Amendment gives us the ability to own guns ad that shall not be infringed upon. Americans should be permitted to own guns for self defense or hunting, if they choose to do so. "
+}

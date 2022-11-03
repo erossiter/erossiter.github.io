@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1705_B_g",
+	"argument" : "I worked at a gun shop for a couple of years. The majority of individuals who bought guns needed them for legitimate reasons and were intelligent, reliable people (as I knew them). On the other hand, we also had crackheads come into the store and there was no real way to deny them access to firearms. I think something needs to be done, but I don't know what. "
+}

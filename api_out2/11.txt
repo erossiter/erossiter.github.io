@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1155_B_b",
+	"argument" : "President Biden is too much of a centrist and not enough of a true democrat. He stands far too close to the republican viewpoint for my liking."
+}

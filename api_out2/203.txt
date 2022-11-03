@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1267_B_b",
+	"argument" : "President Biden is an incompetent leader who should not serve as the President of the United States. He cannot even remember what he did last week and should be replaced by another leader in the 2024 election."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1461_B_r",
+	"argument" : "Religion plays a limited role in my life. Although the presence of the higher power I believe in serves as motivation and a bright spot in my life, I would never use it as justification for treating others in a way that is morally incorrect. Additionally, I would never force my own religious beliefs upon someone else. "
+}

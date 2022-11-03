@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1052_A_i",
+	"argument" : "I believe if someone wants to come this country and it is not a threat to any of the citizens then they should be able to come to the United States. Immigration laws are usually because of discrimination toward a certain group of people based on their prejudices."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1181_B_r",
+	"argument" : "I was born into a Christian family, and religion has always been part of life. I truly believe that without God, I wouldn't be were I am today. I believe that the Bible is the foundational book in life. It is important that we teach young kids about it in school."
+}

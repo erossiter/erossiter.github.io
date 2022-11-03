@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1323_B_i",
+	"argument" : "I think that immigration policies in the US are not very welcoming at the moment. Given that our nation was founded on immigration, I feel that we should make the process more concise and available to those who desire to be a part of our country. I believe that it should be a process where future citizens show their desire to be here, but not so much so that it limits people who genuinely want to be a part. "
+}

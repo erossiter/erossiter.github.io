@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1265_B_i",
+	"argument" : "I believe that America has a responsibility to take care of our immigrant population, especially the dreamers and other undocumented people. I believe that the border patrol, ICE, and the police are racist towards undocumented people."
+}

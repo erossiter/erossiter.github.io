@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1608_A_g",
+	"argument" : "I feel as though gun control laws are a very sensitive subject. This is because I have two sides to this idea. The first is the thoughts of all of the recent school shootings and violence that go along with guns being allowed. The other side is the amount of friends I have who hunt. In addition, there also is the perspective of those who live alone and for the safety of themselves and their families. "
+}

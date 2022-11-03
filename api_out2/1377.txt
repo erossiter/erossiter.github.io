@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1568_A_i",
+	"argument" : "I think that immigration should be limited. I believe that before someone is granted entrance into the US they should be subject to extensive background checks and other qualifications before they receive citizenship."
+}

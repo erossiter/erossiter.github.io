@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1632_A_i",
+	"argument" : "I think everyone deserves a right to a good life. We should mainly open our borders to refugees and those in need. People should learn that we live on the same planet and it doesn't matter what country we live in."
+}

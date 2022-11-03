@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1396_A_g",
+	"argument" : "I believe that we should have stricter background checks. Furthermore, the legal age to own a gun should be older. Also, no person should be able to have a semi-automatic gun regardless of their reason. The only people that should have semi-automatic guns are the military. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1373_B_i",
+	"argument" : "I believe that immigration can be a positive because it allows people to fulfill the American Dream, but it must be more heavily regulated. Full background checks should be necessary to enter the United States. Otherwise, we run the risk of allowing questionable individuals into our country. "
+}

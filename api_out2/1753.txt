@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1373_B_r",
+	"argument" : "Religion plays a large role in my life. I am a lifelong Christian and attend a college youth group called Young Life. However, I support the separation of church and state, as it was written in our constitution. "
+}

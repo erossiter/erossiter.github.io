@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1524_A_g",
+	"argument" : "The second amendment protects our right to own guns and major infringements on that right are potentially dangerous to the freedom that we have fought so hard for. However, unrestricted access to all firearms is equally dangerous. Background checks and limitations on some incredibly violent types of guns could be put into place, but a complete ban on guns would just put criminals at an advantage, as they'd be the only ones with guns. "
+}

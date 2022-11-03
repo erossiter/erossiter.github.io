@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1530_A_r",
+	"argument" : "I think religion is something that is important, but I don't personally find it very important in my life. I think it is nice that people have something that they can believe in and many religious institutions promote good values, however I don't think you should need religion in order to learn how to treat people. Religion should be a choice people make, not something that is forced upon them, especially when the views of that religion are very harmful to certain groups. I grew up religious but as I became an adult it slowly stopped being a part of my life. "
+}

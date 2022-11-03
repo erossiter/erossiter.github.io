@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1279_B_i",
+	"argument" : "Immigration is what the United States was founded on. Our national identity is actually composed of several sub identities all contributing to one collective one. It is important to accept immigrants, as acting as a place of opportunity and asylum contributes to the diversity and overall strength of our national identity."
+}

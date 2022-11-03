@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1380_A_g",
+	"argument" : "Guns have no place in America's modern society. Our children, brothers, or sisters are losing their lives in school buildings while IRA-benefiting politicians sit complacent and safe in D.C. For a nation that claims to protect life, liberty, and happiness, our government cares very little about the survival of our youth. "
+}

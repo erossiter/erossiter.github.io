@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1460_A_i",
+	"argument" : "Immigrants should only enter our country under the legal immigration system we have in place. Illegal immigrants that cross the border have the opportunity to evade taxes, sell drugs, and take advantage of our healthcare and education systems. To keep our country advantageous and prioritized for true American citizens, there should be a strict immigration policy."
+}

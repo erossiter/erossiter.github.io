@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1286_A_r",
+	"argument" : "Religion does not play a huge role in my life, as I don't consider myself extremely religious. I strongly believe in a separation of church and state, and I think it is upsetting when people use their religion to justify taking away rights from others. "
+}

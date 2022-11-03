@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1015_B_r",
+	"argument" : "Religion is the foundation of ethic system. It tells me what's right from wrong. I like to hang out with people who share the sea religion. I think political candidates are more trustworthy if they have religion."
+}

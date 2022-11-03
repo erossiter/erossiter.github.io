@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1395_B_r",
+	"argument" : "Religion is a very important part of my life. My Christian faith has guided me through many difficult parts of my life and I believe has made me a better person. My generation is more secular than previous generations which makes it harder to be open about my religion in public."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1683_B_b",
+	"argument" : "As of right now, I can say that President Biden is doing a horrendous performance in office so far. The gas prices are the worst that the country has ever seen, and Joe Biden is not doing anything that can solve the issue. Not only does Joe Biden not help with the rising gas prices, but he also is not handling the pandemic in a good manner. Joe Biden has not contributed to the decline of the epidemic but rather increased the fatalities of those who have died from the pandemic. If President Biden was not going to help out the people of the United States, Joe Biden should have allowed President Trump to be the incumbent president that actually won the votes of the people."
+}

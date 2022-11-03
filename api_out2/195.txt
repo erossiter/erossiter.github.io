@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1223_B_b",
+	"argument" : "While I would prefer President Biden over Donald Trump any day of the week, I would trust Vice President Harris over the two. I have not followed Biden's actions in office very closely, but have not seen any drastic or negative changes to social or economic life. "
+}

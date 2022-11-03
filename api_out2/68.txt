@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1051_B_b",
+	"argument" : "While I voted for Biden in the last election, I don't feel that he has accomplished what he said he would do in office. I am a little disappointed in how things are going so far, however, Biden as president was better than the alternative."
+}

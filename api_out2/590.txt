@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1160_A_g",
+	"argument" : "We've seen the effects of not regulating gun sales; mass shootings, murder, etc. We can still amend our mistakes from the past, its time to open our eyes and realize that America should be stricter in the regulation of arms sales."
+}

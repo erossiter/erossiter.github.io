@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1245_B_i",
+	"argument" : "I feel like immigration policy should be less restrictive. I think that the United States should allow more immigrants into the United States because there are humanitarian crises going on in other countries that need help. I also believe immigration can even be beneficial to the economy."
+}

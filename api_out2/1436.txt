@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1508_A_i",
+	"argument" : "I feel as if immigrants should be treated as any other human, as if we are going to deport immigrants it applies to those beyond Latino."
+}

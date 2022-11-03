@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1614_A_r",
+	"argument" : "I have religious family members and friends, but I myself do not practice any form of religion. I respect others decisions and believe they have a right to their beliefs, but the issues I take with religion stem from people forcing their beliefs onto others. Everyone needs to respect others 1st amendment rights, and one should legislate based on their religion. "
+}

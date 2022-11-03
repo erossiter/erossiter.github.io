@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1497_B_b",
+	"argument" : "I don't think that Biden has made enough influential changes while in office. However, his plan for student loan forgiveness was a step in the right direction and will have a positive affect on the MANY people struggling with student debt."
+}

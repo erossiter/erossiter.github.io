@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1343_B_i",
+	"argument" : "Immigration should be more easily accessible. The idea that it takes some people over two decades to be granted citizenship is absurd. We also have this skewed image/idea of immigrants as job stealing humans when in reality they want a better life for themselves and their kids."
+}

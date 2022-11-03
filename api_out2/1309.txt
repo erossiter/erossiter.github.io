@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1234_A_i",
+	"argument" : "It is awful. I am all for those coming over here legally but we should not be giving any aid to those that come over here illegally. They are not U.S. citizens and should not get the same treatment as us."
+}

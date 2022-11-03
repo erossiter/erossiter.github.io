@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1041_B_g",
+	"argument" : "Gun control is a complicated issue, throughout my life I was always around guns; however, when it comes to the safety of schools and public places, I definitely think there needs to be some form of regulation. So long as guns are handled correctly and are in the hands of responsible people, there is no harm in having them. "
+}

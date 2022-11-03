@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1042_A_r",
+	"argument" : "Religion is fundamental to who I am as a person. It guides my thoughts and actions and shapes my morals for the world around me. I'm not able to go to Church every week like I want to, but I have a strong relationship with God and pray to him when I need guidance."
+}

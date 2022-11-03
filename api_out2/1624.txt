@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1393_B_r",
+	"argument" : "Religion plays a decent role in my life but it does not influence how I perceive the world. My religion encourages me to help others and to give to those that have lesser than I do."
+}

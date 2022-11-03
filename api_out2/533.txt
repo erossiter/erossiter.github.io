@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1302_A_g",
+	"argument" : "I believe that gun control should not be stricter than it is. This is our homeland we're protecting and how are we gonna protect our family and land, if we cannot have guns. You gotta be a man for yourself, if someone runs onto my property with a gun, I cannot wait for police to come, I gotta fight on my own"
+}

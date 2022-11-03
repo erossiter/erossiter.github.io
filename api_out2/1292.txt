@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1419_B_i",
+	"argument" : "I think that the immigration policy is far too strict. It should not be so difficult for people who come to the United States seeking jobs, etc. to enter our country. I feel like immigrants are often discriminated against for no reason other than the fact that they weren't born in the United States."
+}

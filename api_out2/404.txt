@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1213_B_g",
+	"argument" : "I think that guns should be restricted with better back round checks. I also believe that all assault rifles like AR-15s should be banned in the United States. There should be constant check ups on gun owners and bump stocks should be banned."
+}

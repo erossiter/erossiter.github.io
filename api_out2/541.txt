@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1355_B_g",
+	"argument" : "My opinion on gun control laws is simple, its a constitutionally protected right for a U.S. citizen to bear arms. Not only for protection against domestic affairs but also foreign if the time ever came."
+}

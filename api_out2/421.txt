@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1364_A_g",
+	"argument" : "I believe that the second amendment should remain and the right to bear arms should be protected. The militarized police and the federal government should not have the sole ability to possess weapons because the proletariat needs to be able to defend itself from government tyranny. While guns pose a significant problem in mass shootings, this can be addressed by improving background checks and providing universal healthcare (to provide mental health care).  "
+}

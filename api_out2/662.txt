@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1326_A_g",
+	"argument" : "I believe in an assault weapon ban. Regular citizens should not be allowed to own automatic weapons that the military uses. The second amendment was written over two hundred years ago."
+}

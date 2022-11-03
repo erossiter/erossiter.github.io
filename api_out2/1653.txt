@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1658_A_r",
+	"argument" : "I definitely believe there is a higher power, but I disagree with some of the more conservative beliefs of religious people. For example, I think abortion should be legal. Could it be immoral? Maybe, but that doesn't remove the fact that we have the right to bodily autonomy."
+}

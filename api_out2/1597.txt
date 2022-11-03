@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1140_A_r",
+	"argument" : "I'm not very religious. I was raised Jewish growing up and went to temple with my parents for holidays and other occasions but never regularly. Since my dad is catholic, it was never instilled in me that my religion was more important than other values. While I still identify as a jew, I wouldn't say religion plays an important role in my life. It's more of something I choose to partake in when I have time. "
+}

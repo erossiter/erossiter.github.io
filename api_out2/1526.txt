@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1027_B_i",
+	"argument" : "I believe in stricter immigration policy in the United States. This is because I believe that America is a better place without immigrants trying to smuggle drugs and take everything that is good (since America is the best country in the world). I have been able to make a good living for myself with what I was born with, so why can't they work hard and make a living for themselves where they are from?!"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1287_B_b",
+	"argument" : "I think Biden's time in office has been very successful in certain areas. He has done many things to reform the social welfare of our state such as improving health care for veterans, signing the inflation reduction act, and reducing the loans for college education. Not only has he helped in welfare, but he has worked endlessly to protect the citizens of the United States through ending the war in Afghanistan, reducing gun violence, and working on the American Rescue Plan to help spread COVID-19 vaccines and re-opening schools. Overall Biden has worked tirelessly to provide for Americans whether that be through providing health care for those in need or standing up for minorities through making sure they are given equal opportunities."
+}

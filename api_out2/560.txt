@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1495_B_g",
+	"argument" : "I believe that gun control laws violate the Constitution and the rights of American citizens. We have the right to purchase, own and use guns without regulation to protect ourselves."
+}

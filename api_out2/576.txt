@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1701_B_g",
+	"argument" : "The right to bear arms is protected in the Constitution, and guns are necessary for hunting, for self-defense, and for ensuring safety in my home. Gun control laws will restrict my rights and that is when the government goes too far."
+}

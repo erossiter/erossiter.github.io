@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1540_A_r",
+	"argument" : "Religion does not play a huge role in my life. While my grandparents were religious and I went to church once or twice when I was younger, neither my family nor I are religious. I have no problems with religious friends, but do think that religion often plays to much a role in politics and that certain religions should not have the power they do over the country as a whole."
+}

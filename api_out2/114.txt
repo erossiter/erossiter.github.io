@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1079_B_b",
+	"argument" : "Biden's performance in office has been poor so far. He has spent way too much money on useless plans, and was unable to control the pandemic effectively. He has also destroyed the US position in foreign policy with his withdraw of troops from Afghanistan."
+}

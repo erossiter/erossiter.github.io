@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1601_B_g",
+	"argument" : "I believe that gun violence needs to be reduced by doing things such as enforcing background checks for purchasing of guns and banning assault style weapons in order to have guns be more difficult to obtain by just anyone who does not go through the necessary precautions."
+}

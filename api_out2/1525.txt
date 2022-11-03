@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1021_B_i",
+	"argument" : "I feel as if immigrants should only be allowed to come into the country legally. The U.S needs to have stronger border protection policies. Many illegal aliens come into this country and bring drugs and crime with them. It is our nations job to protect its people from these illegal aliens."
+}

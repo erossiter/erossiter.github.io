@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1387_B_i",
+	"argument" : "America is built upon immigrants and the influx of culture they bring into this nation. We pride ourselves on being a melting pot of cultures, beliefs, and ideals. The American Dream is dying with each limitation we place on people's ability to gain access to our nation. Politicians who demonize and ostracize immigrants further divide this nation with each outdated and uninformed ban they set in place. In order for America to continue to move in a progressive direction, we need fewer restrictions on immigration."
+}

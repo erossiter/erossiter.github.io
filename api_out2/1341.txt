@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1169_B_i",
+	"argument" : "I think that anybody who wants to come to the United States should be allowed to do so, they just need to come here legally, and have extensive background checks completed to make sure that they are not dangerous individuals. Once they are here they need to work a job and pay taxes if they want to stay."
+}

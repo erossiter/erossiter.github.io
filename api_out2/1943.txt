@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1236_A_r",
+	"argument" : "Religion plays a large role in my life and greatly influences my political beliefs. I try to align how I act and how I think based on the foundations of my religion."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1325_B_i",
+	"argument" : "I believe we need stronger immigration policy in the United States to prevent illegal immigrants from crossing the border into the US. I believe we should construct a wall along the southern border."
+}

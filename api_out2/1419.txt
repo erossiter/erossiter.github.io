@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1383_B_i",
+	"argument" : "I believe there should be opportunities for people who wish to immigrate to the United States to come and earn a living and find the life they are looking for. The United States is very diverse, and many people should be welcome to come and help improve not only their own lives but the well being of the country. "
+}

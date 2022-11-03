@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1030_A_b",
+	"argument" : "I think President Biden has performed very well given the state of the country he was left with. He has tried to help with education, the economy, and has overall demonstrated a strong interest in helping the country."
+}

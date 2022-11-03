@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1570_A_b",
+	"argument" : "I think Joe Biden is the doing a great job. He is rebuilding what President Trump ruined and is enacting a lot of liberal policies that I wish was supported by more of our congress."
+}

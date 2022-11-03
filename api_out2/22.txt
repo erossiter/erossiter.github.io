@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1245_B_b",
+	"argument" : "Biden's performance in office has been great although contrary to what others believe. He came into office when there was a pandemic and had to face the repercussions of that. However, he has tried to implement reforms and boost the economy, which has not worked very much in his favor, although some of it is not directly his fault or out of his hands."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1426_A_g",
+	"argument" : "I believe that their should be stricter gun control laws. There are too many accidents that happenn with guns that put people in dangerous situations everyday. It is better to be safe than sorry."
+}

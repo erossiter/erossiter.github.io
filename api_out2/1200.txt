@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1076_A_i",
+	"argument" : "i believe that immigration policies in the US are not as effective as they could be - i support immigration and think migrants should have a fair chance at entering the country and be supported instead of deported"
+}

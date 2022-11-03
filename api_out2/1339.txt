@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1144_A_i",
+	"argument" : "Immigrants must earn their place in this country! I think there needs to be restrictions in place to protect our resources and country security"
+}

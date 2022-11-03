@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1543_B_g",
+	"argument" : "I strongly believe that restrictions should be put in place to restrict who has access to guns and in what capacity. There should be thorough background checks, gun registration, and overall more accountability for gun owners. More training for those who do carry guns would be increasingly beneficial. This would help decrease some of the gun violence seen in our country. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1122_A_r",
+	"argument" : "Religion plays a role in my life but it is not the sole factor that I use to make rational decisions as a citizen. I am able to separate church and state."
+}

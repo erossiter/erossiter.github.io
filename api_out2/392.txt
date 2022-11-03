@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1119_B_g",
+	"argument" : "'- increased gun control  - there should be a set age for buying a gun (24+), and you should need a warrant.  - people should not be allowed to have a gun on them in public, or in their car.  - People who are trying to buy guns should have to undergo background checks before buying the firearm.  "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1571_B_i",
+	"argument" : "I believe immigrants are no different from citizens; they are simply trying to find a way to survive and thrive under the basic principles of life, liberty, and the pursuit of happiness that our nation claims to follow. We should have much looser immigration policies to allow more immigrants to come in, as they contribute an essential diversity to our society that we might not otherwise have. Claims that they drag down our economy or steal jobs are untrue and have been proven wrong in multiple research studies. They stem from rampant xenophobia and a moral crisis that was fabricated in the last few decades by politicians and pundits in order to further their own careers by garnering support."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1278_A_g",
+	"argument" : "Gun control laws are necessary in our society. There is an imminent need for such laws to protect children and the overall public. Some examples of gun control laws include the banning of military-style rifles for public use, a mandatory multiple-day waiting period and background check before purchasing of guns, and adequate training. "
+}

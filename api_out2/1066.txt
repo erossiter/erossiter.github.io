@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1655_B_h",
+	"argument" : "I enjoy being politically active and campaigning for the rights of the LGBTQ+ community. I also enjoy swimming and other activities that allow me to stay in shape. From time to time, I have been involved in the local school board in order to advocate for a more inclusive classroom. "
+}

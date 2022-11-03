@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1555_B_b",
+	"argument" : "I do not think he has accomplished much in his term. He has spent most of his time in office focusing on ideas that I do not believe in including things like COVID relief and work towards gun laws."
+}

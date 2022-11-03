@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1665_B_i",
+	"argument" : "I think immigration could sometimes be a good thing to boost our economy in the United States. However, I believe that immigration should only be supported by certain countries that support economic growth like countries in Europe. Immigration should be very limited to countries that do not benefit us at all. For example, Mexico because allowing Mexicans in the United States does not benefit us at all."
+}

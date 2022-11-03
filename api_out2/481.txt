@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1057_B_g",
+	"argument" : "A lot of gun control laws that the Democrats are trying to push are unnecessary because people who follow gun control legislation are law-abiding citizens. Gun control laws are aimed at preventing criminals or ill-intended people from legally purchasing firearms, but in the end, they hurt average citizens. A criminal will find a way to get his hands on a gun regardless, so why make it harder for normal citizens to get a gun to defend themselves?"
+}

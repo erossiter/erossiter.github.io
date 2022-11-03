@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1406_A_g",
+	"argument" : "Gun control is a violation of our second amendment rights. There should not be any sort of gun control laws."
+}

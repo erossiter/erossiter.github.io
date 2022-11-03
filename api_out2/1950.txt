@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1335_B_r",
+	"argument" : "Religion has played a much larger role in the beginning of my life than in the current stages of my life. My family is Catholic so we would go to church every Sunday morning when I was younger. I was confirmed when I was in high school and it was a really exciting and big step for my faith. However, in recent times I haven't been practicing as much as I would like to. I don't go to mass as regularly as I once did, usually only when I am back home on the weekends around once a month. And I'm not interested in prayer groups around campus as I find my faith to be personal and I don't like sharing it. Sometimes I'll have to remind myself to pray at night before bed or before eating, so as of now, religion is not the largest part of my life."
+}

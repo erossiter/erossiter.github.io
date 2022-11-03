@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1466_A_g",
+	"argument" : "Guns are one of the founding pieces of this nation. I believe control is needed, however, we must ensure that our liberties are not stripped from us from an overly liberal legislation."
+}

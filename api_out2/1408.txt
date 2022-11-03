@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1267_B_i",
+	"argument" : "Every person who seeks to immigrate to this country has a right to become an American. The idea of an illegal person is immoral and dehumanizes those from other countries. Immigration should not be punished in a legal setting, under any circumstances."
+}

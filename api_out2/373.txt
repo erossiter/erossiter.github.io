@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1670_A_b",
+	"argument" : "Biden is not doing a good job at unifying the country; for example, he is intentionally vetoing Republican policies. He is also not handling the economy well; for example, the issues with inflation getting higher."
+}

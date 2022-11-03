@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1187_B_i",
+	"argument" : "Our immigration policy needs serious reform. Currently, ICE and our border patrol has been committing human rights violations against people crossing our Southern border. Additionally, as a wealthy and well-established democracy, we should be opening our borders to asylum-seeking and displaced peoples to offer them support. "
+}

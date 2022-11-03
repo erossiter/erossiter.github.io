@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1200_A_r",
+	"argument" : "I am catholic and have been both baptized and have gone through the sacraments of first communion and confirmation. I believe and trust in God and his protection over people, however, I don't follow what the bible says as I believe many of its ideals are outdated and have been interpreted in a wrong and damaging way by the other side of the political spectrum. "
+}

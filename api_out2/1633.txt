@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1488_A_r",
+	"argument" : "I am not a religious person myself, however, I think that everyone should have the right to practice whatever religion they feel most inclined to. Despite this, people should not be able to place their religious beliefs on others, and this is especially true for policies where religion should be very clearly separated from the state. "
+}

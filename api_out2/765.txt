@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1555_B_g",
+	"argument" : "I believe in my rights to own guns and that they should be accessible to the public. In later years, I have been worried that my guns will be taken away by the government with these new gun laws rather than more protections to keep people safe."
+}

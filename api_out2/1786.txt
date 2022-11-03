@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1699_B_r",
+	"argument" : "Religion is a very important part of my life that informs many aspects of how I live my life. It informs the way I view the world around me and how I determine my moral compass in terms of issues."
+}

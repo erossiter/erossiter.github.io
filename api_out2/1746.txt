@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1345_B_r",
+	"argument" : "I'm from a christian family, and I go to church every Sunday with them. God has an important role in my life. I feel like my soul is purified when I am in the church. Every time I feel I'm trapped, I go to church and the God will help me out."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1011_B_g",
+	"argument" : "I believe the second amendment is a critical foundation of American. People should have the right to defend themselves, their families and their homes. Laws surrounding gun control should keep them out of the hands of criminals and children, but a law-abiding American adult should be able to own guns as a means of self-defense. "
+}

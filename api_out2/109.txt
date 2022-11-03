@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1043_B_b",
+	"argument" : "Biden's performance so far has been very detrimental to our economy. Inflation is at a record high, and he has done nothing to fight it. He should be voted out."
+}

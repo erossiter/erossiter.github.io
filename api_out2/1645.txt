@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1588_A_r",
+	"argument" : "I describe myself as an agnostic. I grew up religious, but I don't really attend church anymore. I might attend religious services with my parents on big holidays every now and then. I would say I'm spiritual but not religious."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1707_B_g",
+	"argument" : "I believe that the right to bear arms is a constitutional right and that it can never be taken away. I believe that no person should have to justify the reason for why they are purchasing a gun as it is their right as a citizen. The government's only responsibility is to make sure that those who purchase guns are safe to do so by running background checks."
+}

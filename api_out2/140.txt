@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1368_A_b",
+	"argument" : "I think that President Biden has been underperforming as a President. We have observed a significant economic decline since his time in office and I feel that he is creating a stronger divide between Americans. Overall, I do not approve of Biden because he is not representative of American values and does not handle international crises appropriately. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1070_A_r",
+	"argument" : "religion plays a somewhat important role in my life; however, I am not bound to the beliefs of my own religion completely. I actively participate in religions outside of my own with friends and family who don't identify with the same religion as myself."
+}

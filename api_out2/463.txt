@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1394_A_g",
+	"argument" : "Gun control laws in this country are too loose and are the source of our mass shooting issues. We should have stricter gun control laws, making it harder for people to purchase guns."
+}

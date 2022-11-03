@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1086_A_b",
+	"argument" : "I do not follow politics very much but Biden has been doing fine. He should not have been elected in the first place since he's so old he can barely form a sentence, but I've been fine."
+}

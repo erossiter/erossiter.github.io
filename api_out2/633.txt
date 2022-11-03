@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1547_B_g",
+	"argument" : "Gun control needs to be increased heavily. It is ridiculous that school shootings continually happen, and many could even be avoided, if gun control was tighter. Republicans often argue that we want to take their guns, but this is not the case. If mentally stable people want to own a gun for self-defense, that is no problem. But the issue arises when mentally ill people are able to have access to Ak-47s (which no normal person should ever need). We need more gun control, and we need it fast."
+}

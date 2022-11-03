@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1047_B_i",
+	"argument" : "I believe that the immigration policy in the United States is completely messed up and is going to lead to the downfall of our country. We cannot allow people from other countries to come in freely with their gang violence and drugs that infiltrate our great nation. It is a shame to see so many people who cannot get work due to the rise in immigrants, as well as the rise in drugs and gang violence. "
+}

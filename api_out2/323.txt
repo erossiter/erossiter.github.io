@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1151_B_b",
+	"argument" : "I think President Biden's performance has been very poor. He hasn't done anything that has benefited the country and he hasn't made anyone happy. The only reason why people have talked about him is because he got COVID and fell off a bike but besides that he hasn't done anything noteworthy. I think it's time for him to go."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1414_A_i",
+	"argument" : "I think everyone should be entitled to safety and to do what they'd like but it needs to be done legally. If someone wants to come to America, I'm fine with it but it needs to happen through the proper channels. If it's not done the right way it can put themselves, their families, and other people into bad situations. "
+}

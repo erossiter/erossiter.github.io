@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1432_A_b",
+	"argument" : "I am not thrilled with President Biden's performance in office so far. As a student, I have been really busy and haven't payed too much attention to the news. But overall I wanted Trump to be in office. "
+}

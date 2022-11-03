@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1547_B_b",
+	"argument" : "Biden has done an okay job in office. He is not the best candidate for the job, but he was without a doubt the lesser of two evils compared to Donald Trump. His want to protect reproductive rights is a nice change from Trump last term, although he could do more to fight for these rights. Furthermore, I feel people are too harsh on him in terms of the gas price raise, as this is not 100% his fault how Republicans might lead you to believe. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1571_B_g",
+	"argument" : "In a perfect scenario, I would ban all guns except maybe for hunting - and even then, only until very tight restrictions and after thorough background checks. Guns cause massive amounts of harm, so much so that no amount of personal freedom is enough to convince me they're worth having around. I believe the 2nd amendment is highly outdated, and we have taken it incredibly out of context."
+}

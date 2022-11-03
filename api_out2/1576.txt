@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1618_A_i",
+	"argument" : "I believe that immigration laws and reforms need to address the needs of national security. Illegal immigration is a threat to our country and restricting immigration makes the US safer. I support using US troops to stop migrants from crossing into the United States, particularly from the Mexican border.  "
+}

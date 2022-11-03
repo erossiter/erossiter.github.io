@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1063_B_b",
+	"argument" : "Biden was not my choice for President, but he was the closest option to what I wanted in a candidate. I feel that he has not done much for the country. When I think about what he has done, more bad things come to mind than good."
+}

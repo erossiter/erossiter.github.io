@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1106_A_b",
+	"argument" : "I think he’s done a fine job, he hasn’t made too many policy changes other than reversing Trumpian policy. I think people give him too much shit for the gas prices and there wasn’t much he could do to stop it from happening."
+}

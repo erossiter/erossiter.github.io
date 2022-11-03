@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1253_B_i",
+	"argument" : "I believe that immigration should be regulated, as unregulated immigration is dangerous, and people should be screened and vetted before being granted status in the United States. Policy surrounding immigration should be strict but reward those who contribute to society and the Economy.   "
+}

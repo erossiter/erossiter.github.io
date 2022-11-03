@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1099_B_b",
+	"argument" : "I appreciate that Biden has improved healthcare access for veterans as they are an integral part of US society. I also agree with what Biden has done for jobs, the US has seen the largest decline in annual unemployment since 1984. However, on topics such as inflation and climate change, I feel very differently. The inflation reduction act is a plan that does a few good things but I disagree that is should be funded by raising taxes on corporations and the wealthy. "
+}

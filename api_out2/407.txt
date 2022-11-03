@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1275_B_g",
+	"argument" : "I believe that gun laws in America should be stricter. The level of background checks needs to be severely raised. Buying a gun should be a very long and elaborate process. In an ideal world, I would prefer that no civilian could own guns, but I do not think that is a possibility. Instead, I would like to limit the type of guns that people can own, for instance, semi-automatic rifles should not be available for an average citizen to purchase. In addition, I think you should have to be at least 25 to own a gun. "
+}

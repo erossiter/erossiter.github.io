@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1503_B_r",
+	"argument" : "I like to keep an open mind when it comes to religion. I've never been particularly religious myself, but I value those around me who can offer a different perspective to mine when it comes to religion. "
+}

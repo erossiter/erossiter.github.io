@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1357_B_i",
+	"argument" : "The immigration policy in the United States needs a lot of work. Right now its too soft and there needs to be stricter border security on both the Northern and Southern borders. Undocumented immigrants who enter the country should be sent out unless they are actively trying to obtain a citizenship. Immigrants are more than welcome if they go through the right and legal process of earning their spot in this amazing country. Overall immigration was what built our nation originally, however now the amount of illegal immigration has gotten out of hand, immigration is good, however people who cross the border to seek refuge in this country should be seeking out a citizenship as well."
+}

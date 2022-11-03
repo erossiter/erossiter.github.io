@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1204_A_b",
+	"argument" : "I'd say quite well. Biden inherited a mess- the pandemic, economy, public dissension and the worldwide joke America had become under Trump and so far I've been very impressed with how he's addressed these issues."
+}

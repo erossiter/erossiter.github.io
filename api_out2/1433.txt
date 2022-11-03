@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1492_A_i",
+	"argument" : "I believe that it is America's duty as a wealthy nation to support immigrants from all over the world by allowing them a smoother and quicker legal process into our country. Undocumented immigrants should not be deported, but rather, aided in obtaining a legal status in the United States. The US should place a special emphasis on refugees who are escaping persecution from their home countries. "
+}

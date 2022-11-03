@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1231_B_g",
+	"argument" : "Gun control is one of the most out-of-hand issues in our country. We need to be regulating the sales of guns and who can own a gun because the deaths from guns every year is out of control. School shootings are normalized and that is not ok."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1556_A_b",
+	"argument" : "President Biden's performance in office is remarkable. He is the first President to implement a U.S. National Strategy for Countering Domestic Terrorism, following the failures under the Trump Administration that lead to the January 6th insurrection. His foreign policy is notable, providing aid to Ukraine and tackling global issues of climate change with allies in NATO. "
+}

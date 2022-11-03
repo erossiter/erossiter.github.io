@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1262_A_b",
+	"argument" : "President Biden has done an amazing job at starting to bridge the American divide between Republicans and Democrats. He successfully got us out of Afghanistan, created a record number of new jobs, and continues to reduce the inflation rates. Our international allies respect us more because we have a president that is not as volatile as the previous one. "
+}

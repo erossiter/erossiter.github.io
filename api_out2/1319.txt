@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1577_B_i",
+	"argument" : "I think this issue is very simple. If you are not a citizen of the United States then there is a way you can legally apply for citizenship. On the other hand, if you are immigrating to America illegally, you should be immediately shipped back to where they came from and never allowed back."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1489_B_r",
+	"argument" : "Religion plays a pretty large role in my life. I commit myself to living a life that is favorable in the eyes of the lord and carrying out the ideals written within the bible. I often take the time to be within my worship group and church so that I can maintain my relationship with the church as I have since I was young."
+}

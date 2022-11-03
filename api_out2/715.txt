@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1074_A_g",
+	"argument" : "I believe that people have the right to own guns. It is the best way to protect yourself, and they are also used for sport and an important part of hunting. The issue with guns is not the gun but the user. We need to keep guns away from people who shouldn't have them and keep them with people who should."
+}

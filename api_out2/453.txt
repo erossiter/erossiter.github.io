@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1714_A_g",
+	"argument" : "gun control laws need to be way stricter. guns should be much harder to access and buy. automatic weapons should not be accessible to anyone accept for those in the military or police force"
+}

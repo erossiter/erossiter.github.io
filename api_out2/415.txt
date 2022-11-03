@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1317_B_g",
+	"argument" : "I believe whole heartedly that increased gun control is of utmost importance on the American political agenda. Current gun laws, in lieu of recent shootings and events, are not effective at all, and the amount of gun violence in the United States is truly horrific. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1038_A_r",
+	"argument" : "I accept religion as being prominent in other people's lives, however it is not as prominent in my life. I would never allow religion to dictate what I think about other people or their choices. "
+}

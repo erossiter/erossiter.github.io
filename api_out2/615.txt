@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1405_B_g",
+	"argument" : "I believe that stronger gun control is necessary to put an end to much of the violence in this country. A ban on assault rifles would greatly benefit the country. There is no need for assault rifles."
+}

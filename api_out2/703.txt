@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1558_A_g",
+	"argument" : "Many of the gun controls being debated in today's discourse are a violation of the 2nd Amendment's right to bear arms. Supreme Court rulings have upheld the fact that this right applies to ordinary citizens, but many gun control activists have pushed for legislation that would take away this right. For instance, red flag laws that are currently being proposed are a mechanism that would take away guns from law-abiding American citizens. With the recent spike and crime and Democrats pushing for defunding the police, Americans need the ability to protect themselves with firearms. These gun control laws, however, would make self-defense much more difficult."
+}

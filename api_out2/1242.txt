@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1426_A_i",
+	"argument" : "In the United States I believe that people should be able to immigrate here. Yes, there should be some sort of background check to make sure it is safe but other than that it should be allowed. Some people are facing extreme circumstances and need to leave their country to move somewhere they may feel safe or believe they can start a new life. "
+}

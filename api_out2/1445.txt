@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1565_B_i",
+	"argument" : "I think that as the nature of the US is accepting, we should allow immigration"
+}

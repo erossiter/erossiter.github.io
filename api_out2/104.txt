@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1620_A_b",
+	"argument" : "I think he has done a terrible job so far. He does not do anything and his decisions are weak if he makes any. He is also too old to be president."
+}

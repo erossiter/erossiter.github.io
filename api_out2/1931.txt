@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1139_B_r",
+	"argument" : "My family brought me up to be a Christian. Religion plays a huge role in my life especially since my mother got sick with cancer while I was in middle school. After she got sick, my family was really devoted to going to church and praying with her. Since being at UNC, I've been going to service in Chapman on Sundays and have been involved in campus ministry. I'm glad to have met other people who have the same values as me and am grateful to have gained a community here. I was taught that religion is the most important thing in life and so I get a lot of my moral values from my religion. "
+}

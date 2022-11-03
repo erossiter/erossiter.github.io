@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1606_A_b",
+	"argument" : "President Biden's performance in office so far has been a much needed change of pace, as the tensions towards minority groups from that of the leader of the country has significantly decreased."
+}

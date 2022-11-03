@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1689_B_i",
+	"argument" : "I am an advocate for an open border policy. It's deeply unfair to punish migrants for trying to build better lives for themselves. Though the 'American Dream' has flaws, we shouldn't punish people for trying to believe in it."
+}

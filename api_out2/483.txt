@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1068_A_g",
+	"argument" : "I think that everyone should be entitled to their right to bear arms. Although we must make sure that they are clear of any significant mental disorders, however, if they are, they should be able to own guns with proper licensing."
+}

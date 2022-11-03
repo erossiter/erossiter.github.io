@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1249_B_i",
+	"argument" : "Immigrants have been taking the jobs of true Americans for a long time, and this has only been exaggerated more over the years. What we need is an aggressive border policy that protects American interests. I believe that some immigrants (those fleeing true violence and danger) should be allowed on temporary visas, but those who come to the United States simply because they want to should not be allowed in."
+}

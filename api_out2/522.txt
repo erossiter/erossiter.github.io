@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1207_B_g",
+	"argument" : "My views on gun control are that the laws are becoming too strict. If we want to go purchase a gun and do not have a previous history of violent acts, we should be able to do so with no hassle. I have the right to protect my family and I should be able to do so if want to."
+}

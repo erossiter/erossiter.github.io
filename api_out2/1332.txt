@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1092_A_i",
+	"argument" : "Personally, I feel like the immigration policy in this country has put the country at risk in multiple ways. First, I have experienced situations where bad actors in my town were illegal, something that made me reflect on the role of the government when screening those who enter our country. On the other hand, I feel like immigration may put our economy at risk, putting good Americans out of work. "
+}

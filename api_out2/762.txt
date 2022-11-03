@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1516_A_g",
+	"argument" : "The United States of America is the land of freedom and opportunity, and different from other countries in the world, we are entitled to many different constitutional rights, including the second amendment and the right to bear arms. Our founding fathers gave us the right to protect ourselves through the laws that guide this country. By restricting gun laws, politicians are violating the people's natural right to protect themselves."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1063_B_g",
+	"argument" : "Gun control laws are not strict enough. More action should be taken to limit the types of guns available for people to purchase. More needs to be done to prevent shootings."
+}

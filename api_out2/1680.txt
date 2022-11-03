@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1611_B_r",
+	"argument" : "Religion plays an important role in my life, but it does not drive my opinion in politics. Although I try to imbibe many religious values in my life, I do not let it affect how I view policies implemented in this country."
+}

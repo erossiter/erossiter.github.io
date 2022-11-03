@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1626_A_b",
+	"argument" : "I think his performance has not been bad, but I don't think it has been good. I think Trump could have done a better job than him, especially since we are still seeing supply chain issues and economic issues that resulted from Covid. I think Trump could have done a better job getting the economy on track than Biden because he has more business experience and I don't think he is afraid to go after certain goals even if it hurts his image."
+}

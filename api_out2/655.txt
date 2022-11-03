@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1138_A_g",
+	"argument" : "I believe that gun control laws should be interpreted as the second amendment should be. Due to this amendment we have the right to bear arms and protect ourselves and families with arms."
+}

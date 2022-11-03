@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1689_B_r",
+	"argument" : "Religion plays a very minimal role in my life. Though I was raised with religion, I consider myself to be secular, and only go to church a couple times a year to experience community and appease my parents. I think religion should play a lesser role in people's political idenity."
+}

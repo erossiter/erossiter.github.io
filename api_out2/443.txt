@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1625_B_g",
+	"argument" : "I believe that there needs to be more restrictions on who is allowed to purchase guns in this country. More than enough mass shootings have occurred in my lifetime to know that guns are an issue and that laws that make sure guns don't fall into the wrong hands are needed."
+}

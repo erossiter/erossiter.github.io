@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1294_A_g",
+	"argument" : "Gun control is a topic that is becoming increasingly popular, and an issue becoming increasingly pressing, in an era when mass shootings have become the norm. The way to mitigate this problem is to increase the parameters on the background checks required to obtain a firearm, especially to include mental health criteria. While the right to bear arms is stated in the Constitution, that was back when the deadliest weapon was a musket that could fire, at max, about 3 shots per minute. This weapon is vastly different than the automatic weapons of today, which desperately need more regulation, as no one needs an automatic weapon to hunt or defend themselves. Gun control regulations need to crack down in several aspects so our children can stop living in fear.  "
+}

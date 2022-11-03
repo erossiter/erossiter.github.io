@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1282_A_i",
+	"argument" : "I think that there needs to be better immigration policies in the United States to allow more people to come over freely to live a better life than they would in other countries."
+}

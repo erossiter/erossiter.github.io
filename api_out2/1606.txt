@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1275_B_r",
+	"argument" : "I am in a period of religious exploration. I am from a nonbelieving household, but I have always been curious and find many traits of various religions admirable. I certainly try to stay open-minded, as it is impossible to know what the truth really is."
+}

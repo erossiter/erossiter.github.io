@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1201_B_b",
+	"argument" : "I think that President Biden has been particularly weak in office so far. He hasn't followed through with many of the promises he made throughout his campaign. I think that the economy faired a lot better under Trump and I think as a sovereign state we are under weaker leadership."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1517_B_g",
+	"argument" : "Gun control laws are not necessary because according to the second amendment, we should all be able to protect ourselves. I also believe there should be no identification to purchase guns. "
+}

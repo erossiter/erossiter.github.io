@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1397_B_i",
+	"argument" : "While immigrants are entitled to asylum if they're seeking refuge from a government that is unable to protect them or a serious disaster in their own country, that doesn't mean they can only be protected by the United States - they can go to other countries, too. We are allowed to restrict immigration to preserve the U.S.'s culture, and therefore don't have to accept everyone. If immigrants do want to enter the United States, they should do so legally. "
+}

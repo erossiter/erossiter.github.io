@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1351_B_b",
+	"argument" : "President Biden's performance in office has been terrible. He is a weak leader and doesn't have the capacity to lead the country effectively. All of the programs he is trying to put in place will be bad because too much money is going to be printed and inflation will continue to go up."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1384_A_r",
+	"argument" : "Religion has deviated from its fundamental purpose of serving as a moral compass to society, and instead become a tool to substantiate bigoted and ignorant views under the guise of morality. "
+}

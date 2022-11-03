@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1463_B_g",
+	"argument" : "I believe that our right to bear arms is an integral part to being a free citizen. The second Amendment was made for a reason and removing this right would be removing our freedoms. The more laws put upon American citizens, the more we disappoint our founders."
+}

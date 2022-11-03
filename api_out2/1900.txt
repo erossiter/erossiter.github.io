@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1346_A_r",
+	"argument" : "Religion plays a very strong role in my life.  The Constitution was written on the Bible foundation-ally, and we should uphold those traditions in America today.  Religion provides us with a structure in which we need to keep our political system in order. "
+}

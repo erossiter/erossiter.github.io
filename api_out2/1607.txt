@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1280_A_r",
+	"argument" : "Religion is very important part of my life, but I don't let it get in the way to choosing what I would like to do and I don't judge people based on their religion. I believe that everyone has their own choice when it comes to religion and they should be able to practice it freely without others influencing them and trying to put their religious views onto another person. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1301_B_r",
+	"argument" : "Religion is an important aspect in my life but I think it should stay a personal practice. Religion should not be intertwined with government or have an effect on governmental and everyday policies. It is good to see different religious representation in government, but religious ideologies should not influence law. "
+}

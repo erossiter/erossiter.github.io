@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1685_B_r",
+	"argument" : "Religion plays a major part in my personal life; that being said religion should not play a part in local, state, or national policies. Freedom of religion is important but it is equally important to be as tolerant as possible of all religions. To implement policies with foundations in the bible is equal to infringing on those who don't believe in the Bible, on their freedom of religion. "
+}

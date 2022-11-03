@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1349_B_r",
+	"argument" : "Religion is very important to me since I'm a Christian, and I try to follow it in every aspect of my life. This often influences my political views. For example, I'm strongly opposed to abortion and gay marriage."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1626_A_g",
+	"argument" : "I think that Americans have the right to bear arms, as it is stated in the Constitution. I think that there need to be a lot more restrictions though. For instance, there needs to be a waiting period of at least a year to get a firearm. This can prevent people who impulsively buy firearms from buying them, allowing them more time to think before they get a firearm. I think Ar-15s should be illegal and we should move towards only owning pump shotguns, bolt action rifles, and revolver pistols. These guns are great for defense of any kind and get rid of large magazines, limiting the rate of firepower and how fast people can reload. This potentially could save a ton of lives while still allowing people the right to bear arms. If someone wants a high powered rifle they need an immense amount to training to own it."
+}

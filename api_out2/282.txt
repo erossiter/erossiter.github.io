@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1154_A_b",
+	"argument" : "He's been terrible. You can see almost every time he speaks in public he's just not fit for the job. Inflation is through the roof and he chooses to deflect blame and offer no solutions. He has spent way too much, mishandled the rising gas and oil prices and has failed to create what he promised in a time we need it more than ever: unity."
+}

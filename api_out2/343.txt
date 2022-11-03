@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1397_B_b",
+	"argument" : "President Biden has attempted to help heal the country after the pandemic, but his efforts - for example, canceling student loan debt - aren't realistic or achievable. The economy isn't doing great, either, with inflation hitting highs not seen before. "
+}

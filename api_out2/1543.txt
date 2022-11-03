@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1226_A_i",
+	"argument" : "I really like going on vacations and traveling. However, recently I feel like things have gotten to be so busy with all the traffic and crowds wherever I go. I personally think that immigration control in this country is lacking with our current president. There should be no reason that people who aren’t citizens or aren’t currently going through the naturalization process should be in this country. It’s not fair to the people who have tried really hard to become legal citizens to be standing right next to those who are here illegally. I think the government needs to increase border control and not allow so many immigrants to just live here and get away with it without trying to become naturalized. Our country is already so overpopulated we don’t need any more people here that aren’t supposed to."
+}

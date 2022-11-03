@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1372_A_i",
+	"argument" : "This was a country founded by immigrants, therefore I believe they should be welcomed with open arms, especially if they are trying to make a better life for themselves. I also believe that there should be a process for immigration, and while I believe it should be an easy process, I know that it has to be thorough. "
+}

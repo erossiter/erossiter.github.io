@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1102_A_b",
+	"argument" : "Biden's performance has been very subpar, and it seems like he is just a puppet that is being controlled by his team of advisors. He has done nothing for America and is just a waste of four years."
+}

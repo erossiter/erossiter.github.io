@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1595_B_i",
+	"argument" : "America has always been deemed the melting pot and a large part of this comes from immigration. We are supposed to accept all kinds and be welcoming to all individuals no matter there background."
+}

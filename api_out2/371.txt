@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1643_B_b",
+	"argument" : "Joe Biden's performance so far has been absolutely terrible. Ever since Donald Trump left office, this country has been going down hill. He can't even speak  clearly when he gives speeches. Joe has ruined damaged the economy that was booming before him. Joe is responsible for the outrageous gas prices we had to deal with. "
+}

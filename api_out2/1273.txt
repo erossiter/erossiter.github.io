@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1700_A_i",
+	"argument" : "I believe that the US immigration policy is currently based on racism and hate, as can be seen in the wall built by Donald Trump and that we should allow far more people to come in legally and make seeking asylum much easier"
+}

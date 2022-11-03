@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1140_A_b",
+	"argument" : "I think President Biden's performance in office so far has been great. He has brought down unemployment rates tremendously, which not only puts money into the pockets of less fortunate Americans, but raises their spirts. While inflation has risen, this is a natural process of our economic cycle. I'm confident it will fall within the next year, as the cycle normally does. Most importantly, President Biden has successful rebuilt the reputation of professionalism that was tarnished by former President Trump, helping to restore America in the eyes  of foreign nations. "
+}

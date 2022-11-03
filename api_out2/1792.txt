@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1082_A_r",
+	"argument" : "Religion is not a huge player in my life even though it was big in my family. I grew up going to church with my grandparents as a kid (my grandfather was a pastor). However this didn't have any kind of huge impact on my life and while I do still identify as a Christian I don't let it run my actions in my day to day life."
+}

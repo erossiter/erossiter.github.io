@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1339_B_g",
+	"argument" : "I believe that the government should limit the availability of citizens to procure firearms. Stricter background checks and mental health requirements could go a long way in combating the gun violence epidemic we see in the United States at this present date."
+}

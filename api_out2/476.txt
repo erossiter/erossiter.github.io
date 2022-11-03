@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1704_A_g",
+	"argument" : "I think that it far too easy for someone to be able to purchase a gun in this country. There should be stricter background checks on everyone. They should also put limits on high level assault rifles."
+}

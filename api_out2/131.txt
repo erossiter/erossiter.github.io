@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1291_B_b",
+	"argument" : "He has done poorly as a president. Inflation is at a modern day high and the national debt has gone past $30 trillion. He has spent taxpayer money recklessly since he took office."
+}

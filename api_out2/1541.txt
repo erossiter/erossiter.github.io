@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1197_B_i",
+	"argument" : "Immigration policy is currently ineffective. The system is backlogged. There is a significant number of people coming into the country that we cannot track. There is nowhere for immigrants to go even when they get here."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1335_B_b",
+	"argument" : "From an objective standpoint, I don't think President Biden has been doing as poorly as I thought he would, although I have not been keeping up with the office as much since his election. The main criticism I have of his presidency though is the amount of funds that he is allocating toward the war in Ukraine. I'm not supporting Russia's militariztion and attack of Ukrainian soil, but I do believe that the some of the billions in aid packages sent to Ukraine could have been used more efficiently to solve domestic issues."
+}

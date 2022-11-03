@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1703_B_g",
+	"argument" : "I believe that we should have strict gun control laws as mass shootings are only prevalent in the U.S, and not in other countries. We should have similar gun laws to Sweden in my opinion."
+}

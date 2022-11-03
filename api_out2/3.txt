@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1031_B_b",
+	"argument" : "Presiden Biden's performance in office so far has not been outstanding. It has, however, been a more accepting and inclusive environment for those who felt targeted during the Trump presidency. "
+}

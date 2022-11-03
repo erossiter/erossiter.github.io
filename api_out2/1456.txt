@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1655_B_i",
+	"argument" : "Immigrants should be able to safely cross the border in order to come into the US. Many times the jobs these immigrants take are those that citizens refuse to do themselves. As for undocumented immigrants, they should be given a path to citizenship. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1697_B_i",
+	"argument" : "The immigration policy in the United States is broken. We must acknowledge the importance of our country's history as a nation of immigrants. Our immigration policy is detrimental to our nation because it rips families apart and leaves children without parents. We must always seek to embrace and not attack immigrants."
+}

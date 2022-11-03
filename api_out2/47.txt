@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1471_B_b",
+	"argument" : "Biden's performance in office has been alright. He was put in a difficult situation when he came into office due to circumstances from the previous term. Our economy was already trending downward and now Russia is ruining the world economy and supply of oil."
+}

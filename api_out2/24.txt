@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1261_B_b",
+	"argument" : "I feel the Biden's performance in office like many presidents in their first half of their term with a lot of big promises and some cleaning up from the last administration's messes; Biden has done a lot of good so far but is not perfect and i believe that we need to keep pushing to be progressive in office so we can get a government that speaks for the people the most."
+}

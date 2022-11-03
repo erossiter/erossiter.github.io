@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1081_B_r",
+	"argument" : "Religion does not play a large role in my life.  Although much of my family is Christian, I was raised without religion or going to religious services, and as such consider myself agnostic or atheist.  I believe in a science and fact based approach to life rather than religion based."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1356_A_i",
+	"argument" : "My views on immigration policy in the United States are that all individuals should be able to find refuge in the United States. It should be a place of safe haven for immigrants that are looking for a better life and as a way to integrate into society in the US."
+}

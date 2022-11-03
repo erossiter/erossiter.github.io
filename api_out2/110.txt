@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1055_B_b",
+	"argument" : "He’s done better than the last man in office. And let us not start talking about inflation and gas prices because they were already going up when Trump was in office."
+}

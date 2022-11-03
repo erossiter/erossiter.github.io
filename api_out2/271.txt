@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1566_A_b",
+	"argument" : "President Biden's performance during his premiership has aided America in uniting with one and other and moving forward after the huge divisiveness that we have seen in recent years, which was especially evident on January 6th 2021. "
+}

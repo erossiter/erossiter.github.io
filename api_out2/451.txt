@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1700_A_g",
+	"argument" : "I believe that there is no reason why anyone needs to have a military level weapon like an AR-15 and that the lack of gun control is the reason we have so many tragic mass shootings "
+}

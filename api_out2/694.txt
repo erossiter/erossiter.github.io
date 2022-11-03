@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1354_A_g",
+	"argument" : "I believe that the U.S constitution grants us the second amendment and because of that we all have the right to bear arms. Gun control is prohibiting us from practicing our freedoms."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1103_B_r",
+	"argument" : "I belong to a Catholic church and am very conservative. I believe that religion plays a big role in my life because if something conflicts with my religion, I usually don't deal with it. I also believe that the US should follow christianity."
+}

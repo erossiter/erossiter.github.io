@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1186_A_g",
+	"argument" : "I believe that gun control needs to be more heavily enforced in the United States. I think it's disheartening and inhumane that kids have to go to school fearing for their lives due to the lack of gun regulation in our country."
+}

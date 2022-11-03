@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1025_B_i",
+	"argument" : "I am not well versed in the immigration policies in the United States, but I am aware of the sheer flaws of this system in particular. I know that, for one, gaining residency/citizenship in the United States is nearly impossible and takes years to fully complete. It is known that even Americans can not pass the citizenship test. There are strict limitations that immigrants face while trying to come to the U.S. and gain citizenship, possibly preventing immigrants from ever stepping foot in America. "
+}

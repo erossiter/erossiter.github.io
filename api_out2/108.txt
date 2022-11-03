@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1028_A_b",
+	"argument" : "Biden's time in office has not been great. It was marked with massive amounts of inflation, lack of border security, and overall lack of control over Putin and the international community."
+}

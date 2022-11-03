@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1099_B_g",
+	"argument" : "Every American has the right to bear arms based on the 2nd amendment. This amendment was written in another context (standing militia during American Revolution), however I agree with the overarching principle that we still have the right to bear arms. Americans have the right to protect themselves. Gun violence is an epidemic in America but I don't think that tightening gun control is going to drastically decrease things such as homicides and school shootings. "
+}

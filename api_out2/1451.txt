@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1596_A_i",
+	"argument" : "I believe that the United States should be more tolerant of immigration, and work towards making the immigration process less lengthy, less challenging, and less mentally taxing on families and individuals alike. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1331_B_r",
+	"argument" : "I'm not really religious. There are so many different deities and ideas of what people say is God, so it can get kind of hard to know what is real and what isn't. I have been exploring and trying out different religions, and I'm yet to settle on one that makes sense to me. So as of now, religion has little to no influence on my life."
+}

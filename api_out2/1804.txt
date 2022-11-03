@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1237_B_r",
+	"argument" : "Religion plays a part in my life, but I do not think it should be forced on anyone, and everyone should be free to make their own decisions on their spiritual beliefs."
+}

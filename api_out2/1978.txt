@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1668_A_r",
+	"argument" : "Faith is very important part of my life. Growing up, my family was all about going to Church and those values definitely stuck with me and got me through a lot. Without my faith, I don't think I would have gotten through a lot of things that have been thrown at me in life. It's taken me awhile but I realized that God has a plan for me and He will guide me through life. "
+}

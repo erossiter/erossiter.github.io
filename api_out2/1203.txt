@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1119_B_i",
+	"argument" : "'- Greater passage to citizenship for undocumented immigrants.  - Obama’s legislation regarding immigration was just and necessary because, through Obama’s DACA and DREAM act, undocumented immigrants could work for a short period of time in the US and receive benefits.  - I believe immigration laws should seek to help families and increase the number of refugees that desperately need legal entry. To my understanding, the U.S is a first-world country, with a boosting economy, and a thriving job market. Many immigrants flee persecution, war, and violence to come to the US searching for opportunity as a result we need to be open to sharing our resources. - The immigration system should be a carefully, structured process that should ultimately limit the number of separated families and detained asylum seekers. "
+}

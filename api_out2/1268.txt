@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1652_A_i",
+	"argument" : "I believe that immigration in the United States is not where it should be. We built this country as a melting pot and a sanctuary for people to come to, so why have so many restrictions. I understand the max influx of people and how it is hard to combat so many, but reforming the system for more efficient background checks and entering processes would help to smooth this issue and make America not hypocritical. "
+}

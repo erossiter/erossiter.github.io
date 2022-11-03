@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1268_A_g",
+	"argument" : "I believe in the right to bear arms because it is our constitutional right to do so. I believe that 18 should be the minimum age to buy and possess a gun in this country. Every person is protected under the Constitution to own, carry, and use guns in the U.S."
+}

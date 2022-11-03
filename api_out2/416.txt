@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1327_B_g",
+	"argument" : "I believe that guns should be limited and regulated for the safety of everyone in America. My generation has grown up in a country where mass shooting is normal for the youth. This is really concerning for the health and safety of our people. While I understand that having the right to bear arms is in our constitution however I think it was better if we would regulate to make sure we are giving guns to responsible citizens."
+}

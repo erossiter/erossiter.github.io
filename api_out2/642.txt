@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1637_B_g",
+	"argument" : "I think gun control laws should be more strict. It is so easy for someone to buy a gun, yes we have background checks, but obviously they are not as well implemented as they could be. Yes, I am for people having the ability to buy a gun if they choose, but it should not be easy to access a gun on the street or from your next door neighbor. Take for example all the school shootings that have happened in recent years. Why it is easy in some parts of the country to buy assault rifles legally? And I bet it is even easier to buy these types of weapons illegally. Overall, I think it would be a good thing for everyone in the country if gun control laws were more strict and communities would be more safe."
+}

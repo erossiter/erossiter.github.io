@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1569_B_h",
+	"argument" : "I am very involved in politics and am largely involved in organizations for women's rights, abortion access, climate change, and many other social issues. In my spare time, I go hiking, go to cafes, thrift, and gentrify low-income neighborhoods. I love trader joes and post infographics on Instagram in order to spread the word about issues going on around the world. "
+}

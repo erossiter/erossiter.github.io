@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1484_A_g",
+	"argument" : "I think that there should be much stricter gun control laws. I realize it's a constitutional right to protect yourself, but the times have changed and so should the laws. Back then we used to have shotguns, and now we have AK 47's. Those laws are not applicable anymore in present day."
+}

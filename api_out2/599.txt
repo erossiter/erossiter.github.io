@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1206_A_g",
+	"argument" : "Gun control laws should be strict and heavily enforced. There have been so many school shootings recently that scream the need for strict gunlaws in our country. The United States is one of the countries around the world that has the most school shootings."
+}

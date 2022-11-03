@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1398_A_i",
+	"argument" : "I think our immigration policy is average. I am all for allowing legal citizens into our country, but they must first go through the legal process. I also think our southern border is somewhat of a disaster."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1579_B_h",
+	"argument" : "I'm a student at UNC Chapel Hill majoring in history and political science and minoring in Spanish. I'm considering attending law school after I graduate, but I'm also thinking about teaching, working in a museum or at a historical site, or possibly working for the governing as a legislative aid. In my free time, I really love running and hiking and just being outside whenever I get the chance. My friends call me granola because I want to visit all the national parks and do van life at some point. I also really love music and I sing in an a cappella group, the UNC Walk-Ons, and I'm involved in community theater. "
+}

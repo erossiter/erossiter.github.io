@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1239_B_g",
+	"argument" : "Guns are awful. They are the reason that people are getting killed. We must ban guns. People are not responsible enough to be trusted with guns and we would be better off without them."
+}

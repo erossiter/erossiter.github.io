@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1522_A_b",
+	"argument" : "I feel that Biden's performance has been underwhelming. His economic policies have been ineffective and I do sympathize with his position but the directions he has given this country have not had our best interest in mind. I think he is a step in the right direction from Donald Trump though as he is more moderate."
+}

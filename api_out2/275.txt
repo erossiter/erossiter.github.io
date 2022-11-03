@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1667_B_b",
+	"argument" : "Though the economy has been faced with many challenges due to the Covid-19 pandemic, I think that President Biden has done an excellent job managing the lasting devastation. Regarding social issues, Biden signed a significant gun violence reduction act that will save many lives and is doing his best to mend the division caused by the last presidency. All in all, I would say he is making the best of a currently bad situation. "
+}

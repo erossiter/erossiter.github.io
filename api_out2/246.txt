@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1654_A_b",
+	"argument" : "I think that President Biden isn't doing enough to help people in disadvantaged positions. I think that what he has accomplished has been relatively small in comparison to what he set out to do."
+}

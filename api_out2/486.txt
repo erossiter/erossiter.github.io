@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1258_A_g",
+	"argument" : "I think that citizens of the United States have/deserve the right to buy and own guns for defending/protecting themselves and those around them. Of course, I   am not in support of illegally obtaining a gun, or someone with a background of violence or mental health issues obtaining a gun. In general, I   am in support of the second amendment, and I think the NRA is an important organization."
+}

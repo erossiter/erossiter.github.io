@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1160_A_i",
+	"argument" : "I believe the United States in someway owes its success to immigration. Receiving people from all over the globe will always benefit the nation, not only in an economic manner, but it also shapes the nations identity. I want to let people undergoing through crises know, that the US will welcome you all with open arms. "
+}

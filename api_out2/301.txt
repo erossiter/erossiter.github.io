@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1000_A_b",
+	"argument" : "I think Donald Trump needs to come back into office so we can have a real president. The gas prices are outrageous and Biden isn't doing anything about it. He doesn't care about the people."
+}

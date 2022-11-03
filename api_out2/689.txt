@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1253_B_g",
+	"argument" : "I am for stricter gun purchasing policies, and I think it's essential to have rigorous background checks. But I don't believe guns should be outlawed; as someone who personally owns guns and is an avid hunter, from my perspective, I think that many gun control laws were created by people who don't have a great understanding of guns, the sport behind them, or the cultural significance they hold. Guns, like anything, are just another tool we use, and that tool should only be available to people who use it correctly.  "
+}

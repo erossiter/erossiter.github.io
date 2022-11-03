@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1423_B_b",
+	"argument" : "I believe President Biden is doing a fair job in reaction to the current political, economic, and social climate in the United States. By passing the American Rescue Plan, the Infrastructure Bill, and now the Inflation Reduction Act, he is reacting to the climate and hoping it has substantive impact. "
+}

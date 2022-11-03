@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1208_A_b",
+	"argument" : "I am an international student and not so aware of Biden's performance so far. However, after the Trump presidency i'd say Biden is a moderater ruler."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1630_A_r",
+	"argument" : "Religion is essential to how I live my life. I grew up going to church and even into college I have found ways to honor God every day. My relationship with God is my guiding force in times of trouble and my faith provides me with comfort and security. I feel as though without my religion I would struggle to find a sense of community and belonging."
+}

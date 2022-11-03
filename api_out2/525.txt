@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1232_A_g",
+	"argument" : "I think our constitution protects our right to bear arms, and there have been no changes to de-legitimize that right. Guns don't kill people, people kill people. More of our attention should be on mental health assistance in a preventative measure."
+}

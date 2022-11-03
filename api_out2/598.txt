@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1200_A_g",
+	"argument" : "I believe there should be stricter gun control laws in the country. Firstly, I believe the age for buying a gun should be brought up to 21 (the same age as drinking alcohol) instead of 18. Furthermore, I believe there should be stricter scrutiny on who is able to purchase these weapons and there should be passing of legislation that ensures there are thorough background checks on the mental and physical well-being of the person who wants to buy a gun. Gun control laws are currently not strong enough, something which is reflected by the number of school and mass shootings that have occurred throughout the past decade."
+}

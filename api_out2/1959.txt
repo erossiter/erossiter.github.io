@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1414_A_r",
+	"argument" : "Religion isn't a super big part of my life. My family would go to church when I was younger and then it became a certain time of the year thing. We would go for holidays like Christmas but not as much now that all the kids are grown. We always would pray before a meal though. I think it made my parents a little too strict sometimes, but I think I've turned out fine."
+}

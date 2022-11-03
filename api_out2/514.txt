@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1079_B_g",
+	"argument" : "There should be limits on guns, such as fully automatic weapons, but there should be no ban on owning a gun because it is protected under the second amendment. People should be able to exercises their rights and the government should not have a say in whether or not I own a gun."
+}

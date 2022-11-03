@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1020_A_i",
+	"argument" : "Immigration policy is complex but often targets individuals of color in contrast to western nations. A high level of misinformation exists where some American citizens are led to believe that immigrants from certain nations are high-risk or produce greater strain on public resources. In contrast, immigrants make up an integral portion of the workforce as well as maintain low levels of crime."
+}

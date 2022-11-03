@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1238_A_r",
+	"argument" : "As a republican, religion plays a strong role in my life. I identify as a Christian and attend a Christian faith church. Because I value Christianity, I am happy to see Christian values in our government."
+}

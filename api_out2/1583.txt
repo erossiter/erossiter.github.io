@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1673_B_i",
+	"argument" : "Our current immigration policy doesn't provide enough security for our nation. We are currently in a poor economic state, yet we are still focused on raising the number of refugees we've resettled. Immigration to the US can be beneficial, but only if they're skilled employees who can provide something of value to our economy. "
+}

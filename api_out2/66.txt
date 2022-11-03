@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1033_B_b",
+	"argument" : "Since coming into office, President Biden has helped to manage the COVID-19 crisis and provide for minority Americans. Personality-wise, he has certainly been a better leader than Trump. Whereas Trump was divisive and hateful, Biden is mature and focused on the people. I don't always follow the specifics of politics, but it is nice to open up the presidential Twitter account and not see some angry, all-caps message screaming at me."
+}

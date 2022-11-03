@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1182_A_i",
+	"argument" : "We welcome those immigrants who enter the country legally. However, we should avoid those immigrants who came illegally from becoming full citizens. Despite our country will benefit from having them as workforces, we say no to allow for a legal citizenship due to their illegal entering to the state. Also, the immigration law should be enforced to decrease the number of illegal immigrants."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1638_A_i",
+	"argument" : "Immigration policy in the United States is broken. Hundreds of thousands of migrants are pouring in across the borders, taking our jobs and benefiting from the system that my tax payer dollars go into supporting. The United States should increase the funding of ICE and put money towards securing the borders in any means necessary. Sanctuary cities should be abolished and illegal aliens should be deported. There should be no such thing as the DREAMer program."
+}

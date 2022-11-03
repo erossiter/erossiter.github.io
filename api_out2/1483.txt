@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1676_A_i",
+	"argument" : "The United States has the most resources to support those coming from dire situations, so I think that we should open our doors to those fleeing from oppressive or war-torn countries. I think that immigration laws should be relaxed and we should allow immigrants to legally work in the United States. These people are in search of a better life. We also need to make the test required to be a legal citizen easier. Most US citizens couldn't pass that test. "
+}

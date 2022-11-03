@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1067_B_g",
+	"argument" : "I believe that gun control laws are incredibly important. Guns need to be heavily regulated, if not banned. There also needs to be further mental health screening before purchasing a gun. "
+}

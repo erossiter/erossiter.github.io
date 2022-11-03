@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1553_B_b",
+	"argument" : "So far, President Biden's performance in office is less than ideal. Gas prices have been historically high, and the economy is still suffering. Biden is not equipped to face the demands of the presidency. "
+}

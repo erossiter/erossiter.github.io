@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1324_A_i",
+	"argument" : "The country should continue to push for policies that will allow immigrants to become a citizen more easily. We should encourage temporary legal status for those who are undocumented and can make their way to becoming a US citizen. By doing this, we are making it easier for those immigrants to then receive a green card."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1392_A_i",
+	"argument" : "I think a major issue in this past is the lack of help we have provided as a country for those in need. A problem that I appreciate that Biden has addressed is the separation of immigrant families. I think there are a lot of problems with current immigration policy that need fixing. I think we, as a first world country, have somewhat of a duty to provide help for people needing to escape the terrors that they may be facing in their home-country. I think we should prioritize helping those in need by using the resources that we have easy access to as American citizens."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1533_B_g",
+	"argument" : "I think that while having access to guns is something we should have in the U.S the current gun control we have is an absolute atrocity. When we have children dying in our school's much too regularly and people have the audacity to cite their 2nd amendment rights it is a disgrace to those who lost their lives while in a school."
+}

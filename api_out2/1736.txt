@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1288_A_r",
+	"argument" : "Religion plays a significant role in my life. I believe that people should strictly adhere to the teachings laid out in the bible and use them to navigate through their daily life."
+}

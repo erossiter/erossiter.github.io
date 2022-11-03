@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1688_A_g",
+	"argument" : "Having access to weapons as a means of self-defense is a human right and everyone is entitled to it. Gun control laws are already limiting enough and there is no reason to further restrict them. Guns are not capable of killing people on their own, it is people that kill people. "
+}

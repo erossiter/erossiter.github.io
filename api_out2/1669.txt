@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1231_B_r",
+	"argument" : "Religion plays a decent role in my life. I would consider myself religious and I go to church every once in a while, but I don't think religion defines someone. I believe people can choose whatever religion they would like and they should not be judged for that decision. "
+}

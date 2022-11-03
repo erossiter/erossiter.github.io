@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1334_A_b",
+	"argument" : "President Biden was clearly the correct candidate for the presidency. President Trump put America in an all time low and horrible condition when he was in office. Anyone would have been better than Trump."
+}

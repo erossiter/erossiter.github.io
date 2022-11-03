@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1592_A_r",
+	"argument" : "I grew up in a religious family, however, stopped going to church after I became more mature and understood that many of my personal beliefs contradict many of my church's views. "
+}

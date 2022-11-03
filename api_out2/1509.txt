@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1429_B_i",
+	"argument" : "I have mixed feelings about immigrations policys. I do think that our society is already getting overcrowded and a lot of our drung problems ect. are coming from people form across the boarder, but I do feel bad for the kids and wives of these countries that are most of the time innocent and just need a place of refuge. I think that there should be harsh laws on immigration but not to the point where they are impossible to achieve."
+}

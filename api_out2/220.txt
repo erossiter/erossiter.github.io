@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1449_B_b",
+	"argument" : "I think President Biden is doing well so far, but I think he could be going a little further with a lot of his policy moves. While he didn't have the biggest shoes to fill, I wish he would propose more ambitious solutions to a lot of the climate issues that we're already seeing play out in South America and other vulnerable regions of the world. He's also not the best public speaker but I've appreciated his commitment to diversifying other leaders like with his selection of KBJ for the supreme court."
+}

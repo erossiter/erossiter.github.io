@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1365_B_r",
+	"argument" : "Religion is a big part of my life, it dictates my morals and beliefs and I think those should influence my political opinions. I grew up in a Christian household and want to hold those around me to the same standards in order to reflect God."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1569_B_r",
+	"argument" : "Religion does not play much of a role in my life. I respect everyone else's religious beliefs however, I do not believe that they should impact legislation and are rather a private matter. People should not impose their religious beliefs on other people and there should be a full separation of church and state. "
+}

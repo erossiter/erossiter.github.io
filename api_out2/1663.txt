@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1051_B_r",
+	"argument" : "Religion does not have a big role in my life. I think people should be able to practice whatever religion they choose and not let it influence their political opinions. There should be a distinct separation between religion and the state."
+}

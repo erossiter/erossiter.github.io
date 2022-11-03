@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1058_A_b",
+	"argument" : "I think Biden's performance has been good. He is not the ideal president, but anything is better than Donald Trump. Biden's intentions for this country is better than Donald Trump's. "
+}

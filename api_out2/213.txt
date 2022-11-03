@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1408_A_b",
+	"argument" : "Biden's performance in office so far has been filled with political turmoil. Despite his age and a divided congress Biden has made significant strides to better the country. While I recognize his failures in the rise of gas prices and overall inflation, as well as Roe V. Wade being overturned, since then Biden has succeeded in creating a less polarized future. His policies regarding a green future all beneficial to the next generations. The removal of student debt is also a positive policy, hoping to better educate future citizens, although the money could've been more substantial. Biden's biggest success has been the containment of Russia in the war with Ukraine. In what was sure to be a steam-roll of a war, the U.S and Nato support have given Ukraine a chance, and Biden deserves a lot of credit for his work."
+}

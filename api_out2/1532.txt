@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1084_A_i",
+	"argument" : "The unfortunate truth is they drive down the pay of blue collar workers. They are just as skilled and work like mules but will do it for a cheaper per-hour pay than what we will do. It's damaging our paychecks."
+}

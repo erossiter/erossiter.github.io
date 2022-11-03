@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1335_B_g",
+	"argument" : "I do think gun control laws are necessary for certain people, but I don't like the idea of taking away guns from citizens who are capable of using them in the correct capacity. I think red flag laws and background checks are necessary, especially for people who are ex-convicts, mentally ill/unstable, and for non-native U.S. citizens. But for the majority of us who are law abiding citizens, I don't think extensive gun control measures are necessary."
+}

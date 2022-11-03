@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1020_A_g",
+	"argument" : "Gun control laws seek stronger checks on those buying or manufacturing firearms. Certain guns, such as high firepower rifles, should be prohibited from public consumption. The need for such weapons is low compared to the risk they create when sold indiscriminately. These weapons have the lowest amount of checks to purchase yet have the highest potential for mass deaths. "
+}

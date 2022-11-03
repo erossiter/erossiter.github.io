@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1423_B_i",
+	"argument" : "I believe the United States should allow generous amounts of immigrants to enter our country and achieve the American Dream. This would make do for more opportunity -- economically and socially and increase diversity. We are, after all, a country of immigrants. "
+}

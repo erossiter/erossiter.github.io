@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1036_A_g",
+	"argument" : "I believe that any gun control laws are governmental overstep. Throughout history, governments that seek to control or take guns away have ended up with mass murder of their citizens. When people give up their ability to defend themselves against their government they lose the ability ever to check the government's power again. The government should be afraid of the people never the other way around."
+}

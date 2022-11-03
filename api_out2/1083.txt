@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1402_A_h",
+	"argument" : "I am a studio art major and environmental studies minor. I started the environmental club at my school and work for the DEI committee in my sorority. I listen to a lot of Taylor Swift and I love to make chipolte/healthy bowls."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1711_B_g",
+	"argument" : "I believe that we all have the rights to own guns according to the second amendment, and that it would be unconstitutional for this to be taken away from us. It is not the guns that do the killing rather it is the people. They could potentially do more of a background check, but I do not believe in limiting our freedom as gun culture is strong and is something many people are fascinated by and enjoy."
+}

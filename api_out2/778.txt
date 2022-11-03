@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1673_B_g",
+	"argument" : "Every citizen should have the right to own a weapon to protect themselves. If I want a gun, I should have the right to go to a shop and buy one. People who blame school shootings on guns should rethink their opinion. A person grabs a gun and pulls the trigger, not the other way around. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1150_A_i",
+	"argument" : "Immigration causes a lot damage to the American Identity of Individuals. We should not allow immigrants the same rights as natural born citizens of the United States. Therefore, taxes we pay should not support immigration or support refugees in the United States. Immigrants could potentially bring violence and danger to our country. We do not know the harms these people will bring and they do not fit in with our American ideals. How can we trust someone who is not a true American? "
+}

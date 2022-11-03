@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1098_A_g",
+	"argument" : "Guns are one of the leading causes of death in America. Over 100 people are killed by guns in the United States every single day. This is a ridiculous statistic, and does not happen in any other country in the world. We cannot remain complacent with gun control; something must be done to stop the violence. There is no reason anyone should own an assult rifle (or any other sort of militarized weapon) for personal defense. We need strict gun control laws to protect our children, ourselves, and our country. "
+}

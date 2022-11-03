@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1515_B_b",
+	"argument" : "I don't think he has done a very good job, but he is much better than Trump was. I'm very excited for the student debt forgiveness and his infrastructure bill."
+}

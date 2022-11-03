@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1174_A_b",
+	"argument" : "President Biden has been a refreshing change from our previous President. He holds a much stronger degree of professionalism in his position and speaks to the public with a sense of decency and respect. He has gracefully entered office amidst an economically turbulent time and done his best to try to turn the economy around. Thus far, I think he is trying to achieve what he claimed he wanted to do for America during his campaign. "
+}

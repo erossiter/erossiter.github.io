@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1233_B_i",
+	"argument" : "I believe that immigration policy in the United States should be tolerant and accepting. Immigrants seek refuge due to political, economic, and social pressure and are desperate to attain a better life with increased resources and opportunities. As Americans, we should be more welcoming and accepting to them in order to embrace our democracy, equality, and ideals of freedom."
+}

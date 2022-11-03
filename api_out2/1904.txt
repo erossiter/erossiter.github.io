@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1430_A_r",
+	"argument" : "Religion plays a large role in my life. I am a Christian, and have gone to a Methodist Church as long as I can remember. I was fairly active in my youth group in the church, and am still very active in YoungLife. Religion is definitely a cornerstone of my life, and I try to turn to God in times of trouble and spread his word in the ways I know how."
+}

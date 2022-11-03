@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1685_B_g",
+	"argument" : "I believe that there needs to be more parameters on purchasing a gun to protect the general public from gun violence. This is done not with the intent of banning guns but to create a safer environment for everyone, gun-owning or not."
+}

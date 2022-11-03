@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1213_B_i",
+	"argument" : "I think that Immigration Policy should be eased. There is a narrative that immigrants are dangerous and bad for the economy but that has been proven to not be true."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1481_B_b",
+	"argument" : "Pretty great. He has been an upstanding and respectable President in comparison to our previous president. He has worked towards reestablishing relationships with our allies and has made strides towards cancelling student debt which is extremely important to me."
+}

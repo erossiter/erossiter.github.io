@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1574_A_h",
+	"argument" : "I am a university student using my gi bill to get me through college debt free. I enjoy anything old and vintage such as music, movies, fashion and hobbies. I play with guitar, photography, painting, sewing, and collecting antiques. I wish for animal rights and equality, human rights and equality and for a government to be fair and non corrupt. "
+}

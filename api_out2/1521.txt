@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1712_A_i",
+	"argument" : "I believe that some legal immigration is fine, but there needs to be more barriers to ensure the psychical and financial safety of U.S. citizens. Given, not all immigrants are coming for the same purpose, but some do migrate to the United States with the sole purpose and intent of exploiting the system. This exploitation can be done by manipulating our welfare system for extra benefits or by bringing illegal activity inside our borders with the intention of financial gain. I believe that immigration is a leading cause of the drug problem in the U.S."
+}

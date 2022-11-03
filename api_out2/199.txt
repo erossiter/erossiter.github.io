@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1256_A_b",
+	"argument" : "Biden's current performance in office has been lackluster. Many of the policies he has put in place have simply been an effort to reverse that of Trump's administration. While this is a step in the right direction, the new policies Biden have pushed for have not lived up to his campaign promises, particularly around student loan debt and immigration policy."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1157_B_i",
+	"argument" : "Immigration policy in the United States is completely flawed. First off, there is obvious systematic racism in the immigration policy that has originated from when this country was built. Immigrants from Mexico versus immigrants from Europe are treated very differently in this country due to the fear of drugs or other idiotic reasons. People's lives are destroyed because innocent people are taken away from their homes, where they lived most of their lives, because they came here illegally. We don't ever hear of white Europeans being sent back to Europe but we hear of people like Ron Desantis treating immigrants like objects. This country is run on immigrants as they are taking the jobs we American citizens do not want. These people already live in terrible conditions, just trying to survive, yet we treat them by sending them back to where they came. "
+}

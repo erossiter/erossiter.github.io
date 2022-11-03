@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1561_B_g",
+	"argument" : "I think that gun control laws are not very important, as everyone should have the right to bear arms for protection. I can sort of understand the issue with weapons following gun violence, but I don't think banning anyone from possessing a weapon will help with that issue. "
+}

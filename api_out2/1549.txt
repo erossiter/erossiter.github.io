@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1330_A_i",
+	"argument" : "I believe that the United States should allow immigrants who come here legally. Some people in other parts of the world come here to escape bad situations, and I believe that is an awesome thing when done in the right way. The US could not support every single person who wants to escape a bad situation, and that would just make us poor and turn into a struggling country as well. The US should give aid to these countries, but people who immigrate here illegally should be deported."
+}

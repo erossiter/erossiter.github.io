@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1292_A_b",
+	"argument" : "So far, I feel as if President Biden is doing the best that he can given the current circumstances of our country, and how the country was left when he went into office.  He just released a statement regarding the student loan policy, so I am eager to see how he carries it out!"
+}

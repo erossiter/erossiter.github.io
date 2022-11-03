@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1615_B_i",
+	"argument" : "With countless global crisis around the world people are displaced every day, from forced migrations or unsafe living conditions. They seek better lives to support their family or make an attempt at a better life. To leave everything behind and risk one's life to move to another country means conditions are bad. Wealthy in comparison to many other nations, I believe the US has responsibility to support those who are suffering and offer them refuge in times of need. The US's immigration policies should be more accepting to refugees. Our time and resources should be spent helping or supporting immigrants, rather then thinking of more efficient ways to keep them out. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1297_B_g",
+	"argument" : "I don't think the gun is a good thing in America. But we can make laws and set limitations to gun control laws. Law is a good thing; it sets up what people can and can't do."
+}

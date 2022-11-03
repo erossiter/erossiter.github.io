@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1503_B_g",
+	"argument" : "I strongly believe that there is no place for military-grade guns in the general population, regardless of gun license status. I don't want to judge others who feel they need a gun to protect themselves but I wouldn't feel comfortable owning one. There should be more government regulation with regards to guns in the US."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1351_B_i",
+	"argument" : "We need to keep immigrants out unless they are pursuing higher education or they are already professionals. There are too many illegal immigrants coming in and taking jobs. We need stronger borders and tighter immigration policy."
+}

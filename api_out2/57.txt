@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1582_A_b",
+	"argument" : "President Biden has done a fine job of pulling our nation out of a very hard time and ensuring vaccines are widespread and available to citizens who are trying to protect themselves and others against COVID. To be completely honest, I haven't been as in tune to the news as I was before Biden's inauguration, but I believe he is staying pretty neutral honestly. There isn't that much to complain about or praise."
+}

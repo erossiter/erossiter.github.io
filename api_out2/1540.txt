@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1192_A_i",
+	"argument" : "Immigration is alright, I just think people should come in the right way. It’s not fair to Americans to have a bunch of people just hopping the border under the radar. If we let too many in, we’ll have more violence, drugs, and less resources and jobs. We need heavier regulations. "
+}

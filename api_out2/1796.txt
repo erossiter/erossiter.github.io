@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1121_B_r",
+	"argument" : "I personally adhere to the notion of having a distinct separation between church and state, not allowing my political and religious beliefs to intermingle. This is an issue many Republicans have, where they allow their religious beliefs to influence political decisions such as restricting abortion rights, restricting religious practices, etc. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1064_A_b",
+	"argument" : "Most would say President Biden has had a poor performance in office but I disagree. I believe that Biden has created jobs, lowered unemployment, and took a strong stance on international relations. He has been much more effective and efficient than Trump ever was."
+}

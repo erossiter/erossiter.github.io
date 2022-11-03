@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1188_A_b",
+	"argument" : "President Biden's performance in office so far has been a vast improvement compared to President Trump. Biden is treating COVID as a true threat and offering government aid in response rather than spreading lies and propaganda."
+}

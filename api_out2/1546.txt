@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1252_A_i",
+	"argument" : "Immigration to the United States should be limited. It is not necessary to open our borders to others when American citizens are struggling to find jobs. Additionally, liberal immigration policy brings with it a wave of crime."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1094_A_g",
+	"argument" : "I believe that the second amendment is outdated and needs updating. Gun control is 100% required to keep the people of the United States safer from people who should not be in possession of dangerous weapons."
+}

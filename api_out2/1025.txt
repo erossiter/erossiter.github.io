@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1296_A_h",
+	"argument" : "In my free time, I love partaking in social activism movements and playing a role in organizing them in my local city. I also love to go to local cafes, and try different types of iced coffee drinks - experimenting is a big part of the fun. I collect tote bags and go to museums with my friends as well. My favorite foods, besides coffee, include Trader Joes snacks and salads, since I am a vegetarian. I also really enjoy trying foods from different cultures, and traveling all over the world. Some of my favorite musical artists include Frank Ocean, Tyler the Creator, Mitski, Dua Lipa, Charli XCX, and Troye Sivan. "
+}

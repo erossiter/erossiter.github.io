@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1338_A_i",
+	"argument" : "As a state founded on liberal principles, naturally a place that allows a pursuit of happiness must accept those who seek such. When a state is founded with principles of universal freedoms, to deny entry goes against its original values. Historically, America has been a place where those oppressed may seek freedom. To deny the same freedoms that were fought for by those founding people goes against what is American."
+}

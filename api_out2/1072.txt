@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1098_A_h",
+	"argument" : "Hi! I am a sophomore political science major who's interested in government. I like Harry Styles, Lana Del Rey, and Taylor Swift, and am always listening to music in my headphones. I love living in Chapel Hill because it gives me an opportunity to participate in so many different activities held by many different groups. Walking through the pit or the quad and seeing all the diverse groups sharing their stories is so interesting to me. It says to talk about your favorite foods but I'm kind of picky hahaha, I'm totally a chicken tender girlie."
+}

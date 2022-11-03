@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1265_B_g",
+	"argument" : "I am a strong proponent of gun control. I do not believe that people should have unfettered access to guns. People, especially young white males, have shown that they have a tendency to be angry and shoot up schools and churches."
+}

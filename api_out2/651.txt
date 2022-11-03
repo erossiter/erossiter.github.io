@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1024_A_g",
+	"argument" : "I'm surprised that this is even a question on the survey, but I will try my best to explain my logic. With the amount of violence going on in this country and in our schools, I think it is a no brainer to have stricter rules when it comes to owning a gun. There should be an immediate ban of all assault rifles and stricter background checks on other weapons. Growing up in a town like Burlington Vermont, where restrictions were harsher, I always felt comfortable and safe in my space."
+}

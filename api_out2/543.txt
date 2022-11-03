@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1367_B_g",
+	"argument" : "The right for the ownership is not only written in our constitution, but also a guarantee for us to face the potential dangers when we need to. It is not owning the gun that makes the world chaotic, but the guns are in the wrong hands. We should make the policy to own a gun stricter instead of the gun itself."
+}

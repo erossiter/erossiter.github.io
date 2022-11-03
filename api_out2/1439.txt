@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1538_A_i",
+	"argument" : "The current state of immigration in the US is mind-boggling. The systems that we have in place to grant immigrants (many of whom are asylum seekers) citizenship are way too slow. Many peoples wait times in the naturalization process span several years which is unacceptable, especially considering that in many cases, these peoples lives are literally at risk. We clearly need some type of immigration policy reform that can address this issue. "
+}

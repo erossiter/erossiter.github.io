@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1541_B_r",
+	"argument" : "While I grew up in a christian household, my parents instilled the value that I should be able to choose my own creed. After reading new texts during the quarantine period, I decided the vastness of the universe doesn't support the existence of a religious creator. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1341_B_b",
+	"argument" : "I think Biden has been a pretty mediocre president so far. I haven't paid too much attention to the news recently which is definitely something I need to get into. It is really nice that Biden doesn't get on the news for embarrassing events every other night like Trump did. Hopefully for the next election, there will be a candidate who is younger and more connected to the rising generations."
+}

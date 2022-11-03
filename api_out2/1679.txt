@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1597_B_r",
+	"argument" : "I am non-religious, but I think freedom of religion is important. Religion should stay out of government--specifically out of women's bodies--but people should be able to express themselves in whatever manner they please as long as it does not impede or offend a marginalized group. "
+}

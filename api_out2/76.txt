@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1222_A_b",
+	"argument" : "I think that Biden could be doing better. Biden wasn't my first choice when it came to electing a president but he was better than no one. He has passed some good motions/laws for our country but he could be doing more. He also is not the best at presentations and addressing the country."
+}

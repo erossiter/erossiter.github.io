@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1592_A_g",
+	"argument" : "I believe in the constitution and that guns should be legal. However, I also believe that there should be a lot of funding behind education and safety to ensure that guns stay out of hands of people with mental health issues. "
+}

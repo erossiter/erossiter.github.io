@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1553_B_i",
+	"argument" : "The immigration policy in the United States is generally too relaxed. While there is nothing intrinsically wrong with immigrants, there needs to be more regulation regarding how they (legally) enter our country - specifically at the Mexican border. "
+}

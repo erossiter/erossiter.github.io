@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1154_A_i",
+	"argument" : "I think we need a strong immigration policy. We need to dedicate significant resources to secure our borders. This is a matter of national security and should not be take lightly. Trump's proposal for a wall may have been a little extreme, but I prefer it to the current alternative. Maybe using technology to secure the borders would be a good middle ground."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1605_B_i",
+	"argument" : "The United States should restrict immigration to an extent. We should only welcome immigrants when they enter this country through legal methods. If America is too open to people from all over the world, we risk taking away jobs, engaging in more violence, and losing our identity as a nation. Government should devote more resources to keep out those who try to enter via illegal methods, as well as keeping track of who enters and when they leave. Amnesty towards illegal immigration encourages future immigrants who enter by breaking the laws, thus it should be ensured that they are not provided with the same benefits as legal citizens.."
+}

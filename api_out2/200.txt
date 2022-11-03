@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1260_A_b",
+	"argument" : "I am pleased with President Biden's performance in office thus far. I feel that President Biden is a better representation of my beliefs than the previous administration, particularly his stance on women's reproductive rights and his desire to codify Roe v. Wade. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1443_B_g",
+	"argument" : "I think that the second amendment is a vital aspect of American freedom and should be promised to all."
+}

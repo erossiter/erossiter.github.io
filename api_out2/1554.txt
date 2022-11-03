@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1360_A_i",
+	"argument" : "I think that everyone can agree that the immigration policy in the U.S. right now is very messy. I don't think the issue is that we need to prevent immigrants from coming in, but that we need to improve background checks on immigrants before they enter the U.S. With the threat of terrorism always on the horizon, it's important to make sure that foreigners are not coming to the U.S. with bad intentions. Illegal immigrants can be a danger because they haven't been background checked, but if we just made the background check process more efficient while also strengthening our borders, it would be easier for immigrants to come into the U.S. legally. "
+}

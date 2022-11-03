@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1132_A_b",
+	"argument" : "Biden has tanked the economy and risen gas prices. Biden is too complicit and senile to be a successful president. He lacks the decisiveness to bring the economy out of recession."
+}

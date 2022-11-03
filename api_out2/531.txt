@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1273_B_g",
+	"argument" : "I believe that we must protect our second amendment rights. We must have the right to protect ourselves when our lives are in danger. This is a constitutional right and it should not and MUST NOT be taken away from American citizens."
+}

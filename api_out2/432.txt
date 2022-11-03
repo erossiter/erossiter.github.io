@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1532_A_g",
+	"argument" : "Gun control is imperative and elected officials need to shift their focus on making stricter gun laws, which make them less accessible to the general public. The lack of gun control has led to the loss of many innocent lives, especially in school shooting, and stricter gun control will help regulate who has access to guns and who doesn't."
+}

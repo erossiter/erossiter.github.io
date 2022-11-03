@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1136_A_i",
+	"argument" : "I support it and believe it should be encouraged as it is not only beneficial to the economy as they take undesirable and low-paying jobs, but also beneficial to our diversity as a nation."
+}

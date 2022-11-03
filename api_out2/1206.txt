@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1163_B_i",
+	"argument" : "Immigrants are a huge part of what makes the U.S. the welcoming and culturally diverse place it is. Immigrants are the backbone of our workforce, and we should treat them like the humans they are."
+}

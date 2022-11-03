@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1551_B_g",
+	"argument" : "I believe there should be some regulations on purchasing guns, the primary factor being that everyone should receive a background check pertaining to if they have a criminal history or mental health issues. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1573_B_b",
+	"argument" : "President Biden has done a great job in office so far. He has followed through with his campaign promises, such as college debt relief. He has also handled the Ukraine and Russia conflict very well."
+}

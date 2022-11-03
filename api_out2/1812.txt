@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1306_A_r",
+	"argument" : "I don't really consider myself a religious person, but religion affects me when other people use it as a weapon against my civil rights. For example, I am personally impacted by people who think their religious beliefs are a reason to restrict my medical access to an abortion."
+}

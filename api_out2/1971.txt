@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1518_A_r",
+	"argument" : "I've been going to church once or twice a week for basically my whole life. My parents put me in Christian Summer camps and would take me to vacation bible school during the Summer if it didn't conflict with a camp. I've made a few lifelong friends through these programs and I'm glad to have grown up Christian. It almost goes without saying that my family and my relationship with God are the most important things in my life to me."
+}

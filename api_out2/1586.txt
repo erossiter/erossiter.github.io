@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1031_B_r",
+	"argument" : "religion does not influence my life very heavily. It does not influence my day to day choices, but does influence some aspects of my family life. While I was raised in a religious household, it does not play a very active role in my current life."
+}

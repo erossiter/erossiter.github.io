@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1167_B_r",
+	"argument" : "Religion does not play a huge role in my life even though I do believe in God. I feel that religion should not interfere or come into play with any aspects of life besides the personal relationship between an individual and what they believe in."
+}

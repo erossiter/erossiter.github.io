@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1465_B_i",
+	"argument" : "I believe immigration should be conducted at a high rate.  Those who are at a disadvantage economically and socially should especially be accepted into the country.  The current immigration background checks take too long and hinder immigration."
+}

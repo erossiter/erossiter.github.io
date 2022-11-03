@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1070_A_i",
+	"argument" : "Immigration is a contentious issue, but I think that the core values of this nation are tied to immigrants, and by definition no one in this nation (other than native Americans) can be classified as someone who isn't connected to immigration. Immigration should be a mostly open policy -- if there are no major underlying reasons for why someone can't enter the United States, then they should be permitted to enter to live and work freely."
+}

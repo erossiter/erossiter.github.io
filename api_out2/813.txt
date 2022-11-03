@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1280_A_h",
+	"argument" : "I am a college student who has immigrated from India.I love the opportunities that the USA gives me to excel in what I like to do. I support the LGBTQ+ community  and support solutions that solve issues going on in the world like Climate Change."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1365_B_b",
+	"argument" : "Biden has set us back economically. Our economy was better under Trump, and Biden has once again put the government above the American people in order to further his own agenda."
+}

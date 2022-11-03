@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1666_A_g",
+	"argument" : "I think that it is extremely important that the government places more restrictions on guns. I believe there should be a lot of control around weapons and who can access them to prevent gun violence."
+}

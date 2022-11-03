@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1285_B_i",
+	"argument" : "This country is a country of immigrants and ignoring that narrative is ignorant and anti-progress. Current immigration policy is deeply flawed, the crisis at the border demonstrates at much, but past failures should not be carried on the shoulders of current immigrants. American should be pro-immigrant and have accessible pathways for naturalization. "
+}

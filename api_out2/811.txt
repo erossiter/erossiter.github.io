@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1248_A_h",
+	"argument" : "I actively participate in protests for women's rights as I believe women should have full control of their bodies and abortion should be accessible for all especially ones who are in lower classes."
+}

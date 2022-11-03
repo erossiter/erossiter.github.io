@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1069_B_g",
+	"argument" : "I believe that the citizens of the United States have a right to bear arms according to the second amendment which was established so that citizens may stand up to a tyrannical government. Gun control is only taking guns away from law-abiding citizens. If someone wants a gun, they will get it illegally. Gun control laws take away the good citizens' means of protection and self-defense. Not to mention they violate our second amendment right."
+}

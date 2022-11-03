@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1052_A_r",
+	"argument" : "Religion is not a big role in my life because I grew up on it. Going to service every Sunday and bible study every Wednesday. I have grown into knowing that you do not need to commit to that service or bible study to have a relationship with your religion. I have also become more curious about the root of religion and its true meaning instead of just believing what someone tells me."
+}

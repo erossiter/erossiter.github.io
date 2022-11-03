@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1458_A_g",
+	"argument" : "I think we need gun control immediately. It’s ridiculous that we let an amendment written almost 250 years ago dictate our modern world. With a rise in violence and mental health crises, it’s important that we take steps to prevent tragedy before it happens. There is no excuse for the school shootings and mass homicides when we have the power to do something about it. We don’t need to get rid of guns completely but we need to control them."
+}

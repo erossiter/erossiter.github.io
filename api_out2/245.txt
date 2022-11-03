@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1639_B_b",
+	"argument" : "I think President Biden has done a good job at maintain COVID-19. The rate of people dying and getting COVID-19 has lessen since he has been in office. I also think President Biden advocating for people to get vaccinated was a smart choice."
+}

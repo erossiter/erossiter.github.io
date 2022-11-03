@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1003_B_g",
+	"argument" : "I believe that the country has way too lenient gun laws and that we need more control. Although the right to bear arms does exist, we need to reassess the time period that this amendment was made during and also address the fact that weapons at this time were not as deadly as they are now. The constant mass shootings and the desensitizing towards it should be enough to prove that change needs to be made."
+}

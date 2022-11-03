@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1419_B_g",
+	"argument" : "Americans should not be able to buy or own guns. End of story. The harm that they cause in schools, etc. outweighs every other possible benefit of a citizen owning their own personal gun."
+}

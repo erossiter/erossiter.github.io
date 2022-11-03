@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1527_B_i",
+	"argument" : "I think the immigration system in the United States is broken and in need of reform. The immigration process is extremely complicated and full of bureaucratic red tape that makes things extremely difficult for people. In addition to this, I think that the immigration process and policy in this country are often heavily skewed by racism. "
+}

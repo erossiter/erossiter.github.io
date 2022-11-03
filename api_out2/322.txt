@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1146_A_b",
+	"argument" : "I do not think he is who the people voted for. I think he goes against traditional American values, and is not fulfilling the promise he made to Americans."
+}

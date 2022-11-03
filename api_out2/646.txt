@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1679_B_g",
+	"argument" : "I believe that there needs to be a safe background check system that limits who can buy a gun, how many guns a person can buy, and places caps on the assault levels of guns. "
+}

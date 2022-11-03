@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1623_B_g",
+	"argument" : "Gun control laws need to be stricter, and potentially banned altogether. Guns have caused major problems in the U.S. through mass shooting, and sadly more recently, school shootings. Guns need to be addressed and taken care of before fatal shootings happen again. Not only that, but laws limiting how you receive guns is a large root of the problem; having military grade weaponry available is terrible for U.S. citizens."
+}

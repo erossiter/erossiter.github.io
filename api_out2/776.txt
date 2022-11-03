@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1670_A_g",
+	"argument" : "I believe that the people that work the hardest are the most successful. People who don't put in enough work aren't, and they shouldn't be able to ride off of the tax dollars that other people worked hard for. "
+}

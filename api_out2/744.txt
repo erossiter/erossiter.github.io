@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1340_A_g",
+	"argument" : "The Second Amendment and the intentions of the Founding Fathers are very important to the notion of freedom in this country, and I am opposed to laws which make it more difficult for Americans to own guns. As a woman, it is very important to me to be able to protect myself from criminals and assault."
+}

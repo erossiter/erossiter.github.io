@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1361_B_r",
+	"argument" : "Religion plays little to no role in my everyday life. I was raised in a non-religious family with a father who is strongly atheist. Our views about equity, justice, and caring for others come from our own moral values, not any religious goals. In fact, I have seen the way that religion (especially white Christian institutions in America) has been used to justify intolerance, discrimination, and violence—including against the LGBTQ+ community and those seeking abortion. So, if anything, the role that religion plays in my life is a negative one."
+}

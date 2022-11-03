@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1483_B_i",
+	"argument" : "The immigration policy should be less restrictive."
+}

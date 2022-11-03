@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1493_B_g",
+	"argument" : "There should be very little to no regulations on guns."
+}

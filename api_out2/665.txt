@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1404_A_g",
+	"argument" : "I believe that there should be strict gun control laws. Other countries like Australia have had one school shooting and it never occurred again. England has a no-gun policy and seems to work pretty well for them as well. If America wants to become a safer place where children can go to school with no fear of violence, better gun control is essential. "
+}

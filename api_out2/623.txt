@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1483_B_g",
+	"argument" : "America needs stricter gun control laws."
+}

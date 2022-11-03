@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1190_A_b",
+	"argument" : "I believe that President Biden is doing as well as he can in office. Due to international struggles (Russia), gas prices have indeed skyrocketed, but this isn't relevant to Biden's influence. Although at times he may struggle to get his message across, I believe that he is an excellent fit for president, especially given his political background as a Vice President, and is far more qualified than Trump ever was."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1509_B_r",
+	"argument" : "I am a Presbyterian Christian, and I have been for my whole life. I never joined a youth group or attended Sunday school, because my parents are divorced and I attended two different churches. I try to attend church every Sunday that I can, but it is hard to when I don't have a car on campus. I consider myself to be a pretty open-minded Christian, and my opinions on abortion and the LGBTQ community likely differs from other Christians. I believe that God loves us all, and we have no place as Christians to be judgmental and hateful to others. "
+}

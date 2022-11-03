@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1289_B_r",
+	"argument" : "Religion does not play an important role in my life. I believe there may be a higher being in the universe, but I do not believe this should have any bearings on my day-to-day life. I prefer to spend my time looking at science than religious figures. "
+}

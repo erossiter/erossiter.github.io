@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1435_B_g",
+	"argument" : "I believe that under the rights granted under the U.S. constitution, every individuals contains the right to bear firearms. Gun control laws are restricting our freedom, and reduces one of our sources of protection. "
+}

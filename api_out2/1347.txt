@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1207_B_i",
+	"argument" : "I can understand that there are people coming from horrible life or death situations, and I think it is a good idea to help some of them. However, at the end of the day we cannot help everyone and we as a country already have enough problems so I think we should immigration to the side for right now."
+}

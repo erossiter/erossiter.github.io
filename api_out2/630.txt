@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1541_B_g",
+	"argument" : "I believe that gun control laws should be more strict. People are put in danger everyday because of how easy it is to obtain weapons that can end someones life. This is an issue I especially see in schools and believe there should be more thorough background checks and age laws relating to firearms."
+}

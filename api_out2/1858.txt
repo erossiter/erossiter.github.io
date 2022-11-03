@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1098_A_r",
+	"argument" : "Religion does not play a role in my life, as I am not religious. I moved away from religion early in my life, as I believe in science; not a made up man in the sky. Some people are religious, and I believe in acceptance, so I am okay with them holding their beliefs, as long as they don't infringe on my rights. "
+}

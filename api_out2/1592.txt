@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1080_A_r",
+	"argument" : "Religion does not play a very important role in my life, but I can see how religion plays a big role in others lives. It is important to not impede on anyone’s beliefs in terms of their religious attitudes and thoughts, but to accept them and be open to understanding their beliefs."
+}

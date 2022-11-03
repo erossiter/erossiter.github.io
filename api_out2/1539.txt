@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1185_B_i",
+	"argument" : "Immigration policy in the United States has always been a major topic of discussion over the past years. President Trump was headed in the right direction in regards to slowing/stopping illegal immigrants, and those taking away jobs from American citizens, but there is still a long ways to go."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1099_B_i",
+	"argument" : "I think we need to take tighten restrictions on immigration due to the sheer amount of migrants trying to cross the border to the South and the amount of refugees seeking asylum in the US. The US should seek to limit immigration because it increases crime and violence in the US."
+}

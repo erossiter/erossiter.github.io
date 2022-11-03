@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1506_A_b",
+	"argument" : "President Biden has done a fine job in office. Job opportunities have grown, student loan forgiveness have been implemented, and during Covid-19 families were given a stimulus to help them during this pandemic."
+}

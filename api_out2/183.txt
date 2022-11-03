@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1082_A_b",
+	"argument" : "So far I don't believe President Biden has made any defining actions as president. Most of his actions seem to be geared towards buying voters by addressing specified crowd issues like student debt. Inflation continues to rise and internal unrest has yet to be addressed. The U.S. needs a young leader who is capable of making affirmative actions that will have a genuine impression on our country."
+}

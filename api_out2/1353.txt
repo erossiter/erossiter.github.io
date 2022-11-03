@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1269_B_i",
+	"argument" : "Immigration is policy that we need to keep strong and be diligent about. Natural born citizens of the United States should always come first when it comes to jobs, opportunities, and higher education. By having an easy immigration process, real US citizens miss out on the opportunities they should have access to first. The first step with doing this is making sure our southern border is secure and limiting the amount of illegal's coming into our country."
+}

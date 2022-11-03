@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1256_A_g",
+	"argument" : "Gun control laws in America are completely deficient of what is needed. Gun violence due to the absence of necessary laws has led to prejudiced policing practices, needless mass shootings, and the degradation of underprivileged communities. The argument that guns are needed to protect ones self from the government is antiquated, and no person should have access to an arsenal comparable to what the government has. Furthermore, the idea of the defense of democracy is totally dispelled when the most acute examples of those trying to defend democracy happened in support of racist slavery institutions during the civil war, and now during the events of January 6, which although involving to shootings, was perpetrated by a demographic who supported less gun legislation. These events actively worked against the democratic system."
+}

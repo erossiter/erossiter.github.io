@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1371_B_b",
+	"argument" : "Sloppy Joe is on the edge of life and isn't fit to be president of our country. He has more epileptic-like seizures on camera than he has made memorable speeches. He's condemned Trump's America, and we must make it great again. "
+}

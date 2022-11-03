@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1295_B_r",
+	"argument" : "Religion is very important to me and I go to church every Sunday. It is important that someone who applies the bible to their everyday life should be in power of our country."
+}

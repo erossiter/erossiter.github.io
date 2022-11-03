@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1665_B_b",
+	"argument" : "I think Biden has not done a great job in office so far. I believe that the election was fraudulent and that President Trump should have been in the office right now. Other than that jarring fact Biden has not done much good or bad while in office."
+}

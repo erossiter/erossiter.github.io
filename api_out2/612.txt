@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1353_B_g",
+	"argument" : "There should be stricter laws restricting the sale and purchase of firearms. We should implement universal background checks and red flag laws. We should also enforce a mandatory buy-back of assault weapons."
+}

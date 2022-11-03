@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1536_A_h",
+	"argument" : "I was raised in East Bend, North Carolina. It's a small tight knit community filled with love and support. I love country music. My grandmother (we call her meemaw) introduced me to Marty Robbins, who was one of her favorites at a very young age, which allowed me to explore more. My favorite artists are Carrie Underwood and Kenny Rogers (basic, I know). I love to read romance novels and sci-fi novels as well. My favorite foods are foreign foods, specifically Mexican food, but my favorite fast food restaurant is Bojangles. I like fishing, hiking, and running. My favorite holiday is Thanksgiving because I get to be around my family and have a good time."
+}

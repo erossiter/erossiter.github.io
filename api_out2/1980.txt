@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1702_A_r",
+	"argument" : "While I was raised in a somewhat religious household, religion is not a major factor in my life. Our family celebrates most of the Christian holidays, but we do not strictly adhere to the bible. Twice a year, my parents, me, and my sister go to church, and I do believe in God, but I would not say that my religion plays a strong role in my day-to-day life."
+}

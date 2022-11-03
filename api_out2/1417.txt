@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1353_B_i",
+	"argument" : "Our immigration policy should be less strict to allow more skilled workers to enter. We should increase the amount of visas we give out. We should also increase our number of asylum seekers that we accept."
+}

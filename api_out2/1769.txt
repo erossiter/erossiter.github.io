@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1479_B_r",
+	"argument" : "My family was raised Irish Catholic. While I am not a weekly churchgoer, I believe in the ideals of the church and try to uphold the morals that align. However, I fall short a lot of the time. It is difficult to maintain religious morals in current society with so many temptations, especially while in college. "
+}

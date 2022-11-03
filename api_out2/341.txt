@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1376_A_b",
+	"argument" : "President Biden ran on a platform of creating more unity within the country, but he’s only managed to do the opposite. His divisiveness and refusal to cooperate with Republican lawmakers has only contributed to more problems for the country. "
+}

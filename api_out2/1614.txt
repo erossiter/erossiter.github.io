@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1307_B_r",
+	"argument" : "While religion may play a strong role in my life, I do not let this impede upon my openness towards people of other religions. It is important to place yourself in the another's shoes, simply to better understand how their religion impacts their life."
+}

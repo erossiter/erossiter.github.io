@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1352_A_i",
+	"argument" : "I think America should be more accepting of immigrants and should work harder at dismantling harmful and untrue stereotypes about immigrants. I think we should have a more comprehensive asylum program so refugees are not living in bad conditions during their immigration process."
+}

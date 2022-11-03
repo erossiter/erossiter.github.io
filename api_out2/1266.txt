@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1635_B_i",
+	"argument" : "I denounce the Trump Administration's dehumanizing practices of immigration.  From separating families and putting children in cages, to deporting veterans who have fought to defend our American freedoms, to conducting militarized raids on our workplaces, and even denying COVID-19 testing and treatment based on citizenship status, these policies are against what America is all about. We are a nation of immigrants; all of us immigrated to what was once indigenous land. I believe we should repeal the Trump Administration's travel ban on groups including Muslims, expand the Dreamers/ DACA program, and make sure the police at the detention facilities are held accountable for unfair treatment of new citizens. The process towards citizenship should also become much more streamlined so new immigrants can join the workforce and contribute to our economy."
+}

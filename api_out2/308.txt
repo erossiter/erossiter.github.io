@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1054_A_b",
+	"argument" : "Joe Biden is incompetent. He is too old to be president. He is radical and he is pushing this radical liberal agenda onto hardworking Americans. I disagree with all of his policies."
+}

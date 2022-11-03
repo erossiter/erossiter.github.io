@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1262_A_g",
+	"argument" : "There is no place for assault weapons in American society. Yes, the Second Amendment grants us the right to own firearms for a well-regulated militia, but we are still allowed to put certain provisions on the amendment. The First Amendment is arguably the most important amendment, yet there are still restrictions on what we can say and do. If we can't scream FIRE! in a crowded area where there is no fire, we also do not need to own assault weapons that can kill hundreds of people in minutes. "
+}

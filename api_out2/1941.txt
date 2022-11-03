@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1220_A_r",
+	"argument" : "Religion is personally very important to me. I was raised in the catholic church and believe that the values it teaches are necessary for the perpetuation of the goodness of mankind. Religion has also guided many of my political beliefs because in my eyes, God comes first."
+}

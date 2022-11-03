@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1088_A_b",
+	"argument" : "President Biden has done a poor job in office. Inflation is running rampant and the economy is in a much worse situation than it was when Trump was in office. He doesn't seem like he is completely there mentally, which creates a weak picture of our country on the international scale. "
+}

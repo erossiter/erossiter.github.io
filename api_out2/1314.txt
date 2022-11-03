@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1386_A_i",
+	"argument" : "There should be clear, legal ways for immigrants to come to the United States. Immigration policy should be stricter than it is right now, because more illegal immigrants makes it more difficult for those who are trying to immigrate legally. "
+}

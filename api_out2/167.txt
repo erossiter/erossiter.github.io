@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1630_A_b",
+	"argument" : "I feel President Biden has not accomplished much while being in office, but I think that was expected of him considering he was not the real winner of the 2020 election. He has managed to force gas prices to extreme highs and inflation is also at an all-time high which I do not like. He has also caused the economy to tank in record-breaking time considering the economy was so great under president trump. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1117_B_r",
+	"argument" : "I am struggling with religion to be honest. I grew up in a conservative church when I was younger and for some personal reasons I felt judged and abandoned. I have tried some more liberal churches in college that seem to be much more accepting but I am still having trouble committing to a church."
+}

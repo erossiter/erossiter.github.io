@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1082_A_i",
+	"argument" : "I believe that the U.S. needs a better immigration policy in regards to allowing those who wish to work in the U.S. and make an honest living. The current policy takes entirely too long and encourages illegal immigration due to the difficulty of legally obtaining U.S. citizenship."
+}

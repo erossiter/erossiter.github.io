@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1278_A_i",
+	"argument" : "The United States immigration policy is too complicated and complex to allow for effective immigration. For example, the green card waiting period is so long that I know people who are approved after decades and they have since passed away. Immigration policies a cumbersome, ineffective, and discriminatory system that need to be overhauled."
+}

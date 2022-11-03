@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1501_B_i",
+	"argument" : "I believe that immigration is an important part of American society and cannot be severely restricted. The history of immigration in the US cannot be ignored. The current immigration policy is fine, but it could be better."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1004_A_g",
+	"argument" : "As an American, I should be able to purchase a gun as it is one of my rights in this country. The formation of firearm regulations is unconstitutional and would be embarking on my privileges. "
+}

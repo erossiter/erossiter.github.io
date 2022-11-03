@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1075_B_r",
+	"argument" : "Religion is the most important thing in my life. I value God above all others. The Bible dictates how we should live our lives in order to be good messengers of God. I typically rely on my faith when making all my decisions in life."
+}

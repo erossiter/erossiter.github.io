@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1664_A_g",
+	"argument" : "My views on gun control laws are very stable in the fact that they need to be changed as soon as humanly possible. I believe that gun control reform is a main issue in society today and it is causing harm to not only the current generation but the upcoming generations as well."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1694_A_g",
+	"argument" : "I think that all guns should be legal and available for purchase to the right people. Buyers need to be put through the proper guidelines as well. Willing to discuss maybe raising the minimum age of purchase to 21, but nothing more."
+}

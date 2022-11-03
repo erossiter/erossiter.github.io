@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1623_B_b",
+	"argument" : "President Biden has done okay, to say the least. I wish he made more jumps to stop some of the leading problems in the U.S. such as gun regulation. Also I think the assistance he has granted through unemployment aid has created some problems with peoples willingness to work."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1599_B_b",
+	"argument" : "Joe Biden didn't even win the election. The election was stolen and given to a man who can't even remember his own middle name half of the time. He is old and fragile and has put our economy in the dumpster. He let gas prices go up to crazy numbers too."
+}

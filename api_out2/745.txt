@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1342_A_g",
+	"argument" : "I think the Second Amendment in the United States Constitution summarizes my viewpoint surrounding gun control quite well. Individuals have the right to bear arms, it is literally in the federal document that our country was established upon. It doesn’t matter what my view is so long as it stays written in that document (which it will), that Americans have the right to freely bear arms."
+}

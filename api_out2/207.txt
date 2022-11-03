@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1336_A_b",
+	"argument" : "President Biden has felt fairly insignificant to me, so I can’t say if I accurately support or disapprove of him (although, I understand there are areas in which he can improve and that he is older). What I do know, is that he is better than the alternative candidate in the 2020 election. "
+}

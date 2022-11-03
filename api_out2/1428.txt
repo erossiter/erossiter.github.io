@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1449_B_i",
+	"argument" : "Our country was literally founded on the notions of diversity and opportunity, so I definitely think we should be more open to accepting immigrants than we currently are. The main counterargument tends to be about immigrants bringing crime/drugs but there really isn't much statistically to prove that, a lot of it is just grounded in stereotyping people of color in my opinion. I've even heard that immigrants could provide an opportunity for economic growth due to increased tax revenues, so I'm honestly surprised that so many Republicans are still anti-immigration today."
+}

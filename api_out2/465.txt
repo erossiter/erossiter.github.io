@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1415_B_g",
+	"argument" : "I think gun control laws are necessary in the United States. Everyday, many people lost their lives to guns. In a modern world, citizens don't need guns as opposed to the society way back then. People claim that we need guns to protect ourselves are delusional. What kind of danger or people are they protecting themselves from? Guns don't protect people but put people in danger and take away people's lives. American citizens shouldn't be able to purchase a semi-automatic AR from a local gun shop down the street as this is ridiculously dangerous to the buyer and the people around the buyer. "
+}

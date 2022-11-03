@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1013_B_b",
+	"argument" : "He has done an absolutely horrible job. The economy has gone to crap and none of this would have happened if people didn’t hate Trump so much. They chose this man just because he was not Trump without any concerns as to how he would do in office."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1534_A_i",
+	"argument" : "I think that we often view immigration as a one-sided policy issue rather than a multi-dimensional issue. I think that policy-makers too often only take economic efficiency into account when considering immigration. However, looking at history, it's incredibly hypocritical to deny somebody access to a better life when the vast majority of Americans come from immigrant lineage. Rather than question the economic value of immigrants, immigrants should be looked at with respect, dignity, and as human beings similar to those who migrated to America from Europe for the first time. "
+}

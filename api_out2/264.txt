@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1417_B_b",
+	"argument" : "I think he is doing well. Relieving student debt, tackling the covid pandemic, lowering once high gas prices. He's trying to re-establish relations with some people that Trump destroyed, which I find so promising."
+}

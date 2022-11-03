@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1425_B_b",
+	"argument" : "I do not believe that Joe Biden’s office performance has been stellar so far, but it would be much worse if it was Donald Trump instead. He has done good things, but he is no Obama. "
+}

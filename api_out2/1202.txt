@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1107_B_i",
+	"argument" : "I believe the Immigration Policy should be under reform. It takes to long to be able to enter the country, as well as the test taken before granting citizenship is also a way of deterring individuals from becoming a citizen."
+}

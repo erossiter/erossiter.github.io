@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1019_B_g",
+	"argument" : "The ability to own a gun is not a problem, but tightening gun laws protects the general public by way of making illegal gun ownership an offense with higher penalty and increasing the steps taken to prove someone is responsible for gun ownership. The argument has been made that increasing gun laws will not stop criminals from owning and using illegal guns, but perhaps it will make them more difficult to obtain.  In addition, increasing the stringency of background checks could help to pick up on mental health issues in individuals before their situation worsens, and it could also elevate gun ownership above a casual endeavor, downsizing the group of people who wish to own guns."
+}

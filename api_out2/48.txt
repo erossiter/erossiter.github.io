@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1484_A_b",
+	"argument" : "I think Biden’s performance is office so far is good, but not great. One thing he has accomplished that I really appreciate is his signing of the Green New Deal where he sets concrete standards for how the US can make major strides in combating climate change. "
+}

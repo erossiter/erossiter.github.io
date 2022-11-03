@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1445_B_b",
+	"argument" : " I am unimpressed with his performance.  He is obviously miles better than Trump, but I think both sides of the political spectrum would say they aren't thrilled with what he has been doing."
+}

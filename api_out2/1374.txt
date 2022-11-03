@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1479_B_i",
+	"argument" : "I think that Donald Trump's wall was somewhat of an exaggerated attempt on preventing immigration. While I support his dedication to the cause, it was quite a big project that cut into the military budget. The military budget is so important and shouldn't be limited. If the money had come from elsewhere, it may have been easier to support the construction of the border wall. I don't exactly condemn the wall, but I didn't necessarily agree with it either.  "
+}

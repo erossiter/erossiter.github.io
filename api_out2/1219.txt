@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1247_B_i",
+	"argument" : "I believe, with some regulation, everyone deserves a fair chance at migrating to a safer country. Americans have no right to dictate who can and can't come, as we are living on stolen land anyways. The immigration process should be made easier for immigrants, and upon safe, legal immigration, these migrants should be provided with stable jobs and housing."
+}

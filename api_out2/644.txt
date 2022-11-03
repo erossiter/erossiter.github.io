@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1654_A_g",
+	"argument" : "I believe gun control laws are weaker than they should be. The amount of violent shootings in places of worship, education, and entertainment are higher than they should ever be. Lobbyists such as the National Rifle association often have a higher priority than people's safety."
+}

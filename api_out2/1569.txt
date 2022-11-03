@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1522_A_i",
+	"argument" : "Immigrants are the backbone of this country and embody the American dream. Immigrants are often hard workers and we should welcome them into this country. However, there needs to be more strict security for American borders because the people who are trying to enter illegally are not the immigrants who will work hard and provide value to our economy. I understand those who are refugees fleeing their nations have no other alternative than immigration, but it needs to be done responsibly for our safety and their safety. "
+}

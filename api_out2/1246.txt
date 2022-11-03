@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1484_A_i",
+	"argument" : "I think it's important to have laws around immigration/enforce those laws, but I think separating families based on their citizenship is inhumane and needs to be addressed; Immigrants help us fill a lot of those jobs that no educated American wants to do. They contribute a lot to our economy."
+}

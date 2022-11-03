@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1677_B_r",
+	"argument" : "Religion does not play a huge role in my life but i do go to church and believe in god. Though it does not ettect my political beliefs it is more of a personal belief"
+}

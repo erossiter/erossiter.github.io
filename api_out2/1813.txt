@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1311_B_r",
+	"argument" : "Religion does not play a huge role in my life. I tend to stay away from religion when it comes to my decision making and I think it is ridiculous when people base all of their political views on their religion."
+}

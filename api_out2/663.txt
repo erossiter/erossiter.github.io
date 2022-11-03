@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1377_B_g",
+	"argument" : "I believe gun control laws here in America are not adequate enough to properly solve the issue of gun violence in this country. America is home to around 120 owned guns per 100 people. This shouldn't be the case in any country that has such a strong tie to both the police force and military. I believe that gun control laws are incredibly inefficient and allow for people young and old, with little to no identification or qualifications to buy and possess a gun."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1361_B_i",
+	"argument" : "As it stands, the United States does not do nearly enough to provide an efficient and effective pathway for those wanting to make America their home. As a result, the U.S. has many undocumented people who are exploited in the workplace, discriminated against in the media, and threatened by ICE and other officials who seem to be intent on punishment instead of reforming immigration policy to better support our immigrant and refugee populations. I also think that the United States has a moral obligation to accept refugees, while working to reduce conflict at home and overseas."
+}

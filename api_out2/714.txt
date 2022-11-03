@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1073_B_g",
+	"argument" : "I think that guns aren't the problem. It is people who buy the guns that do the killing, not the guns. People should still be able to buy guns because most people know how to handle them properly."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1061_B_i",
+	"argument" : "I believe that we should have open borders and that all immigrants should be allowed to have sanctuary in the country. Even if they come illegally, they should be allowed to stay and have amnesty. "
+}

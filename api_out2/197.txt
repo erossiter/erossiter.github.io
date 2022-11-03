@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1237_B_b",
+	"argument" : "He has made mistakes, such as the Afghanistan withdrawal, and he has his constant blunders, but he has made progress, such as his recent marijuana legislation which is a step in the right direction"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1480_A_r",
+	"argument" : "Religion does not play that much of a role in my life. I am all for respecting everyone's right to participate in whatever religious activities they want, but it is not my thing. I am also not one to just shove my religious views down someone else throat, unlike other people."
+}

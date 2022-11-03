@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1032_A_b",
+	"argument" : "I think Biden's performance has been sub-par.  I personally enjoyed the more risky, fiery side that Trump brought to the table in office as I feel like Biden backs down to other countries instead of asserting the U.S. dominance and engaging in international relations.  "
+}

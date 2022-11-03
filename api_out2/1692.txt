@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1201_B_r",
+	"argument" : "I'd say that I'm a decently religious individual. I go to church every Sunday and have bible study on Monday nights as well. I try not to do anything that my parents or God would not approve of, and use those values as a moral compass to guide my every-day life."
+}

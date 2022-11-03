@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1182_A_r",
+	"argument" : "We mostly believe in Protestant Christianity. We believe that humans are only saved by God's grace. All Christians are able to confess their sin to be forgiven. However, we reject the authority of the Pope."
+}

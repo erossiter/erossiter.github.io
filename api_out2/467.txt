@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1512_A_g",
+	"argument" : "There should be less guns in our country, especially assault rifles. With the abundance of mass shootings and the many handgun deaths we face in this country everyday, guns should be eventually removed from the hands of our citizens. "
+}

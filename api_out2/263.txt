@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1326_A_b",
+	"argument" : "I think he has done well so far. He took away some student debt. The infrastructure plan will be beneficial in the long term. But he has done nothing for abortion rights. His handling of the war in Ukraine has not been great. He seems more preoccupied with Donald Trump than being the current president."
+}

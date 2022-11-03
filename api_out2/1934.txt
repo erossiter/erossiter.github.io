@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1166_A_r",
+	"argument" : "Religion is one of the key aspects of my life. Our country was founded under God and I intend to honor this value and share this national commitment. I have a very strong community in the church and we meet up many times a week to do our devotions and have conversations about how God is working in our lives."
+}

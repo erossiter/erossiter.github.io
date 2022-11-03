@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1131_B_h",
+	"argument" : "I am huge into the outdoors. Definitely a big mountain girl I love to go hiking,  kayaking, and camping and because of that I pride myself on being eco-conscious and encouraging others to do so as well. My current top Spotify artists are Steve Lacy, Mac Demarco, Phoebe Bridgers, and Faye Webster but all time top Spotify artist is Taylor Swift, as it should be. I was originally a bio major but that changed very fast and now I am currently a Poli-Sci major with a Women's and Gender Studies minor. I am really passionate about my volunteer work here on campus which includes Special Olympics, Salvation Army, and Big Brother Big Sister. "
+}

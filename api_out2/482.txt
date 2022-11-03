@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1065_B_g",
+	"argument" : "As stated in the 2nd Amendment, every American citizen has a right to own and possess a gun. However, this does not mean any citizen should be able to walk into a store and walk out with a firearm. Therefore, gun control laws are necessary, but within reason. By this, I mean there is a reason and purpose that a citizen must be 18 years old to buy a gun and go through the necessary background checks. There is also reason and necessity for anyone above the age of 21 to have to take a course before having a concealed carry permit. However, prohibiting citizens from owning guns would not only take a right stated in the Constitution but also take guns away from those who use them safely, but it will not permit dangerous people from finding a gun just as laws against drugs do not prevent drugs."
+}

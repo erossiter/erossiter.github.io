@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1255_B_g",
+	"argument" : "I believe that there should be logical control and government regulations on the sale of firearms. With that being said, I do not think that the current state if gun laws is doing a orofficent job at protecting citizens of the United States. There are far too many crimes committed against individuals with weapons."
+}

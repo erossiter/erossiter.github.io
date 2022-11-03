@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1153_B_r",
+	"argument" : "My life consist of a good portion of my religion. Through my religion I have been taught to love and care for my fellow man and that I am my brothers keeper. My religion has taught me to be tolerant of all people and love them regardless of their flaws or our differences."
+}

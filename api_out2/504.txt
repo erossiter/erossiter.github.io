@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1008_A_g",
+	"argument" : "Gun control laws coincide go against the 2nd amendment where it is a right to own a gun. States should be able to decide their own rules about owning guns but the government should not interfere with the right to owning guns in general."
+}

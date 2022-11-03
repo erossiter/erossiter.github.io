@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1195_B_b",
+	"argument" : "I think President Biden’s is doing a fairly good job. He has made small improvements within our government. One thing I really admire him for is renewing the Dream program for Hispanics."
+}

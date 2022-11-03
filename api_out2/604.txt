@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1266_A_g",
+	"argument" : "I believe that gun control laws can be put in place while still respecting the rights of responsible gun owners. We need to expand and strengthen background checks for those who want to purchase a firearm. It is imperative that we ensure that guns don’t fall into the hands of terrorists (whether they be domestic or foreign), domestic abusers, other violent criminals, or those who have shown signs of danger toward themselves or others. It should not be easier to purchase a gun than a drivers license in this country. "
+}

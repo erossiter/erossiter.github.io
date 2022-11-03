@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1502_A_g",
+	"argument" : "I think that gun control laws important, however, I think there is put too much attention in the wrong place. Guns are not necessarily the issue, but sociological, economical, and societal issues are. In places with highly restricted gun laws, mass killings are still in existence. Perhaps gun laws can be tightened a little bit but I do not think it is the most important issue at the moment. "
+}

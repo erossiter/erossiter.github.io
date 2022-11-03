@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1372_A_b",
+	"argument" : "I am pleased with President Biden's performance in office so far. I believe he has followed through on a majority of his promises that he made during his campaign. His recent push has been huge, especially with the 2022 midterms approaching in less than a month. Of course there are some areas of improvement that I believe changes could be made, however, they are minimal and not enough to cause a drastic change."
+}

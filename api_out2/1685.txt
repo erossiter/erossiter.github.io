@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1011_B_r",
+	"argument" : "Religion played a critical role in my life as a child, but has waned in influence as I have gotten older. My family went to church every Sunday and I believe the experience to be beneficial in establishing moral values. I do not believe religion should dictate political ideology, but I see its relevance in debates about abortion, education, and gender identity rights. "
+}

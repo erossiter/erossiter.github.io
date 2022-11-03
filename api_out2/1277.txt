@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1035_B_i",
+	"argument" : "The immigration policy of the United States is horrible. These are human beings who are just seeking a better life for themselves and their families and this country treats them all like criminals and animals. A family should never be separated. What is happening to immigrants at the boarder is inhumane. It should be easier for people to come to this country and we should help immigrants once they are here."
+}

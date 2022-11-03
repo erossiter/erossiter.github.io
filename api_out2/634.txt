@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1548_A_g",
+	"argument" : "Gun reform is necessary because mass shootings have become a serious problem in America. Background checks and tighter restrictions on who can purchase a gun must be enforced so that children and other vulnerable groups are protected."
+}

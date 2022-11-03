@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1130_A_r",
+	"argument" : "I consider myself to be a very devoted Christian. In my family, religion is very important and I think that biblical values should be part of legislation. So I'd say religion is pretty important. "
+}

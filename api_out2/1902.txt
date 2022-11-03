@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1411_B_r",
+	"argument" : "Religion is a big part of my life, but it plays an even larger role in my family (for my parents, especially). I grew up going to Catholic Church in my town. I did gain a lot of friends and people I know from church, but I would say that it is not a massive portion of my life. "
+}

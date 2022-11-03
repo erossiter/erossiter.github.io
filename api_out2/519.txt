@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1130_A_g",
+	"argument" : "Gun control infringes on my rights. You know, in situations that my life is in danger I would rather be able to protect myself and my loved ones instead of waiting for help. "
+}

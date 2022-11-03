@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1111_B_g",
+	"argument" : "I think everybody should be allowed to have a gun as it was given to us in the second amendment. The government should not take away our civil liberties."
+}

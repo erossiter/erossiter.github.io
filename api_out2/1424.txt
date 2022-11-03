@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1405_B_i",
+	"argument" : "I believe that we should make it easier for others to immigrate into the United  States. We should either cease construction or demolish the wall made between the United States and Mexico as it is not effective nor necessary. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1465_B_b",
+	"argument" : "Joe Biden has done a good job in office.  I believe his inflation reduction act will been very influential for the country's economy.  Also, Biden has taken a strong stance against guns especially by outlawing ghost guns.  I believe this act will reduce the amount of shootings in a country that is riddled with violence."
+}

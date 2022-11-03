@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1665_B_g",
+	"argument" : "I respect the fact that guns cause harm sometimes, but at the end of the day, it is the people causing harm, not the guns. The right to bear arms is also protected under the 2nd amendment in our constitution therefore that right should be protected at all costs."
+}

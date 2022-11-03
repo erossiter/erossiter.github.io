@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1686_A_b",
+	"argument" : "President Biden has done a good job in office albeit the problems our country has faced. I think the infrastructure bill was one of his highlights but I wish he would do more to combat abortion rights being taken away by the Supreme Court."
+}

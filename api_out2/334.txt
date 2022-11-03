@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1277_B_b",
+	"argument" : "President Biden has really only made negative changes while in office so far. His economic policies and response to inflation has severely hurt the national economy. Gas prices have increased substantially and it is hurting American families. Other than that, he has accomplished close to nothing, leaving important issues the country faces like immigration restrictions and protection of the second amendment untouched."
+}

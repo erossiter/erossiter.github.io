@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1243_B_b",
+	"argument" : "President Biden's performance in the office is somewhat good. Not all the actions from this politician are the best we could ask for, but there is some trying. However, we are far from done."
+}

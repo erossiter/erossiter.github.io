@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1176_A_b",
+	"argument" : "I have been less than impressed with Biden so far. He hasn't taken any action on police reform, marijuana policy, or the climate crisis we are in the midst of. "
+}

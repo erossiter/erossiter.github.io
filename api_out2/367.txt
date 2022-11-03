@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1631_B_b",
+	"argument" : "Biden has had a poor performance in office so far. There have been extreme inflation and rising gas prices that affect all households in the country. Rather than trying to solve it, Biden is actively making it worse by spending more money."
+}

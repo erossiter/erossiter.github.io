@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1534_A_r",
+	"argument" : "I grew up going to church with my family. However, around high school, I slowly stopped going because I found that the church was often hypocritical about topics like LQBTQ, abortion, and race. I still identify as a Christian, but I choose not to identify with the exclusion values of the church."
+}

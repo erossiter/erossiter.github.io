@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1115_B_g",
+	"argument" : "I believe hesitantly that access to guns should remain less regulated.  I understand the theory behind gun control laws but in practice they remain ineffective.  Black markets will always be prevalant and if someone with ill intentions wants badly enough to obtain one they will.  Restricting the proper channels will only make it more difficult for the average citizen to get a gun to protect themselves."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1073_B_i",
+	"argument" : "I think America should remain selective about immigration. The borders are too weak and we should crack down on illegal immigrants. It is a waste of federal funding to deal with them."
+}

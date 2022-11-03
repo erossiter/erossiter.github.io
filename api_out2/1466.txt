@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1174_A_i",
+	"argument" : "I believe that immigration is paramount to America's identity as a nation. The nation was founded and built through mass immigration. A huge part of America's identity stems from its diverse population that emerged as a result of different influxes of various ethnicities and races throughout history. Thus, America should have immigration policy that allows a much larger number of immigrants into the country. It should be much easier to gain entry into America as an immigrant. "
+}

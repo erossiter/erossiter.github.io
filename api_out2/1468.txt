@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1239_B_i",
+	"argument" : "We should have a very loose immigration policy. If people want to come to America we should just let them in. Who cares about the regulations that apply to everybody else."
+}

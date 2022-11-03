@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1359_B_g",
+	"argument" : "There's a minimum word count on this so I'll stretch it out, but I really only need  two words, Second Amendment. The same way all other rights are guaranteed in the Constitution, so is the right to bear arms."
+}

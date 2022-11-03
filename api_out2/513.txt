@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1077_B_g",
+	"argument" : "I believe that guns are a basic fundamental right of Americans. The Second Amendment is very important to my family because we have a firearm in our rural home in order to protect ourselves."
+}

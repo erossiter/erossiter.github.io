@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1363_B_g",
+	"argument" : "I believe that gun control laws are an infringement upon the citizens of the United States and explicitly go against the Second Amendment to the US Constitution. I understand the perspective that bad situations have occurred; however, keeping guns out of the hands of good, law-abiding citizens does no good. I will use this example: banning drugs does not keep dealers from getting drugs. Therefore, controlling guns will not help the gun problem. "
+}

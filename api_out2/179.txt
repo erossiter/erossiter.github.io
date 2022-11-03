@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1010_A_b",
+	"argument" : "While President Biden's performance thus far has not been flawless, it has been a vast improvement from his predecessor. Biden's focus on essential issues, like student loan aid and forgiveness for those in jail for marijuana charges, are examples of what the presidency should look like. Biden's return to ambitious climate legislation is also promising. He is ushering in a new period of American hope and progress. "
+}

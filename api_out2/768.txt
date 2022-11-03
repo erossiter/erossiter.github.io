@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1618_A_g",
+	"argument" : "I disagree with imposing gun control laws in the United States as it directly infringes upon my Second Amendment rights (the right to bear arms). I believe that as Americans we should have the right to own and use guns in order to protect ourselves and others."
+}

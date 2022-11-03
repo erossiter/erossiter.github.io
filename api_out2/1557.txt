@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1376_A_i",
+	"argument" : "Controlling immigration is an integral part of maintaining national security. Having free and open borders not only puts American people at risk, but it harms our nation’s infrastructure and threatens our economy. "
+}

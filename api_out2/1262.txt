@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1614_A_i",
+	"argument" : "Immigration should be encouraged in the United States. We pride ourselves as being the land of opportunity, and the great melting pot of the world. Any patriotic American should acknowledge the importance immigration has had in shaping our nation, and its importance in our nation's future. Immigration is not only important to our national culture and identity. Studies show that immigration greatly improves the economy. Even in cases of illegal immigrants the only group of people harmed by immigration are high school drop-outs. Immigration encourages Americans to strive for further education and achieve their goals. American needs to remain the land of opportunity for any seeking a fresh start. "
+}

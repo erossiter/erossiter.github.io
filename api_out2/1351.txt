@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1243_B_i",
+	"argument" : "Republican: The United States is a country that has borders to promote safety and security. If someone comes legally to this country, that is acceptable, however, why do we keep tolerating people who come into this country illegally? "
+}

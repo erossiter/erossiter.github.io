@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1246_A_b",
+	"argument" : "I think President Biden is performing well in office so far, especially considering the push back he has had from Congress. He is trying to legalize marijuana, and get rid of student loan debt. The unemployment rate has also been incredibly low!"
+}

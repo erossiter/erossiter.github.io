@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1586_A_g",
+	"argument" : "I believe that all gun control laws in the United States should be harsher. There is no reason for any normal citizen to own an automatic or semi automatic weapon. Furthermore, background checks, gun safety courses, and three day rules should be mandatory. The boyfriend loophole should be closed, as should other loopholes. The current standards of gun control are valuing the feelings of a few over the safety of our children. "
+}

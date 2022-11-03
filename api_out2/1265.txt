@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1628_A_i",
+	"argument" : "As someone with immigrant parents, I understand that the process for foreigners to become citizens is complicated and takes time (which is probably best for the safety of America's citizens), still, I think the immigration policy should be somewhat empathetic towards immigrants. I say this because many immigrants are fleeing all types of unfavorable situations in their home country and with America essentially being advertised as a land of opportunity, it shouldn't be a far-fetched ask to accommodate immigrants seeking exactly that."
+}

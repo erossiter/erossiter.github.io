@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1319_B_g",
+	"argument" : "I believe that gun control is a complicated issue.  While efforts to disarm people have often been a tool of oppression in this country, such as gun control laws in an attempt to disarm the black panthers in the 1950s and 60s, assault-style weapons pose a serious problem in this country.  I do support the banning of assault-style weapons, but not small handheld weapons useful for self-defense, or weapons used for hunting.  It's atrocious how many people die in mass shootings when it is easily preventable with tighter regulations.  I think the process for obtaining a gun should also be much harder, because as it stands, it is very easy to get a gun really without question."
+}

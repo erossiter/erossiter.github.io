@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1709_B_i",
+	"argument" : "My dad's family immigrated to the United States in the 90s from Latin America, so I have always had a more relaxed view when it comes to immigration policy. It seems unfair that the US would advertise itself as a beacon of freedom in the modern world and then refuse to let other people in. I think that a lot of current immigration policies are super racist & the US has shown itself to be willing to take plenty of white Europeans and not that many people of color. When Trump tried to implement the ban on immigrants from Muslim-majority countries, I went to a protest in Raleigh. "
+}

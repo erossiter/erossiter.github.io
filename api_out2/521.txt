@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1198_A_g",
+	"argument" : "I think gun control laws can be too strict. Most Americans, myself included, own guns and don't have any intention of using them to hurt people. I don't really see why we need to jump through so many hoops to get a rifle. I want there to be less school shootings, but I'm not sure the gun control laws we are enacting now will do that. Maybe we could tighten security in school and other public places."
+}

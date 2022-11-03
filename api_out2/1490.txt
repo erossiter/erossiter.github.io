@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1048_A_i",
+	"argument" : "I am in favor of a more restrictive immigration policy. There should be stronger border security and immigration numbers should decrease. A more restrictive immigration policy would make the US safer."
+}

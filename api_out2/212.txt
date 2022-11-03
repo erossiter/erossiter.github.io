@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1405_B_b",
+	"argument" : "I believe that President Biden has been an effective president so far. He has implemented policies and plans that will make life easier for Americans such as his student loan debt relief plan."
+}

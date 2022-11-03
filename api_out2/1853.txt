@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1691_B_r",
+	"argument" : "Me personally religion does not play a huge role in my life nor does it influence my politics."
+}

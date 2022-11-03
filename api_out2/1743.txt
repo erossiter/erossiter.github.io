@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1325_B_r",
+	"argument" : "Religion plays an important role in my life, the country was founded on biblical principles and I believe that religion should determine how politics in this country are run. I am very religious. "
+}

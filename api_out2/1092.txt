@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1566_A_h",
+	"argument" : "I grew up in a large city on the west coast and moved to Chapel Hill in Fall 2021 to begin my university career. I love majoring in Anthropology and I'm also very interested in the discussion surrounding gender and sex, which is why I'm so excited to be at a school which is so accepting and forward thinking. I enjoy listening to indie rock bands like the Backseat Lovers and Rex Orange County, whilst I sit in my apartment eating Cava with my pet hamster. "
+}

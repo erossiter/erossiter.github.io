@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1101_B_i",
+	"argument" : "I believe that it is important for the United States to accept citizens from other nations regardless of the financial or political stability of the nation from which the immigrant comes. This is simply a result of my understanding that the United States was founded by immigrants and everyone on the content has ancestors who were either slaves, refugees, immigrants, or native Americans. There are no other options."
+}

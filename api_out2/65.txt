@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1025_B_b",
+	"argument" : "I believe that President Biden is doing all that he can to maintain an equilibrium in devastating times, such as those we are currently facing. President Biden has withstood some of the most astounding stigmas and still continues to do what's best for society which is a testament to his resiliency, both personally and as the president of the United States."
+}

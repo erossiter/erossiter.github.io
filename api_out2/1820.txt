@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1396_A_r",
+	"argument" : "Religion shapes my lifestyle and my way of living, however, I do not believe it should be pushed on other people. There is a difference between church and state and so my beliefs are for me and they should not effect the laws that are passed, nor should my beliefs be forced on others."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1021_B_r",
+	"argument" : "Religion plays a huge role in life. A lot of the views I have and morals I carry are based off of what I learn through my religion. I allow my religion to guide the steps I take in life because I genuinely believe my religion is correct, and holds a high moral compass. "
+}

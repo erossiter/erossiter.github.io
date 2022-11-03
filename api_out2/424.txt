@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1422_A_g",
+	"argument" : "Gun control laws are severely lacking in this country. There should be a much more intensive vetting process before a person can go out and buy a gun. This is especially true for assault rifles. In my opinion, there is not a single feasible reason that everyday Americans need semi-automatic assault rifles. Apart from military usage, I do not think that these types of weapons should be freely available to purchase. The lack of comprehensive federal regulations on guns has led to an epidemic of shootings in America that I feel could be easily prevented. "
+}

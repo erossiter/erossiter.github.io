@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1510_A_b",
+	"argument" : "I think his performance has been terrible in office thus far. Gas prices have risen exponentially and inflation has grown terribly as well."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1315_B_r",
+	"argument" : "Religion is a choice and while this is true, most Americans practice a Religion. Most Americans are also Christian which correlates to the Supreme Court taking an oath from God before having a hearing. Since most Americans practice Christianity, it should play a large role in government and governmental actions."
+}

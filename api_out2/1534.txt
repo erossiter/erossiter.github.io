@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1115_B_i",
+	"argument" : "Legal immigration needs to be expanded and made more accessible in order to cut down on illegal immigration.  Current border control is ineffective at keeping out people immigrating here illegally.  More resources need to be funneled into more efficient border control, and streamlining the legal immigration process."
+}

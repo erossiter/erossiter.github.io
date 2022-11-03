@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1577_B_b",
+	"argument" : "It has been a pitiful performance so far. Inflation rates are higher than ever. People are unhappier than ever. There is only one person who can bring this country back to the strong nation it once was, Donald Trump."
+}

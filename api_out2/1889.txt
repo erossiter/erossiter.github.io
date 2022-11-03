@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1111_B_r",
+	"argument" : "Religion plays a huge role in my life. I am very traditional and I like things done the way God intended it to be and how this country had been operating before progressives and extreme liberals came in to change it."
+}

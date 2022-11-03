@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1458_A_b",
+	"argument" : "I  approve of Biden’s performance so far. While I think we could all benefit from a younger president, I think Biden has done a good job fulfilling his campaign promises such as relieving student debt and creating an infrastructure bill that helps the climate. While he’s not perfect, I think he’s way better than Trump!"
+}

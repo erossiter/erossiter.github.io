@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1095_B_g",
+	"argument" : "Guns aren't the problem, it is the people using them. Any citizen should be allowed to have their own gun, just like the constitution tells us we can. Guns rock."
+}

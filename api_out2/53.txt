@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1569_B_b",
+	"argument" : "I believe that President Biden is doing a great job so far. Even though I hear a lot of criticisms about him, his presidency will always be better than Trump's who was practically ruining the country. I'm happy to see the country go back to normal with President Biden. "
+}

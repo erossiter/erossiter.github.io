@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1410_A_b",
+	"argument" : "I think President Biden has done what was required of him. He isn't the first person to pop up in my head as the ideal head of state, but I think he is doing his best in this position at a time which is no where near easy, with further partisan turmoil and greater powers that he cannot control. "
+}

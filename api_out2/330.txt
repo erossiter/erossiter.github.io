@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1211_B_b",
+	"argument" : "Biden's job performance has been lackluster. Our economy is heading in the wrong direction. Inflation is too high, making life harder for working people. Canceling student debt sounds great, but it will only cause inflation to rise even more. "
+}

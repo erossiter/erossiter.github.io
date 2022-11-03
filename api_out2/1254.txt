@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1532_A_i",
+	"argument" : "Immigration laws in the United States are too strict, and immigration has been made unnecessarily difficult for immigrants entering the United States. Elected officials should work to make the immigration process easier and more efficient for the people who are coming into the country."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1549_B_i",
+	"argument" : "I believe that there are, and should be, legal avenues of immigration. However, weak border security leads to an influx of crime, drugs, and people fleeing justice. Thus it's critical that our policies prevent such bad actors from entering the country for the sake of our own safety."
+}

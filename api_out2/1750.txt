@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1367_B_r",
+	"argument" : "The religion is an indispensable part in our lives. There are so many vices that could be done by us human being, so we need some spirits in our souls to guide the righteousness of our manners."
+}

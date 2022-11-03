@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1487_B_i",
+	"argument" : "I am not opposed to immigration, but I believe that it should be done through the proper legal channels and American taxpayer money should not be prioritized at the border when there is an abundance of issues that are underfunded domestically and need resources allocated toward those programs. I am aware of all the economic and social benefits that immigrants provide to the United States, but that shouldn't be at the cost of American taxpayer dollars and employment. "
+}

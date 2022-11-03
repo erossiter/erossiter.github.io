@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1329_B_i",
+	"argument" : "I believe that the United States should have strict immigration policies. Immigrants should have to go through a thorough process to reside within the United States. This creates more job opportunities for U.S. citizens."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1703_B_b",
+	"argument" : "I think president Biden is doing a decent job in office so far but he could be doing better. Although he can do better, I love what he did with student loans."
+}

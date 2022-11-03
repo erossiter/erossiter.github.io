@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1132_A_g",
+	"argument" : "Owning a gun is a consitutional right that should be upheld. There are times when owning a gun could save my life or my family's life. The government cannot always be there (or cannot always be trusted) to protect myself and my family."
+}

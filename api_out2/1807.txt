@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1267_B_r",
+	"argument" : "Religion plays little to no role in my political or personal ideology. I generally look towards fact and scientific evidence to guide my beliefs and decision-making processes. Using religion as a justification for certain policies is immoral."
+}

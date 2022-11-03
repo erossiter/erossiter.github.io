@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1409_B_b",
+	"argument" : "I don't think he is an effective president. He doesn't seem to be getting that much done, as opposed to Trump who got a lot done during his time in office. "
+}

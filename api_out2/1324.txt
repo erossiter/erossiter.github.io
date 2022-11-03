@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1013_B_i",
+	"argument" : "I think it is a bit to lenient. Too many people are coming over and taking jobs from citizens who have worked hard to earn positions. It puts the average American at a disadvantage."
+}

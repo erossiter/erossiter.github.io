@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1429_B_b",
+	"argument" : "I am not a fan of President Biden. I think that he is not fit to run as president and that the only reason he was elected is because people hated trump, not because they liked Biden. Bidens policies and the way he has handled our economy is absurd but was to be predicted. Trump was hated by many and honestly is not a good person but he knew how to run our country and I hate to say it but that Is more important than having a personality that is likable. Biden unfortunately seems that he has reached the end point of his career and his mental capacity. He is not 100% there all the time which is partly because of his age. If he would not have been running against trump, but another republican, he would not have won."
+}

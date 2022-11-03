@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1469_B_r",
+	"argument" : "My parents grew up very religious, and I went to church in middle school, bible study, church camps, all that jazz... but I never really felt connected to it. I never really understood how people could base their entire life around a book written forever ago. I am glad that it helps people in many ways, and I obviously won't say that it isn't real or anything, but I just haven't connected with it."
+}

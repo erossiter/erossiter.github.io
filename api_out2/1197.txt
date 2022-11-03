@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1062_A_i",
+	"argument" : "Immigration policy in the United States is cruel. It should be easier to become a citizen of this country. One has to jump through so many hoops and wait years for the immigration process, which encourages illegal immigration. Also, the treatment of immigrants at the border is inhumane."
+}

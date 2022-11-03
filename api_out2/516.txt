@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1092_A_g",
+	"argument" : "I think that people should have the liberty to own guns and practice their own rights."
+}

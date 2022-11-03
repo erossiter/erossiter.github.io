@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1635_B_g",
+	"argument" : "We should put up a ban on assault weapons. Period. There are too many shootings that happen every day at this point."
+}

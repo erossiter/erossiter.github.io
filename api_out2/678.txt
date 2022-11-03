@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1026_A_g",
+	"argument" : "I feel individuals should be able to carry concealed if they choose. This protects themselves and those around them in a situation where there is danger that could cost people's lives. Additionally, the right to bear arms is constitutional, therefore the government should not tamper with, nor take this right away."
+}

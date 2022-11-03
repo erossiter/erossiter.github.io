@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1529_B_i",
+	"argument" : "I think people should be allowed to immigrate legally into the United States. My grandparents are immigrants from Cuba. However, I do not think illegal immigration should be allowed because it causes competition for jobs. "
+}

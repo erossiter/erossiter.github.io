@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1342_A_i",
+	"argument" : "As long as people come into the United States legally, with the right documents and due process, anyone is free to come. Illegal immigrants are tearing this country apart, so I will not condone that, however I do believe in the ability to LEGALLY immigrate."
+}

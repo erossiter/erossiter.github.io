@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1143_B_r",
+	"argument" : "Religion is vital in my life as it is where most of my beliefs come from. My party holds a good majority of my religious beliefs which is why I will continue to support them."
+}

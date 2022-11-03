@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1442_A_r",
+	"argument" : "I am a devout Christian and my religious views play a major part in how I vote. Abortion has been very high on my radar since I have been voting, and I was very happy with the Supreme Court decision which has given the right to an abortion back to the states. Is is an irrefutable fact that abortion ends a potential life and is therefore murder. While I support exceptions for rape and incest, I think abortion should be limited as much as possible in the United States."
+}

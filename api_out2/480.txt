@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1042_A_g",
+	"argument" : "Gun control laws can be good but only up to a certain point. There's no doubt that people shouldn't be given automatic weapons since these are extremely deadly. But they also shouldn't be prohibited from owning any guns at all since these can be crucial for defending themselves, especially during a time where violence is rapidly rising. Limited concealed carry with strict background checks could also be beneficial for society since these people could defend us from violent threats, so I would support people being allowed to carry them."
+}

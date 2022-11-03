@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1400_A_i",
+	"argument" : "Of course I would like for people coming into the US to come via legal immigration, but I understand they are leaving a much worse situation that many of us could never imagine, so they should be given some leeway and helped out."
+}

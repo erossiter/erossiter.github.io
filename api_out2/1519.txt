@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1592_A_i",
+	"argument" : "I get frustrated when I think of illegal immigrants using public goods in the united states when other people had to put considerable effort into getting here or paying their taxes."
+}

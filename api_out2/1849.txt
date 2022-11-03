@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1666_A_r",
+	"argument" : "I would say that religion plays a relatively small role in my life, and would consider myself to be agnostic. While I think spirituality is important, I don't believe organised religion is an important aspect in my life. "
+}

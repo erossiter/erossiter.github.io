@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1322_A_g",
+	"argument" : "I think gun control is unconstitutional and generally bad for society. The government banning or restricting guns indicates some drastic overreach. I don't think it's the government's place to dictate what people can or cannot own, especially something that can defend people and save lives like guns. If people aren't able to defend themselves, what do people think is going to happen to them? Home robberies and assault will probably go up, so gun control will definitely have bad outcomes. "
+}

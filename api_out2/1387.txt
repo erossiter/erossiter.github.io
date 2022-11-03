@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1713_B_i",
+	"argument" : "I believe that the United States should be obliged to have their borders open to all, especially in cases where humanitarian rights are being abused and should be a safe haven for all, no matter country of origin "
+}

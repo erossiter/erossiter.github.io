@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1195_B_i",
+	"argument" : "I am a firm believer in advocating immigration policies. This is one reason I want to be an immigration attorney after undergrad. Having close friends that faces hardships because of their status is unfair and I want to do more to help with it."
+}

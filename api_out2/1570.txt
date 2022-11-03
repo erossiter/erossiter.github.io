@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1536_A_i",
+	"argument" : "I have nothing against immigrants because my great great grandparents were immigrants. I only believe that immigration policies should include stricter background checks and to pay closer attention to those checks to ensure that the wrong people don't enter the country."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1017_B_g",
+	"argument" : "I think gun control laws need to be more strict. There is absolutely no reason why someone needs to have more than one and there is no reason it should be any kind of automatic weapon."
+}

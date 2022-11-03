@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1091_B_g",
+	"argument" : "The very idea that there are laws concerning gun control is laughable considering just how little policy we have around them. In the eyes of government officials, there is no incentive to enact harsher gun laws, but in turning a blind eye towards the hundreds of people who die from preventable gun-related deaths, these politicians protect their bottom line and assure re-election and campaign funding from corporations and non-profits such as the NRA or Smith Wesson."
+}

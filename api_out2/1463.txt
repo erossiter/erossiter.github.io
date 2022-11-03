@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1106_A_i",
+	"argument" : "I think that everyone should have the opportunity to take part in this country and achieve the wealth that so many others have achieved in this country. If they want to come, we should welcome them with open arms."
+}

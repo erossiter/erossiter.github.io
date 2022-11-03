@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1691_B_g",
+	"argument" : "I believe that assault rifles should be banned for every day citizens and no one should be able to legally purchase a gun without passing extensive background checks. There definitely should be stricter gun laws as there are high levels of gun violence we witness today than before."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1110_A_g",
+	"argument" : "America needs stronger gun control laws due to the extensive increase in mass shootings. The number of school shootings has continued to increase in America, causing heartache and pain for many innocent lives. Aside from school shootings, mass shootings are also rising. Unqualified individuals should not be allowed to obtain a gun and be allowed to use it carelessly. Guns are dangerous weapons that should be used for self-defense, but only by those who are qualified. There need to be stricter regulations put into place when obtaining a weapon. "
+}

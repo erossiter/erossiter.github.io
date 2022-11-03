@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1539_B_g",
+	"argument" : "No one should be able to own guns except people defending society such as police, armed forces, etc. We need to be more strict on who can own guns and what type of guns they can own. "
+}

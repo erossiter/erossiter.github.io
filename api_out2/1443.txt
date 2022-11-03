@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1556_A_i",
+	"argument" : "The US immigration policy is flawed. Civilian refugees from countries where people are trying to escape violence and war should be welcomed into the States. Especially since the US engaged in wars in Iraq and Syria, where we've seen an influx of refugees, yet accept limited refugees. "
+}

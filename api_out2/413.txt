@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1310_A_g",
+	"argument" : "I think that gun laws need to be way more strict and restricting, especially on assault rifles. Ideally, no one would be able to have guns. "
+}

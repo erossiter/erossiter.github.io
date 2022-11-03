@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1091_B_i",
+	"argument" : "America is referred to many times as a melting pot, or a country comprised of multiple different nationalities and ethnicities that all provide a unique and valuable part of their culture to this country. However, the challenges immigrants face before and after coming to this country undermine how invaluable they are to our nation. Not only is it excessively hard to become a citizen, but even the rules to enter the U.S. are founded on racist and xenophobic ideals. These ideals spread from policymaking to the media, where misinformation about different nationalities is spread and fear-mongering tactics are used towards the general public to create a sense of distrust towards immigrants and even those legally in the U.S."
+}

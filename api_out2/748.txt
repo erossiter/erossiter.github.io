@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1395_B_g",
+	"argument" : "Gun control laws are unconstitutional. The 2nd Amendment of the Constitution guarantees US citizens the right to keep and bear arms. The Constitution which is the basis for our laws, doesn’t put any restrictions on this right, so the government shouldn’t either. Additionally, criminals will be able to acquire guns illegally whether they are legal or not, so citizens should have guns to be able to defend themselves against criminals."
+}

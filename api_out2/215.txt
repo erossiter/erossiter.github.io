@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1421_B_b",
+	"argument" : "I support majority of Biden's performance and decisions in office so far. He has made a large improvement towards his goals these past couple of months. Hopefully he keeps up the work."
+}

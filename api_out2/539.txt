@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1345_B_g",
+	"argument" : "I think gun control laws should not be stricter anymore. In fact, I believe citizens should be allowed to have guns more easily. Guns are used for self-protection. And our citizens have the right to arm themselves when their safety is under threats. "
+}

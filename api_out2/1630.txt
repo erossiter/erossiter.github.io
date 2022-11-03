@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1468_A_r",
+	"argument" : "Religion is not a big factor in my life as I tend to act in more practical ways. While I am a person of faith, I try to act appropriately and kindly to all because I believe it is the right thing to do, not because a religious figure told me to. "
+}

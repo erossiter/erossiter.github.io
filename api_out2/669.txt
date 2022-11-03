@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1505_B_g",
+	"argument" : "I believe background checks should be required in order to purchase any gun in the United States. I also believe high caliper and high magazine fire arms should not be for sale to the general public. I really don’t think it is necessary for anyone to need a gun however I can understand people using them for hunting."
+}

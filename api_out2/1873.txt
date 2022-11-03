@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1464_A_r",
+	"argument" : "I am not religious, and see organized religion as a corrupt and twisted entity that seeks to exploit the vulnerable, and force bigoted views down people's throats. I feel, however, that in a peaceful and respectful manner all individuals should be allowed to practice whatever religion they please."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1276_A_b",
+	"argument" : "I find President Biden's performance in office so far embarrassing. I believe one of the presidents most important jobs is to be the face of the United States. therefore the multitude of embarrassments he has had in the public eye makes me very unhappy with him."
+}

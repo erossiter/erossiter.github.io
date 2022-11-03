@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1658_A_h",
+	"argument" : "I love being part of the student government body! It is so amazing to be able to give my peers an equal voice in the changes occurring at school. As a minority, I have always felt a certain level of inequality. I would love to do my part to get rid of some of that inequality even if on a small level. When I am not at school, I like trying new cuisines from different parts of the world. I will always be thankful for having been born in the mixing pot that is America. I love all the diversity and I definitely think it what makes us the U.S. so amazing. "
+}

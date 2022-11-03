@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1585_B_i",
+	"argument" : "I believe that immigration policy is not lenient enough currently in the United States. I think the United States should do more to protect the growing numbers of refugees from other countries by allowing more of these people into the country."
+}

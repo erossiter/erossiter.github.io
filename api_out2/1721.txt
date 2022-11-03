@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1144_A_r",
+	"argument" : "Religion guides my life. I grew up going to church every Sunday. My family and I are very involved in our community and we do a lot of community outreach projects. I live my life in alignment with God’s word. I hope to spread the word of God even more throughout my life."
+}

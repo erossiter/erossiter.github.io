@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1620_A_g",
+	"argument" : "I think gun control laws violate my right to bear arms and it goes against the 2nd amendment. Everyone has the right to own guns and it is protected by the bill of rights."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1165_B_i",
+	"argument" : "Immigration policies need to be reformed. While I do not believe that immigrants should be able to illegally enter or welcomed into the country, I do not think that deportation methods are humane. I am in support of the wall the former president was building, but I do think that as far as the deportation process, as well as hunting illegal immigrants was the right way to go about the immigration issue."
+}

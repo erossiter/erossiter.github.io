@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1184_A_b",
+	"argument" : "I think that President Biden's performance in office has not been ideal. He has helped retract the U.S.'s previous economic advancement. Biden expanded programs to increase taxes on the middle class and gives away all of the hard-earned money to welfare queens."
+}

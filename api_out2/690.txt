@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1272_A_g",
+	"argument" : "I believe that it is your constitutional right to bear arms in any manner. The federal government should have very little regulation in regard to gun control and should take little measure in terms of intervention."
+}

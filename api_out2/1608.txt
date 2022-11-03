@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1285_B_r",
+	"argument" : "For me, religion is a personal choice and a personal practice. I love my religious community and faith is a big part of who I am. My faith teaches me to love everyone and give to my community in turn. I think the values of my religion can inform the way I treat other people, but I don't think my religion should have any implication or impose expectations on people who don't prescribe to the same practice as I do. For me, religion is personal not political. "
+}

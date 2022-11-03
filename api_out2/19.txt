@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1209_B_b",
+	"argument" : "He started off slow, but now he's doing okay, especially with the student loan forgiveness relief plan. He also responded to COVID well. However, that isn't to say that his policies are perfect."
+}

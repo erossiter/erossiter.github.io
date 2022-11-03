@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1297_B_b",
+	"argument" : "He is doing pretty well in performance so far. But things started to become different recently. I think he can do better in the future. However, a recent poll shows many American don't want him to be the next president."
+}

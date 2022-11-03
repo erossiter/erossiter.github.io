@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1308_A_i",
+	"argument" : "I believe that immigration on the southern border is a crisis that must be contained. I do not think the Biden administration is doing enough to stop illegal immigration, and it is hurting our country. It is hurting our economy, and is going to ruin our country. We need to close the border and make sure that immigrants come into the US the right way."
+}

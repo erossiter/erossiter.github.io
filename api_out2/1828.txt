@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1482_A_r",
+	"argument" : "Religion is not a big role in my life. The only time religion affects my life is when the U.S government makes laws that directly affect me because of their religious views."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1490_A_i",
+	"argument" : "People deserve to be treated as humans. Crazy policies like building a freakin wall or deporting people who have already planted themselves in our country are a clear violation of human rights."
+}

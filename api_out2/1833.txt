@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1523_B_r",
+	"argument" : "I believe in God. However I believe that Christianity in the United States is a cult. I do not go to church because church is corrupt and I do not read the Bible because it has been tampered with so many times. I talk to God when I need to and I thank him when I need to. But religion does not play a massive role in my life."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1451_B_i",
+	"argument" : "I think that we should allow more immigrants into the United States, this is because they are the backbone of our economy due to their working jobs that regular Americans don't want to work. It is also just the right thing to do."
+}
