@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1498_A_g",
+	"argument" : "I think that we need gun control laws that would make it harder for violent criminals or those who are likely to harm themselves or others to purchase guns so that we can reduce the amount of gun violence in the U.S."
+}

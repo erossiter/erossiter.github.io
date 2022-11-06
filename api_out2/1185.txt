@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1156_A_i",
+	"argument" : "The United States is a nation of immigrants. From the inception of our country to the way we know it today, immigrants constitute the vast majority of the population; except for those who are the real natives of North America (Native Americans). Therefore, the U.S. should treat immigrants with open arms, and provide both resources and allocations when necessary to facilitate these individuals' journeys to becoming citizens. "
+}

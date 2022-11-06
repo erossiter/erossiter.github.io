@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1278_A_r",
+	"argument" : "Religion plays a decent role in my life, but it does not inform my political views or beliefs. The role religion plays in my life does not translate into politics and should be kept separate."
+}

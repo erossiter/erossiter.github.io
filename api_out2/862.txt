@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1362_A_h",
+	"argument" : "I am an avid gardener. I also like to read and go to my different organization meetings. I am a part of a social justice organization, and environmental protection group, and a community beautification group. I like Michael Jackson, the Beatles, Adele, and Alicia Keys. My favorite foods are watermelon, tofu, and avocado toast. I am an ally to the LGBTQ+ community and a supporter of the Black Lives Matter movement. "
+}

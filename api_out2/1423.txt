@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1593_B_i",
+	"argument" : "I believe that we need to allow more immigration to help solve the job crisis which is being felt in the country. I believe that people at the border are people who need their human rights protected and should not be kicked out based on their race, ethnicity, or belief. Furthermore, I think the system we use to allow immigrants in is inhumane and inefficient and is causing us to significantly violate the human rights of those individuals."
+}

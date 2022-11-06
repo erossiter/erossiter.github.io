@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1225_B_i",
+	"argument" : "Immigration policy in the United States needs to be fair. If someone enters the country illegally, they cannot be treated with the same benefits as a legal citizen. In order to have a successful and safe nation, national security must be taken more seriously. Accepting and welcoming an influx of foreigners that have entered our country illegally encourages more and more aliens to enter in the same way. We must have stricter borders."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1250_A_b",
+	"argument" : "President Biden has done a terrible job in office. Gas prices are at an all time high right now and the economy is terrible, he has basically ruined it. Everything is so overpriced now and jobs are so understaffed because no one wants to work anymore. He has no clue what he's saying half the time either. Plus, he made us get that covid vaccine and made us wear a mask, completely going against my rights as an American citizen. He needs to be voted out next election."
+}

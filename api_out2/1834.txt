@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1276_A_r",
+	"argument" : "The role religion plays in my life is one that is very merged with government. I believe in the word of god and base my government related decisions on those beliefs."
+}

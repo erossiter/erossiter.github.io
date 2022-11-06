@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1491_B_g",
+	"argument" : "I have never been hunting. My dad has never expressed interest in it either. But often we go to the Buccaneer Gun Club out in Burgaw to shoot skeet and target. I enjoy shooting recreationally and am scared that guns will always end up in the wrong hands no matter the law."
+}

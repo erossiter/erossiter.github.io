@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1629_B_b",
+	"argument" : "President Biden's performance in office has been stagnant at best and awful at worst. He has continually messed up on key points of his presidency including the withdrawal from Afghanistan, his handling of unemployment checks post covid and keeping inflation low while staving off a recession. In public, he isn't decisive enough and often times looks confused or senile."
+}

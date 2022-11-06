@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1588_A_g",
+	"argument" : "I think it is far too easy for Americans to buy guns. I think there needs to be more extensive background checks, regular tests to maintain licenses, and restrictions on private gun purchases. "
+}

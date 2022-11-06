@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1616_A_g",
+	"argument" : "We need to ban guns. Guns do nothing but hurt our society, and there is absolutely no reason for ordinary citizens to own guns in today's society. The 2nd amendment is meant for militias."
+}

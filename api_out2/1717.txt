@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1355_B_r",
+	"argument" : "Religion is the foundation for a healthy life style and without it you are bound to run a stray. Only those who follow Gods will can enter heaven and those who stray from the path are doomed to eternal damnation."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1240_A_b",
+	"argument" : "He’s bad and the economy is bad and he is poorly spoken and sounds and looks Weak"
+}

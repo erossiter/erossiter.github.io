@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1391_B_i",
+	"argument" : "My views on immigration policy in the United States are aligned with the availability of work here. I don't think that immigrants should take the jobs of Americans who have been here for centuries, and illegally profit from it when they are not citizens. However, I do feel that people who want to immigrate to the United States should be able to just through legal processes. "
+}

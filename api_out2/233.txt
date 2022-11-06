@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1593_B_b",
+	"argument" : "I think Joe Biden has done a mediocre job in office. While certainly he is doing a lot better than trump, and I think his foreign policy is doing quite well, he also made a lot of promises to the minority groups in this country, and he is failing to actually make good on those promises. He also is yet another straight white guy in the office, which is simply disappointing because we need to represent the rich, diverse country that we have. "
+}

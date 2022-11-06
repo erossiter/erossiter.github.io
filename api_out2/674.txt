@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1148_A_g",
+	"argument" : "Everyone of legal age should have the right to own a gun as long as it is done appropriately and legally. Guns are meant to protect us, so if everyone obtains a gun legally, then we will have a very safe country."
+}

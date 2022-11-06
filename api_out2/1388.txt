@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1306_A_i",
+	"argument" : "I think the way the United States handles immigration is a problem. Children should not be kept in cages, nor should immigrants be shipped to different states and treated inhumanely by elected officials. We need to figure out a better way to help people who flee their home country because of violence and poverty and come to the United States for refuge. These people deserve our compassion and understanding, not to be turned away and looked down on."
+}

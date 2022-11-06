@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1251_B_g",
+	"argument" : "Gun control laws should not impose restrictions on personal liberties such as the right to bear arms. Limited gun control laws are acceptable but there can not be a breach of a person's second amendment right."
+}

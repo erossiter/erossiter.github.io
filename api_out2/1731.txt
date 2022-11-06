@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1441_B_r",
+	"argument" : "Religion is a guiding role in my life. I am Christian and I use the Bible and worship as a stabilizer in my busy life. It shapes who I am as a person."
+}

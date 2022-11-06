@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1694_A_i",
+	"argument" : "Any and all illegal immigration should be prevented, and legal immigrants should go through the proper processes required by law. There should only be legal immigrants let into the United States if it doesn't hurt citizens who are already residing here."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1387_B_h",
+	"argument" : "Some of my favorite activities include thrifting, reading interesting articles, swimming, and listening to Taylor Swift. I have been obsessed with Taylor Swift for as long as I can remember and I appreciate that she is a celebrity who uses her influence for good and supports marginalized communities. It also helps that her music is phenomenal and there's a genre for every mood. Thrifting has been a favorite activity of mine since middle school as I love shopping for clothes but hate supporting fast-fashion brands such as Shein and H&M and thrifting is an easy way to get cute clothes and benefit the planet."
+}

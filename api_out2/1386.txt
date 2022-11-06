@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1294_A_i",
+	"argument" : "I believe that in a nation founded by immigrants, there is a lack of sympathy towards immigrants today. Immigrants that are coming to the United States should be able to gain legal status easily, even if they entered illegally, in order to help them prosper in our nation. Strategies such as increasing border security and deportation of illegal immigrants are not productive in the long run and those efforts should instead be geared towards creating new pathways for illegal immigrants to become legal, especially when there are children involved. In terms of immigration from places of war and those seeking asylum, the United States must be willing to provide some kind of safe haven for these individuals, which means we must open our minds as well as our borders. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1544_A_i",
+	"argument" : "I think that immigration policy in its current state is too slow of a process and can be streamlined. Too many people are waiting on relief from bad situations, and that can provide an incentive to cross the border illegally rather than go through the legal immigration process. "
+}

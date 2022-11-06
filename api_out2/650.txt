@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1287_B_g",
+	"argument" : "I think that there should be a stronger stance on gun control because there has been a rise in gun violence recently. It shouldn't be as easy as it is to purchase a gun, and we should work towards having a more restrictive take on gun control laws. In the end, I think we should focus more on mental health because I believe that is truly where most cases stem from. "
+}

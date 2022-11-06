@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1709_B_g",
+	"argument" : "Since we live in a time where large-scale gun violence is pretty common, it makes sense to me that people should have to go through rigorous background checks before owning a gun. I understand that we live in a state where people, especially in rural areas, like to hunt, but I don't think that it's necessary for people to have assault weapons in their houses. I think there should be a way longer waiting period for people to get guns. Overall, I'm not totally sure why someone would need one, but I guess if you do then you should be heavily vetted by the government."
+}

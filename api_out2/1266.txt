@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1241_B_i",
+	"argument" : "It was not our country in the first place and we shouldn't gatekeep so much. If Columbus fell to the bottom of the ocean he would probably try to steal and claim he founded Atlantis."
+}

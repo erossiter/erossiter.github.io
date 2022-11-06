@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1205_B_g",
+	"argument" : "I believe our country needs stronger gun control laws and more secure background checks for guns. There have been drastic increases in shootings in our nation and if we increase gun control laws, it will make sure guns are going to the right people. "
+}

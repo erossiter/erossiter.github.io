@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1640_A_b",
+	"argument" : "I think Biden has done fine. The unemployment rate is low and the covid pandemic is essentially over. However, I think his stance and actions on universal health care is a bit excessive. I think he's handling the situation in Ukraine well, as well as helping those who were hurt by Hurricane Ian. "
+}

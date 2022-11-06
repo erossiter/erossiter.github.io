@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1183_B_g",
+	"argument" : "Guns are dangerous and I believe there should be more gun laws in the US and across the world. Innocent people should not die because dangerous people are allowed to buy guns."
+}

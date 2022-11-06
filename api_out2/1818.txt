@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1679_B_r",
+	"argument" : "I am not very religious. I believe that religion is one of the ways the government controls us and pushes western culture into our lives. Instead, I am more into things such as spirituality and astrology, where I can focus more on self-improvement. "
+}

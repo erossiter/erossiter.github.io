@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1621_B_g",
+	"argument" : "I think people should be allowed to own a firearm, although the process should be made much harder. Background and mental checks also should be made to make sure the people purchasing guns are responsible enough to own one. "
+}

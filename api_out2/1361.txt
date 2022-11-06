@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1708_A_i",
+	"argument" : "I believe that the immigration policy in the United States is not strong enough. There should be more policies in order to keep immigrants out of our state. Immigration is a danger to the US, and should be controlled. "
+}

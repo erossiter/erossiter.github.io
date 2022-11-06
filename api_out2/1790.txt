@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1410_A_r",
+	"argument" : "The religion plays a miniscule role in my life. It stays within its sphere, and while it may influence some of my broader beliefs, it does not influence my political beliefs. My political beliefs are a separate entity, and don't just deal with my world view. It deals with other perspectives, and I have to be cognizant of this. "
+}

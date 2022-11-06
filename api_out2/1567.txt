@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1152_A_r",
+	"argument" : "Religion does not play a large role in my life. I follow science and reason to dictate my beliefs and think poorly of religion. However, I feel that I am inclusive of those who are religious."
+}

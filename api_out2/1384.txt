@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1274_A_i",
+	"argument" : "Our nation was built on the shoulders of immigrants. We should continue to allow immigrants to enter and flourish in our nation. Although we should implement certain checks that prevent potentially harmful people in, we should understand that most immigrants are beneficial to our nation. "
+}

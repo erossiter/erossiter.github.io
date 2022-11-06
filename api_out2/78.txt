@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1388_A_b",
+	"argument" : "I think that President Biden has delivered in numerous ways so far in office.  While he is a moderate Democrat compared to other candidates and didn't excite me in the primaries, his moderate stance has been welcome compared to the rather extreme stance of Donald Trump.  While I think it's important to recognize that President Biden owes much of his success to Congress being controlled by Democrats, I think he has successfully seized this opportunity to enact legislation aimed at bettering the American people.  Plus, he has used executive actions for programs like student loan forgiveness, which is a major issue that I wanted to see a solution for.  I do wish that he would figure out a way to restore public trust in the Supreme Court, possibly by adding an additional justice."
+}

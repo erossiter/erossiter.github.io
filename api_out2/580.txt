@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1159_B_g",
+	"argument" : "We believe that we have to take sensible action to address gun violence. Everyday in America, more than 100 lives are taken by the deadly epidemic of gun violence. Gun violence has become a top cause of death among young people. Government should expand and strengthen background checks for those gwho wnat to purchase a firearm to prevent gun violence. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1133_B_i",
+	"argument" : "I think that immigration is okay as long as the immigrants come here legally. People that try to sneak into the border should go about becoming an American the correct way, by applying for a green card or even asylum. It’s not fair for them to cheat the system, but I understand that some people have difficult lives they need to escape."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1197_B_b",
+	"argument" : "President Biden has not been a strong leader he promised to be. He has delegated most of the executive responsibility away from himself. At best he is a talking head."
+}

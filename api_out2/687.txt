@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1416_A_g",
+	"argument" : "The Second Amendment allows for citizens to bear arms. There should be as few restrictions as possible on this. Outlawing guns would just allow for criminals to still have guns illegally and take away the ability of citizens to defend themselves."
+}

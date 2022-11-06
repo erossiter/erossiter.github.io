@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1391_B_r",
+	"argument" : "I am a Christian, I grew up in a small town that was right outside of Wilson, NC and church was a big part of my life since we went every Sunday. My grandad is actually a preacher in our hometown, I follow the bible and it's commandments as they do guide my life and how I perceive things. "
+}

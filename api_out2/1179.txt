@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1063_B_i",
+	"argument" : "I believe the process for people to obtain citizenship should be faster. I hate that families are still being separated at the border. I think the US should be taking more immigrants, especially ones fleeing violence in their home country."
+}

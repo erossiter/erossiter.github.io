@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1451_B_b",
+	"argument" : "So far, I think President Biden has done a great job in office. Furthermore, I think the work he has done now has been far better than the previous administration and belive that moving forward, he will continue to allow for greater policy in the US.  "
+}

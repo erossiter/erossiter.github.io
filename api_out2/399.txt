@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1285_B_g",
+	"argument" : "There is no reason for any American to own a quasi arsenal in their personal homes. The second amendment was written at a time when automatic weapons were not accessible and technology was far less developed. The rampant mass shootings, dangers in schools, and constant threat of violence caused by guns should be proof enough that guns do not belong in the hands of every day people. The school shooting in Uvalde, Texas demonstrated beyond any doubt that more cops and more guns do nothing to protect innocent lives. The system is broken and needs to be changed."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1575_B_b",
+	"argument" : "Biden is a weak president.  The overall presidential capacity of his administration has had a lackluster performance overall when it comes to getting his agenda accomplished.  The lack of political pressure that the United States is able to force upon other nations in order to achieve an overall global agenda has also begun to falter as the United States can be viewed as a joke in today's age."
+}

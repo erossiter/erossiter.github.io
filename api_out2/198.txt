@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1266_A_b",
+	"argument" : "President Biden has accomplished many things during his term in office already to help the nation. He signed the Inflation Reduction Act to bring down costs, reduce the deficit, and take aggressive action on climate – all paid for by making sure the largest corporations and billionaire tax cheats finally pay their fair share in taxes. In August of 2022, Biden signed the PACT Act, the largest single bill to address our service members’ exposure to burn pits and other toxins in American history. Finally, he brought together Democrats and Republicans to work to pass the Bipartisan Safer Communities Act. This broke a 30-year streak of federal inaction on gun violence legislation. The legislation took important steps, including requiring people under 21 to undergo enhanced background checks, closing the “boyfriend loophole,” and providing funding to address youth mental health."
+}

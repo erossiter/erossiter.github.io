@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1059_B_b",
+	"argument" : "I believe that Biden has participated in reckless spending and shutting down important parts of the US economy resulting in complete stagnation. I also believe that gas prices wouldn’t be so high if pipelines weren’t shutdown which exacerbates the current crisis we’re currently in. The US was 100% energy independent, meaning we no longer relied on imports for energy, and Biden  had an extreme negative impact on that with his decisions which is driving up energy costs. "
+}

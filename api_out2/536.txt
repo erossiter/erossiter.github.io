@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1390_A_g",
+	"argument" : "I believe that it is our second amendment right to bear arms. We have the constitutional right to have access to guns for our own personal use. Therefore there shouldn't be much to restrict having that freedom."
+}

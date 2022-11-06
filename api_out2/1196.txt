@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1228_A_i",
+	"argument" : "I believe in an open door policy where those who are seeking asylum should be able to do so in the United States. The current laws surrounding immigration in the United States stand in the way of the more diverse and welcoming country we continue to strive to be portrayed as. The U.S. Citizenship Act that was introduced to the house almost 2 years ago aligns well with my views on immigration. This bill creates a clear cut path to legal citizenship to current undocumented individuals.  Specifically, the bill establishes a new status of lawful prospective immigrant, for those looking to be treated more equally under the law. The use of the world alien has also been removed from policy written in this law which is something I believe we should all move towards."
+}

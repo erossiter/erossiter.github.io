@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1037_B_g",
+	"argument" : "My views on gun control laws are that everyone has the right to use and own guns. I strongly believe that people choose what to do with the guns they own but I think everyone should be able to own one for their safety."
+}

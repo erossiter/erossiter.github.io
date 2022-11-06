@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1069_B_r",
+	"argument" : "Religion is a large part of my life. I am a Christian and do my best to follow God. I know I am not a perfect Christian but I am trying to better myself and grow my relationship with God. Religion guides me."
+}

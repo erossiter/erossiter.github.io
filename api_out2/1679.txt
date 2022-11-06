@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1008_A_r",
+	"argument" : "Religion dictates a lot of my moral convictions. I abide by the rules of my religion and believe that they should play a part is lawmaking decisions. A lot of my family values are derived from religion as well."
+}

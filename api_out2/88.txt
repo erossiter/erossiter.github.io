@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1068_A_b",
+	"argument" : "President Biden has caused many of the inflationary issues that we see today. He has proven to not only members of other nations, but citizens of the United States that he is weak, and unfit for office at this current stage of his life."
+}

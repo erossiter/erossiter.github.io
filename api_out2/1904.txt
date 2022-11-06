@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1179_B_r",
+	"argument" : "My faith is very important to me, I was raised in a Baptist family and grew up going to church every Sunday. I consider the congregation I am a part of my family, and I try to live my life like Jesus did. Religion influences every decision I make because it is a strong pillar of my life.  "
+}

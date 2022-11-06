@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1609_B_g",
+	"argument" : "I think that gun control laws shouldn't be that limited. It is every persons right to have a gun and defend themselves. If people can't feel safe in their own homes that is an issue and getting rid of gun control is only gonna make me feel safer."
+}

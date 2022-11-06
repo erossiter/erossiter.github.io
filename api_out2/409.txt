@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1337_B_g",
+	"argument" : "I do not believe that gun controls are strong enough in any sense. They should become stricter in order to make it harder for individuals to purchase life threatening weapons, for that is the only way to stop irresponsible people from buying them. "
+}

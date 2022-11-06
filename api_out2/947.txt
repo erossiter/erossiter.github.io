@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1368_A_h",
+	"argument" : "Throughout my whole childhood, I played football and discovered wrestling when I got to high school. Those two sports helped shape me and are some of my strongest passions. When I'm home, I like to go fishing with my Peepaw because he taught me how and it's when we spend the most quality time together. My favorite hobby at school is to lift and to go to Cru meetings. My favorite music is country, and some of my favorite artists are Tyler Childers, Luke Combs, and Morgan Wallen. My favorite food is my dad's deer jerky that he makes after we go hunting. Overall, the most important things in my life are God, family, sports, and the outdoors."
+}

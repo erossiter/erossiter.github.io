@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1535_B_g",
+	"argument" : "I believe that the Second Amendment is a guarantee of a right to self defense that is unique to the US and should be respected. Gun free zones are self-defeating and only work as long as every person, including those who wish to do others harm, choose not to bring a weapon into the area - if someone comes in wishing to do harm, it is likely that there will be no defense for those being attacked. Most gun owners are responsible and lock their firearms up when they're not being used. Most guns used by criminals are not bought legally, so background checks would not significantly decrease the number of guns criminals have access to."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1190_A_g",
+	"argument" : "The ability to kill another human instantly should not betaken lightly./ School shootings are skyrocketing in frequency, and yet firearm regulation is still not being struck down upon. We need to regulate firearms heavily in order to prevent thee school shootings, as the less dangerous weapons there are, the less shootings there will be, simple as that."
+}

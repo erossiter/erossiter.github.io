@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1214_A_r",
+	"argument" : "Religion plays a supportive role in my life, serving as a series of expectations and guidances to try to follow. I try to go to church as often as I can, but often am too busy between school and social life to go. I try not to present myself too religiously to avoid dividing my friends or making them feel uncomfortable around me. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1415_B_r",
+	"argument" : "Religions don't play a big part in my life as I don't necessarily believe in any religion. Though some of the messages from different religions are good, such as people should be kind and nice to each other, I don't think my or one's life should be completely oriented by the religious beliefs one holds. However, I do believe that people shouldn't be judged by their religions and everyone has freedom to believe what they want to believe in."
+}

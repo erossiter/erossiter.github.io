@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1578_A_r",
+	"argument" : "Religion plays a central role in my life. I am a baptist christian and attend church every Sunday. I do not really have time to go more often. Although I do find some things written quite controversial, the holy scripture guides my life and my choices and has helped me become a better person. "
+}

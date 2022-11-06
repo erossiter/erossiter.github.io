@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1281_B_i",
+	"argument" : "I believe that the United States is place that everyone should be able to immigrate to if they are in a less fortunate situation elsewhere.  With the resources that the United States have in comparison to other countries it is our responsibility to make sure immigrants have a safe place to live, work, and raise their families."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1444_A_r",
+	"argument" : "Religion is an aspect of my life that I have not put much time into in the past few years. I was raised catholic and do follow the overarching ideology. For some, it is a pillar of their identity which can be great if communicated properly. I have been turned off by the idea of reaching back into Christianity with the arguments from the far-right that make it out as though the bible should be followed exactly word for word. It is also disgusting to turn family members against one another based on political beliefs and whether that aligns with religion. Religion and politics should be two separate entities. It should not matter if someone doesn't have the same beliefs as you because, at the end of the day, it is only an aspect of the person that they are."
+}

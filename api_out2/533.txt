@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1365_B_g",
+	"argument" : "Guns are an American right and should be accessible and legal to own. We have the right to bear arms and the right to defend ourselves and the government should not be able to tell us that we can't easily access guns."
+}

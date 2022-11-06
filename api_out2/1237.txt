@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1540_A_i",
+	"argument" : "I think our current immigration policies could be improved. We should be allowing more immigrants into the U.S., especially more refugees from countries in the midst of wars, where lives are in danger. It seems absurd to me that the U.S. isn't doing everything in it's power to save human lives, even when it easily can, just because of some racial and economic misconceptions."
+}

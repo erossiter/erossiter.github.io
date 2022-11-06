@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1472_A_b",
+	"argument" : "President Biden is a distinguished president that has faced undue persecution and has faced a myriad of difficulties.  He is the president that took charge and has revitalized the country though a pandemic.  Some people still think that the last president was in charge of bringing us through covid but that is simply untrue.  Nobody as reckless as the last president cares about the American populous as much as he said he did."
+}

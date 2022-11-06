@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1529_B_g",
+	"argument" : "I think people should be allowed to have guns because they are used to defend themselves. Everyone will find a way to get guns even if there are restrictions placed. I think it is someone's right to have one."
+}

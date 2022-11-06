@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1283_B_i",
+	"argument" : "I thing that our current policies on immigration make it too easy for immigrants to come into our country illegally. We should prioritize the rights of American born citizens over those who are coming to our country from foreign lands. We need a fierce border wall and more border attendants so we let in less immigrants at our Mexican border."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1100_A_b",
+	"argument" : "President Biden's performance in office thus far has been suboptimal. I think he made the right choice to pull American troops out of Afghanistan, but besides that I don't agree with the policy decisions that he's made. I don't think he has dealt with foreign tensions as well as President Trump did, especially in light of the war in Ukraine. As much as people don't want to believe it either, I think the Biden administration is partially responsible for rising gas prices."
+}

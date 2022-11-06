@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1594_A_b",
+	"argument" : "President Biden is doing great in the office. Gas prices have been going down and so have unemployment rates. He is also addressing climate change which is incredibly important for the earth's future."
+}

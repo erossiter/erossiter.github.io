@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1601_B_i",
+	"argument" : "I believe when it comes to the immigration policy, we have in the United States that we need to create a way for undocumented immigrants to be able to stay in this country legally. Most of these immigrants have very valid reasoning for what they did such as running from war or attacks as well as being in poverty and not being able to support themselves and their families and the immigration process is very lengthy and costly so a substitute option for those that need help should be created and implemented in order to help these people."
+}

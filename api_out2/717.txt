@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1170_A_g",
+	"argument" : "I believe that guns should be accessible to everyone, no one should be deprived of their second amendment right to bear arms. Politicians lately are trying to pass laws that make it harder for everyone to get guns."
+}

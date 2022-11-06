@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1616_A_b",
+	"argument" : "I'm glad we settled for Biden. He is just who we needed to vote into office to get Trump out, and now we can usher in change after he gets out of office."
+}

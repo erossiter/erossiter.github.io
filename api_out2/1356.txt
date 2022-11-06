@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1590_A_i",
+	"argument" : "I think immigration policy needs to be changed a lot. I don't hate immigrants but  it is unfair if people who come into our country illegally get the same benefits as people who go the legal route. I also think people should make more of an effort to know English and our way of life."
+}

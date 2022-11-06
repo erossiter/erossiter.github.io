@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1489_B_i",
+	"argument" : "I believe that immigration should be strengthened within the United States. This would include enforcing our borders and funding border patrol so that we are better off in that aspect. I also think the process in which immigrants are allowed to enter the country should be heavily reviewed and limited so that we can keep track of those who wish to enter legally and limit the possibility of immigrants to wish to enter the country illegally."
+}

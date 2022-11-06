@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1444_A_i",
+	"argument" : "I find the current immigration policies in the US to be inhumane. I feel that the news has become desensitized to the refugee crisis. If you were to look back at the beginning of the Trump administration when he heavily enforced ICE, his administration brutally tore families apart leaving children as young as infantry to fend for themselves. This was disturbing to see images of, but the republican party which held the majority continued to look on and do nothing. There needs to be more done to bring people fleeing actual terror and poverty into our country safely and humanely, as we all are ancestors of immigrants too. "
+}

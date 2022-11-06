@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1640_A_r",
+	"argument" : "I go to church every Sunday followed by a nice family lunch at my grandma's house in North Carolina. I try following God's word and Jesus's words as truthfully as I can in my day to day life."
+}

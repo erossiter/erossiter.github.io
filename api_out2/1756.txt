@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1010_A_r",
+	"argument" : "As someone who strongly identifies as an atheist, I believe that religion is deeply personal. I vote based on the experience of those around me, and off on what experts across fields suggest. I understand that some religious sentiments might suggest otherwise, and I think that these beliefs should be respectful, as long as they are not harmful or hate speech. It worries me to see a lack of separation between church and state, especially in the Supreme Court. Christianity is taking over the government, and I think that we should focus on a return to personal religion-- honoring people's religious rights and identities without enforcing our own. "
+}

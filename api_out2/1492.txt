@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1575_B_i",
+	"argument" : "I believe that the immigration of skilled workers is crucial for further development.  I do not believe that families should be separated, but I feel as though there should be a hierarchy for those who can immigrate based on the advancement of technology and industry."
+}

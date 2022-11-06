@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1427_B_g",
+	"argument" : "My views on gun control is that is should be closely monitored and background checks are a must. Only people in jobs that require guns should be able to carry. Not an average citizens should be able to own a gun."
+}

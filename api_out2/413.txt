@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1382_A_g",
+	"argument" : "I think gun control laws need to be much stricter. Ordinary citizens should not have access to guns. Many school shootings and gun deaths could be prevented if stricter gun control laws are implemented. Only the US, among developed countries, has such high number of gun deaths. It is said that there are interests groups trying to prevent stricter gun control laws here."
+}

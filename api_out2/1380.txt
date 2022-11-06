@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1257_B_i",
+	"argument" : "More people should be let into this country. Immigrants are people, just like everybody in this country searching for opportunity to build a better life. "
+}

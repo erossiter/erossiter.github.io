@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1339_B_b",
+	"argument" : "President Biden's performance in office has been decent so far. At the start of his term, not too much was accomplished, but he has since made strides in terms of relieving student debt and pardoning those jailed for non-violent offensives."
+}

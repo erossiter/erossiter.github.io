@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1136_A_g",
+	"argument" : "I think that guns should not be legal and that the right to own a gun as given by the 2nd amendment is outdated and no longer applicable in todays society."
+}

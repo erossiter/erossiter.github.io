@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1370_A_r",
+	"argument" : "Religion plays a medium role in my life. It was hard at first to get involved with a church that fit my views. I wasn't interested in hearing hate spewed at a place meant to preach love and acceptance. Once I found a safe church space religion began playing a larger role in my life."
+}

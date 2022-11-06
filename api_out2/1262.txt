@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1118_A_i",
+	"argument" : "Immigrants should not be discouraged from coming to the United States for fear they and their families will risk discrimination and deportation. No person is illegal, and no one should be judged based on cultural stereotypes. The United States, as one of the wealthiest and ethnically diverse countries in the world, has an obligation to offer refuge to the less fortunate no matter where they originate from. Where undocumented immigrants in the United States presently are concerned, they should be offered a clear and simple path to citizenship rather than be persecuted by ICE. As citizens, these individuals will aid the economy by holding stable jobs and paying taxes. Continuing to treat them as nuisances is not only wrong but foolish, since millions of taxpayer dollars are wasted trying to track down and deport law-abiding people attempting to build a better future."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1292_A_i",
+	"argument" : "My views on the immigration policy in the United States is that over the years, the policy has changed to be more open and more inclusive to letting immigrants into the United States. "
+}

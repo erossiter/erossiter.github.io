@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1164_A_i",
+	"argument" : "I think that legal immigration can be a great thing. It is respectable that people from other countries would want to come to America for a better life. When people enter illegally that is when it is a real danger to our country. Plenty of immigrants work hard to enter legally and find success in America. Other people shouldn't be allowed to skip all of that and live in America without permission and the hard work it requires."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1242_A_i",
+	"argument" : "I think that america needs bigger borders. i think immigrants can get in too easy and we have bad border security. I think its important that we have a more strict policy towards immigration"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1470_A_h",
+	"argument" : "I find the community at UNC very welcoming. During my first year on campus, it was difficult to make new friends because there were so many people, but with time, I easily found groups that thought similarly to me about many topics. For example, I found others who support pro-choice, gay marriage, and BLM. I grew up in California for most of my childhood and enjoy eating Mexican food on weekends with friends."
+}

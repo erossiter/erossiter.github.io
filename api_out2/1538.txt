@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1510_A_i",
+	"argument" : "I believe that immigrants are bad and borders need to be further restricted in order to make the immigration process more difficult. Immigrants serve no purpose and just steal our jobs."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1309_B_b",
+	"argument" : "I am not mad about Biden's performance so far, but that doesn't mean there couldn't be improvements. Anyone is better than Trump, but Biden was not my first choice for a presidential candidate. I'd love to see Biden work more on issues like better and equitable access to healthcare."
+}

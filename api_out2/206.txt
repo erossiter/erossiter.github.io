@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1384_A_b",
+	"argument" : "Biden's is performing to the best of his ability and can only do so much under such a divided house. The issues of his administration are more or less out of his control and he is making the most of the circumstances."
+}

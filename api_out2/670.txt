@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1044_A_g",
+	"argument" : "I feel like it is too late for gun control laws to have any real effect on crime in the United States.  You should not take guns away from citizens that have them legally.  Criminals will find a way to commit crimes either way.  We are making it easier int he the U.S. for criminals to commit crimes and not be held accountable."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1475_B_b",
+	"argument" : "Joe Biden has been very disappointing since he has been elected. Gas prices has gone up, inflation has been worse in the country, and life in general has just been worse with him as compared to Trump."
+}

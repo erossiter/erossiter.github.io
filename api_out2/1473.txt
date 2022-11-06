@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1227_B_i",
+	"argument" : "If people want to become US citizens they need to take a citizen test and put in the work. It is not okay to just cross the border and try to get by without anybody noticing you aren't supposed to be here"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1218_A_g",
+	"argument" : "I believe that guns are great for society when put in the hands of good people.  It is not the gun that does harm but rather the individual that is using it in certain cases."
+}

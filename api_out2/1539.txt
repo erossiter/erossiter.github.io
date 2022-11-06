@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1511_B_i",
+	"argument" : "I feel like the United States should develop more strict and restrictive immigration goals such as increased border security because of the national security and benefits of all American Citizens"
+}

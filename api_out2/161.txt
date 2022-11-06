@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1561_B_b",
+	"argument" : "I think President Biden's performance in office so far has been unimpressive. He is focusing on policy that won't help our country's current economic issue and is too concerned with foreign affairs."
+}

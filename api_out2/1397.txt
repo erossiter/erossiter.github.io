@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1396_A_i",
+	"argument" : "I believe that everyone should have a fair chance in the country. No one in this country is a true American except the Native Americans so everyone should get an opportunity within the country. Furthermore, I believe families should not be separated regardless of their citizenship and we should not have any sort of physical border on the borders of our nation. "
+}

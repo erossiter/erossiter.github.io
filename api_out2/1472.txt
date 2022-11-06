@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1218_A_i",
+	"argument" : "I believe that immigration is a good thing for America as a whole. Saying this, all immigration should be legal and there should be no exception otherwise.  The country should be guarded and worrying about citizens first."
+}

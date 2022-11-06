@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1238_A_b",
+	"argument" : "President Biden's performance in office has been poor and he has inadequately served as president. Biden has led us into a recession and has caused gas prices to skyrocket to the highest they have been in years."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1217_B_i",
+	"argument" : "I believe that in terms of immigration policy in the United States, its should be easier for people to legally immigrate into this country. Additionally, I believe that the process of acquiring US citizenship should be streamlined and quicker in general. Our country was built by immigrants and they continue to be a key aspect of our society and country today. Therefore, our policies towards immigration should ensure we protect and respect these individuals. "
+}

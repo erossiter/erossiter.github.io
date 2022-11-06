@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1017_B_r",
+	"argument" : "It should not play a major role because society has moved so far forward that those times that this progressive era is an exception to the rules put forth by religion."
+}

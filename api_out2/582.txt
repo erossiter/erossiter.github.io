@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1161_B_g",
+	"argument" : "I think that gun control laws need to be strengthened for many reasons. First, our country has an embarrassing amount of school shootings that threaten the lives of our future generations. Other countries poke fun or warn about how our schools are unsafe, and parents worry for their children in a place where they are supposed to feel safe to focus on learning. Also, loose gun laws allow for more public violence and needless threatening, which can lead to higher levels of crime. Gun laws are extremely lax in our country, and I do not think that it should be so easy for someone to go out and get a gun. We need to increase background checks, testing, and make it harder to get a gun license. Many people worry about their own safety, but with higher levels of technology regarding home alarms and safety systems, they should not worry."
+}

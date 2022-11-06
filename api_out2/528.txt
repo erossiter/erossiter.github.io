@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1320_A_g",
+	"argument" : "I believe that I have a right to have guns based on the rights given to me in the second amendment of the Constitution."
+}

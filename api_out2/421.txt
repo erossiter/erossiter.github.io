@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1509_B_g",
+	"argument" : "I think that those purchasing guns should undergo more background checks and greater restrictions. Guns are constitutionally protected, but the fact that there are more guns than people in the United States is a bit scary. The U.S. has disproportionately high levels of gun violence in comparison to other major nations. I think that gun violence is sickening, and illegal gun ownership should be watched closer. "
+}

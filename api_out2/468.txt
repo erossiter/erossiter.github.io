@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1001_B_g",
+	"argument" : "In my opinion the second ammendment is the most important amendment out of the bill of rights. Gun control laws effectively seek to limit americans rights. every american should have a right to bear arms"
+}

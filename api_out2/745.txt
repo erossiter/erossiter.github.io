@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1456_A_g",
+	"argument" : "I believe that the second amendment, the right to bare arms, is one of the most significant liberties an American can exercise. It is important that we maintain this right and not allow it to be taken away or restricted. "
+}

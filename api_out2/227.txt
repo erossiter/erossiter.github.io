@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1525_B_b",
+	"argument" : "I think President Biden is doing a fairly good job. Biden is reestablishing the U.S. on the world stage after the damage of the Trump administration by renewing the U.S. commitment to Democracy around the world and standing up to right-wing authoritarians like Putin and Xi Jinping. At home, Biden is passing big bills that successfully have brought up employment. Recently congress passed the Inflation Reduction Act which is the first huge step to mitigating the worst effects of climate change. The U.S economy is on its way to avoid a hard recession. Biden is not doing a good job on immigration regardless of your political beliefs. He has kept an inefficient immigration policy from the Trump administration that caused the crisis on the Southern Border and has yet to reunite the children separated by the previous administration"
+}

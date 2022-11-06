@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1600_A_g",
+	"argument" : "I think we need to enact heavy restrictions on gun access in this country. There needs to be more thorough background checks, as well as outright banning any automatic or semi-automatic weapons for civilian use. "
+}

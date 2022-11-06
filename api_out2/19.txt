@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1217_B_b",
+	"argument" : "So far, I think Biden has done well in office. I think he did a really great job at getting the vaccine distributed to the public and the gun reform he passed is monumental. There also been a massive surge in employment during is presidency due to the economic recovery from Covid-19. There have definitely been some pitfalls but all in all, I am relatively satisfied. "
+}

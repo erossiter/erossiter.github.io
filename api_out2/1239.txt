@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1582_A_i",
+	"argument" : "I believe that the United States has the responsibility of accepting immigrants into the country. I believe that it is currently too difficult to acquire citizenship into the United States. For a country that was founded upon the belief that it should be a space for people seeking religious freedom and discrimination, it needs to be easier to be able to gain citizenship into the country."
+}

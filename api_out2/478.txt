@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1316_A_g",
+	"argument" : "The Second Amendment forbids the federal government from taking any action on gun control. If the Fourteenth Amendment is applied to gun control like many other issues are then it means the state governments cannot take action on gun control; though I am not thoroughly convinced of this particular point. It could be that states should have some control over gun policy. The Second Amendment exists to protect individuals from the government. All governments eventually become tyrannical. Military styled weapons must be allowed in the hands of the citizenry to stop such tyranny when it comes. Thus, the spirit of the law limits gun control."
+}

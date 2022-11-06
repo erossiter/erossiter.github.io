@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1698_A_g",
+	"argument" : "I believe that every American has a right to bear arms as protected in the Second Amendment. While recent laws such as increased background checks do not infringe upon this right, laws banning the purchase assault-style weapons are unconstitutional. The tragic and innapropriate actions of others in mass shootings should not take away my constitutional right; a more appropriate response would be an increase in law enforcement. "
+}

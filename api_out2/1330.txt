@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1291_B_i",
+	"argument" : "The immigration policy in the United States is too relaxed. It is too easy for dangerous people to get into the country. People who come here looking for jobs need to work to make their country better instead."
+}

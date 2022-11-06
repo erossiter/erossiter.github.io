@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1125_B_r",
+	"argument" : "Religion is incredibly important to me. I try to live my life the way God intended my to. I pray before every meal and before bed. I go to church every week with my family and I was baptized when I was a child. I make my political decisions based off the Bible because that is the Holy Scripture that I live by. I think it is wrong to push for separation of church and state because we should be making state decisions based off what God would want to protect His way of life and not dishonor him."
+}

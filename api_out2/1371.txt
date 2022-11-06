@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1161_B_i",
+	"argument" : "I think that immigration policy is a simple concept that has been blown out of proportion by people who are too caught up in following what certain political leaders tell them. Immigrants are not going to steal people's jobs or leech off of people's taxes that they aren't paying themselves. In fact, immigrants are the backbone of our country in many ways. Our country is made up of countless immigrants that are performing essential jobs, escaping from dangerous or less than ideal situations in order to better provide for their family, and building a better life for themselves. We should have open-border policies and implement more initiatives to help immigrants, rather than dissuading or closing off immigrants from coming here. They are people too, and they deserve to be treated as such, rather than seen as a threat or something that is hurting America."
+}

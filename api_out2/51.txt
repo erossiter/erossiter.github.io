@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1537_B_b",
+	"argument" : "I think President Biden is doing a decent job in office. He has forgiven so many student loans, which is ground breaking. He pulled troops out of Afghanistan and even though it wasn't perfect, it was necessary. "
+}

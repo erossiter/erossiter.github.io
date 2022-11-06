@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1102_A_i",
+	"argument" : "I think that we should let as many people into our country as possible, because if they want to be where we are, that is fine by me and that is how America was for a long time."
+}

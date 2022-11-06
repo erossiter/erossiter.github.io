@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1594_A_i",
+	"argument" : "The immigration policy should be more relaxed as families are being ripped about through these unfair laws. There is no reason why we should stop people from trying to improve their lives for themselves or their families. This entire country was made by immigrants."
+}

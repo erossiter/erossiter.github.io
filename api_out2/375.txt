@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1038_A_g",
+	"argument" : "I believe that there should be incredibly restrictive gun laws, so that there are less shootings and people are protected. The average person has no need to own a gun."
+}

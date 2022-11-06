@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1534_A_h",
+	"argument" : "Hello! I go to UNC Chapel Hill, and I'm a double major in political science and women's and gender studies. Outside of classes, I am involved in the Carolina Green Team, which is a club that is committed to more sustainable living on UNC's campus. Additionally, I work for the U.S. Committee for Refugees and Immigrants as a Case Aide. This position helps newly-arrived immigrants/refugees adapt to a new way of life in the United States. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1492_A_h",
+	"argument" : "I'm from Washington, D.C. and I went to Georgetown Day School with Associate Supreme Court Justice Ketanji Brown Jackson's daughter, Leila. I played lacrosse, and my favorite games were against Sidwell Friends School, because I got to play with Masie Biden and Sasha Obama. I admire their parents greatly. I was also the leader for a mental health initiative at my school, and I was a climate change cardinal member. "
+}

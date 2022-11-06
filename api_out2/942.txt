@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1318_A_h",
+	"argument" : "I enjoy to participate in activities such as sports. I do not like to participate in partisan hobbies such as activism clubs as I am uncomfortable in those spaces. I enjoy country music and spending time with my family. I am very involved with the christian groups on campus and hold many of their same values."
+}

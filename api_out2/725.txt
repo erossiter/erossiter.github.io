@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1238_A_g",
+	"argument" : "As a republican, my views on gun laws are that we should continue to have the right to bear arms. The United States was founded on this premise and to take that right away would be unconstitutional."
+}

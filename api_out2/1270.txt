@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1362_A_i",
+	"argument" : "The immigration policy in the United States is severely lacking. The immigrants are disadvantaged in many areas of life where they should be given the same rights as everyone else. We as a country need to fight for improved immigration policy to better the United States as a whole. This is a place of opportunity that should open its doors to new members, regardless of their background. "
+}

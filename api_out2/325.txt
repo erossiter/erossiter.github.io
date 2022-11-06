@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1249_B_b",
+	"argument" : "President Biden has accomplished little in office, as most of us expected. He was foolish to think that the platform he ran on would succeed. His lackluster performance will be reflected in the results of the midterm elections."
+}

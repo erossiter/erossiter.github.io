@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1083_B_r",
+	"argument" : "I grew up in a religious household, but found myself drifting away from it after my mom got diagnosed with cancer. As our neighbors would bring us casseroles and “get well soon” cards, they’d also be sure to wedge a “This is part of God’s plan for your family” in there. At that point, I knew two things; that I was in the second grade, and God’s plan was the worst. I hated seeing my mom wither away on the couch during radiation, I hated having to lie and wait in hopes that it wouldn’t come back, and every time she got her biannual scans I prayed to the very same higher power I believed to be responsible for her cancer. I think it’s nice that religion is a rock for other people, but it’d be a lie to say that I don’t still feel hurt from it. "
+}

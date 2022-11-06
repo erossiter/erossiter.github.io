@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1570_A_r",
+	"argument" : "I am religious, but that does not have any impact on my view of social issues. I think that gay rights and abortion should be permissible by law and that religious justification for social bigotry is wrong."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1287_B_i",
+	"argument" : "I think that the immigration process in America needs a lot of work. It takes way too long for immigrants to become citizens in the US, and if we could speed this process up a little bit, I think there would be less backlash among the group. America doesn't need to stop people from coming into the states because we were founded from immigrants, and we are considered the melting pot. I think it's important for us to stay true to this, and to help the people that come to us for help. "
+}

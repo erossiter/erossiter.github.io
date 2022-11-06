@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1621_B_i",
+	"argument" : "I think that the immigration process should be easier for people trying to seek entrance into our country, although background checks and other precautions should be taken. This will reduce the number of illegal immigrants."
+}

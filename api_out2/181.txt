@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1104_A_b",
+	"argument" : "So far, I think President Biden has done a decent job in office. He has passed the Bipartisan Infrastructure Law and the Inflation Reduction Act. I also think he did a good job with managing COVID19, specifically in terms of vaccines. I think he could do more for the environment and in reducing gun violence. however."
+}

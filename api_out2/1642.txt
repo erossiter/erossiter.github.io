@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1388_A_r",
+	"argument" : "Religion plays an important role in my day-to-day life.  I go to church frequently and value my relationship with God.  However, my religious beliefs do not extend into my thoughts on political issues, whether it be abortion rights, LGBTQ+ rights, prayer in schools, or other political issues.  Just because I am religious and believe in certain values does not mean that I should push those beliefs and values that I hold myself to onto others.  I recognize that the role religion plays in people's lives varies greatly from person to person.  If I were not religious, I wouldn't think it is right for a policy to be based on someone else's religious beliefs. "
+}

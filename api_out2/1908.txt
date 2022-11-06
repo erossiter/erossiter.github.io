@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1226_A_r",
+	"argument" : "I try to go to church most Sundays when I wasn't out late drinking the night before. I usually try to take my roommate or one of my friends with me. Religion is part of my life but I would not say that it is my whole life."
+}

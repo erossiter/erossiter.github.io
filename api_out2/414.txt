@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1420_A_g",
+	"argument" : "A sensible approach must be taken. There is no need for an ordinary person to posess machine guns that are instruments of war. This is necessary to protect children."
+}

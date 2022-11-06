@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1128_A_h",
+	"argument" : "I'm interested in the digital arts. I especially love writing and photography, and am mostly keen on the intersection between the two through the form of documentaries or photojournalism. I want to make a film at some point, probably on the process and ethics behind coffee farming around the world. Or run some sort of creative agency. In my free time, I love to bake and cook- mostly tarts and pastries, pasta and family-style rice dishes, respectively. In terms of music, I love Fleetwood Mac, Kate Bush, Talking Heads, Bjork, and I've recently been really getting into Portuguese music. I play the drums, and want to learn how to play bass. I also love nature: kayaking, fishing, etc. I also love hanging out with my friends, going to the cinema together and holding pot luck dinner parties. "
+}

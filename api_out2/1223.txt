@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1445_B_i",
+	"argument" : " Personally, I am pro-immigration.  I think that US citizenship should be much more accessible.  The problem with illegal immigration and undocumented people not paying their taxes would absolutely be solved if citizenship was more accessible... immigrants are good for the economy and fill jobs that most American people would probably not even want to take.  I think US immigration policies should reflect this."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1304_A_g",
+	"argument" : "Guns are weapons of killing and should be used by the military. There is no reason for anyone to have an assault rifle for self-defense because they are extremely dangerous and only useful for killing large numbers of people at one. They should be banned and other laws should be put in place to close loopholes and make sure people get background checks before they buy any guns."
+}

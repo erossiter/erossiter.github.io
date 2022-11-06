@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1504_A_r",
+	"argument" : "Religion is something that should be a choice not forced upon individuals. That is why I fully support the education law that prohibits teachers from talking about religion in schools."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1272_A_r",
+	"argument" : "Although I am not a member of the Christian church, I'm religious and I believe that every institution in America should be guided by religion to ensure ethics and morals are upheld to the highest standard."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1259_B_i",
+	"argument" : "I think that illegal immigrants should be kept out of the country. People that are fleeing their countries and entering the US illegally are causing many issues for the country. Proper immigration is ok but when undocumented illegal immigrants enter the country, it is a problem"
+}

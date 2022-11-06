@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1562_A_i",
+	"argument" : "I feel as though the immigration policy should be in place, in order to prevent those who are terrorist from coming into the United States. It creates a safe zone. However, there are some down falls. Many individuals who come to the United States want a better life for themselves and their children, they should be given the right to do so. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1079_B_i",
+	"argument" : "While the immigration system is broken, immigration policy should not be focus. It is more important to focus on the American people first because Americans are the ones paying taxes. "
+}

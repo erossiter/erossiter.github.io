@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1589_B_i",
+	"argument" : "I believe that we need to treat all people with respect that we would like to be treated with, and everyone deserves to live a safe and happy life. If someone is fleeing their country for safety, I feel as though it is selfish to not provide them with that safety they are searching for if we are able to do so."
+}

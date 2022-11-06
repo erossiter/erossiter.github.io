@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1223_B_r",
+	"argument" : "Personally, religion plays no role in my life. Being raised Catholic, I saw an overwhelming amount of intolerance and blatant exclusion of human beings because they didn't fit the ideal mold that Catholics desired. While I believe in the foundational message of religion, love thy neighbor, understand that there are things larger than you, etc., like most things, religion has been politicized and ruined by mankind."
+}

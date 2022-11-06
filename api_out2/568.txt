@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1713_B_g",
+	"argument" : "The government should have no say on gun rights. In the Second Amendment it states that the people have a right to bear arms. This should not be infringed on."
+}

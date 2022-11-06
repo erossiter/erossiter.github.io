@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1100_A_i",
+	"argument" : "Immigration is a difficult issue in this country, but I think the most important thing to remember is that the lives and security of our citizens matter the most. Immigrants come to the United States because they want to escape bad living situations that they experience in their home countries, but they cannot be given a pass for simply escaping a bad situation. We have a due legal process of obtaining citizenship that must be adhered to. Without strict immigration policies, there would be fewer jobs on the market for American citizens and overpopulation would become a bigger problem. Immigrants should feel welcome in America, but not at the cost of the country's peace."
+}

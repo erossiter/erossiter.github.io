@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1411_B_i",
+	"argument" : "The United States takes in too many illegally immigrants and policy must be focused on limiting immigrants into the country. With stricter laws, less illegal immigrants will be able to enter the U.S., benefitting the American workforce and public. Under the current administration, too many non-U.S. citizens are entering the country, stealing jobs from people who reside in the U.S. Immigration policy should become much stricter towards illegal immigrants. "
+}

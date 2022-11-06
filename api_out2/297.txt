@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1018_A_b",
+	"argument" : "I don't think that Biden's presidency is going very well. You can see that his age affects his communication skills and his decision-making. I also think that student loan forgiveness may have negative effects on our economy and is unfair to those who worked hard to already pay off their debt."
+}

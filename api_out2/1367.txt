@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1087_B_i",
+	"argument" : "The United States definitely needs to alter their policies regarding immigration. We need to make the process easier and offer more support for those trying to come to our country."
+}

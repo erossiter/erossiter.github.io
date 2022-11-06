@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1160_A_r",
+	"argument" : "I come from a not a very religious family. We don't go to church very often, like other families do. Religion hasn't been a really active factor in my life. I'm against against some things of the church and the pope. I also believe that the church and the state should both play apart."
+}

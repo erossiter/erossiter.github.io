@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1370_A_h",
+	"argument" : "I enjoy thrifting and creating artwork. Expression is incredibly important to me, and it's important that others see my expression of self. I really enjoy listening to underground artist, it makes me feel cool to listen to artist who aren't known. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1322_A_r",
+	"argument" : "Religion plays a big role in my life. Im a Christian, and those values certainly go into how I act day to day. I wouldn't say I'm devout or fanatical or anything, but I do go to church and I feel like those ideas are generally good for society. I try to enact those values in daily life."
+}

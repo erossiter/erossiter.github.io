@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1208_A_i",
+	"argument" : "The immigration policy in the United States has much more room for improvement. It is still too restrictive and excludes immigrated people from social, academic, and economic participation. The wall built under Trump shows the restrective policies."
+}

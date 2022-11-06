@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1643_B_g",
+	"argument" : "I think the guns laws right now are fine and do not need to be tightened. The problem we are having with gun violence is not the guns fault it's the people using them."
+}

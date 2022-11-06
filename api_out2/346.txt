@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1500_A_b",
+	"argument" : "I don't agree with the way Biden has handled a lot of things. He presents himself as an unfit leader and should not have been put in office. He needs to be more aware of the effects of his actions."
+}

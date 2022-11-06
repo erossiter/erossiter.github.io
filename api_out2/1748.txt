@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1646_A_r",
+	"argument" : "Religion is really important to me. I am a Buddhist, so I would not kill any life, which means abortion is unacceptable to me. I won't kill an ant on the street!"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1256_A_i",
+	"argument" : "It is our responsibility as a more developed country to accept immigrants. It is an important indicator of human rights commitment and ethical concern, as well as a net positive as more workers will grow cultural diversity and lead to people better informed about the world. The US should have very open borders and accept those who are willing to make the commitment to immigrate to the US."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1225_B_g",
+	"argument" : "The Second Amendment of the Constitution, which protects an American's right to bear arms, is an essential part of American democracy. Governmental regulation of guns is inherently unconstitutional, as they contradict the text explicitly listed in the Constitution. Gun control laws are individual state issues; to have federal gun regulation would be adhering to social and cultural norms rather than following the sacred document that is our United States Constitution."
+}

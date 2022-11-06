@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1090_A_g",
+	"argument" : "The second amendment is a right of every citizen in the United States and no one should have the ability to take away someone's constitutional right. We all have the right to protect ourselves from tyrannical governments."
+}

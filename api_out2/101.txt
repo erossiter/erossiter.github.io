@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1576_A_b",
+	"argument" : "Honestly, I don't follow the news much. What I do know is that I don't like that my gas prices are more expensive. I think that I don't like his policies so far."
+}

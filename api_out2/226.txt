@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1523_B_b",
+	"argument" : "I believe that President Biden's performance has been very good. The forgiveness of student loans plan is more than I could ever ask for. Also, he helping stabilize our economy in the mist of a world wide gas price increase. "
+}

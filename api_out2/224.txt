@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1498_A_b",
+	"argument" : "I think Biden is doing an okay job in office so far, but he could be more progressive in my opinion. He could be doing more for gun control and abortion issues that I am passionate about and have been serious issues especially during his presidency."
+}

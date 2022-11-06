@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1424_A_b",
+	"argument" : "Overall, I am less than pleased with Biden's performance in office so far. He has handled most situations he has been presented poorly and his age has definitely shown. He can barley handle himself, let alone run a country."
+}

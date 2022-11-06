@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1526_A_i",
+	"argument" : "I think a wall is important for the United States and I believe that the only immigration that should be allowed is legal immigration. The idea that we should welcome everyone and anyone to the United States is dangerous. Immigrants legally do it all of the time and if someone thinks it is worth it to live here, they must go through the process. "
+}

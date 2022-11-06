@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1323_B_g",
+	"argument" : "I believe that guns are an important self-defense mechanism that should continue to be granted in society as a right. When we lose our right to bear arms, we will begin to lose every other aspect of our lives that we have Constitutional rights protecting. "
+}

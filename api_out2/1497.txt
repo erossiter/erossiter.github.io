@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1015_B_i",
+	"argument" : "I don't like immigrants because they take job opportunity away. They also cause higher crime rates and social instability. The immigration policy should be more strictly enforced. We should send illegal immigrants home."
+}

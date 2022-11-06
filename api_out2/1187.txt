@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1189_B_i",
+	"argument" : "I believe that America should not ban people from entering the US if they just want to find a job, work and live a better life here."
+}

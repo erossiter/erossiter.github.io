@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1334_A_g",
+	"argument" : "I believe our nation has a substantial problem when it comes to gun control laws. America's gun violence remarkably and heartbreakingly high. It cannot go on any further, and one very obvious way to prevent this violence is stricter gun control laws."
+}

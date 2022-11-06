@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1445_B_r",
+	"argument" : " Religion does not play a large role in my life.  I consider myself to be a spiritual person, but I value science above all else.  Still, I won't condemn anyone for their own personal beliefs.  Personally, I'd consider myself against institutionalized religion though."
+}

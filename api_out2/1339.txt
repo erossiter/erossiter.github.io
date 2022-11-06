@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1367_B_i",
+	"argument" : "The immigration policy should be tightened. Although more immigrants provide more labors and human capitals, the public resources are being taken from you Americans as well. The qualification for the immigrants should take those immigrants who really deserve."
+}

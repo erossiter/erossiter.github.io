@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1482_A_b",
+	"argument" : "I think President Biden has followed through with some of his campaign promises, such as student loan forgiveness, but overall he has not done much. "
+}

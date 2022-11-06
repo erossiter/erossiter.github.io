@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1420_A_b",
+	"argument" : "He reduced inflation and gas prices. He protected the rights of minorities, such as LGBTQ+ people. He oversaw the implementation of funding for US chip makers. Under his presidency, the US has moved forward."
+}

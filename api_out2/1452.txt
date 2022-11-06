@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1539_B_i",
+	"argument" : "Immigrants should be allowed in the United States and should not have to go through extensive background checks before they gain their citizenship because they are escaping communities in crisis and have no other place to go."
+}

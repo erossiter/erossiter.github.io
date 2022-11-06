@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1482_A_i",
+	"argument" : "Immigration policy is not handled well in the U.S. This is a nation that thrives and functions because of the work of immigrants yet, many are not offered a pathway to citizenship despite their major contributions to the country. Immigration policy in the U.S does its best to uplift white immigrants and oppress immigrants of color especially those in Latin American countries. "
+}

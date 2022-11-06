@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1387_B_b",
+	"argument" : "President Biden's administration is a clear step up from the previous administration and president that were in office. Biden has had his work cut out for him doing a clean-up job repairing the democratic values that were seemingly destroyed by his predecessor. Biden has signed the Inflation Reduction Act, improved health care for veterans, addressed and took action against the felony charges for simple possession of marijuana, and taken impactful action against the gun violence epidemic spreading through our nation. He also restored America's image on the world stage and gave allies and opponents alike a reputable leader to associate with the United States."
+}

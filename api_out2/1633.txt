@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1094_A_r",
+	"argument" : "regardless of what role religion plays in my life, it should stay out of politics. Separation of church and state is the best way to ensure that the people of America get to choose what they believe"
+}

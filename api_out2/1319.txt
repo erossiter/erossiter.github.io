@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1171_B_i",
+	"argument" : "The United States immigration policy has not been effectively handled in recent years. I believe that we need to be aware of who is in our country for the safety and well-being of our citizens. It is hard to account for and hold someone accountable for their wrongdoing when they are not recorded for even being here. Many people are overstaying their visas and remain unaccounted for. This is a prominent issue that is being overlooked by the country. I also believe that border security is a safety hazard for both countries. We need a fair process that is in the hands of the government for the safety of this Country."
+}

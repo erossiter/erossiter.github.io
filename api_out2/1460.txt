@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1036_A_i",
+	"argument" : "I believe that immigration is key to the success of this country but an immigration policy that lets everyone while giving them taxpayers' resources is not a financially feasible plan long term. I believe that the immigration process is broken and needs to be fixed but having open borders is absolutely not the right idea."
+}

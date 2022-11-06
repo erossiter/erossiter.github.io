@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1464_A_g",
+	"argument" : "We as the next generation of Americans, as young people should have the right to safety regardless of geographic, economic, political or social status. Thousands die every year from gun violence, and countless examples of children being massacred in senseless school shootings have spread like wildfire through headlines and ignited widespread protests and calls to action, yet next to nothing has been done. Arguments can be made by old white guys that our right to bear arms is part of our history and the very fabric that makes up this country, but I say times have changed. There is zero need for people to own automatic weapons of mass destruction, and change needs to happen."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1577_B_g",
+	"argument" : "I think this issue is clear-cut and simple. It is a human right to possess and bear arms. This is a vital aspect of our protection and of our rights under the Constitution."
+}

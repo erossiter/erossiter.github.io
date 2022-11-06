@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1153_B_g",
+	"argument" : "I believe that gun control laws should be more strict. There is no reason that a I should be able to walk into a Walmart and buy ammunition . There is no reason an 18 year old that can't even buy themselves a bear should be able to own an assault rifle. Obviously the second amendment should not be done away with but the criteria required to obtain a gun need to be changed. The institutions put in place as checks and balances for owning a gun need reform."
+}

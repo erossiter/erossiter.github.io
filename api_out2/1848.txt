@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1676_A_r",
+	"argument" : "Religion is a part of my life, but I understand that my views are not necessarily the views of everyone around me, so I try not to let my religious beliefs affect my political beliefs. I believe in separation of church and state, and I think that religion does not need to be considered in politics. Besides, a lot of religious thinking is outdated and doesn't reflect societal progression in recent years. I believe in judging for myself whether something is right or wrong, and if my religion agrees with it, then that is a bonus. "
+}

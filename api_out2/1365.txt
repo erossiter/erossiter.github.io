@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1081_B_i",
+	"argument" : "I believe that immigration quotas should first off be expanded in order to compensate for the increasing instability in many countries due to the climate crisis.  The US is responsible in large part for this crisis and as such we have a moral obligation to take in refugees and give them a path to citizenship.  I believe that the government encourages anti-immigration rhetoric despite our commitment to being a melting pot country and that we should reverse anti-immigration policies."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1288_A_b",
+	"argument" : "President Biden's performance has been subpar. He hasn't done anything to help the economy. Gas prices are the highest they've ever been so much that people can't even afford to drive."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1159_B_h",
+	"argument" : "I am interested in the rights of minority groups like Black, Hispanic, Asian and women. I believe that the society would be devastated if people do not participate in politics or at least are not interested in social issues. I like sharing my opinions and listening to others' perspective."
+}

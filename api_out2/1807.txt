@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1544_A_r",
+	"argument" : "Religion doesn't play any role in my life. I was not raised in a household that went to church every weekend, and while I was surrounded by friends that did go to church on Sundays, I never felt like I was missing anything nor did I want to go to church. In my view, the belief in God is simply a hope that there is an otherworldly being that controls us. I don't think it's a particularly useful hope or belief, and I think that sometimes it is actually harmful. I think the belief that God makes everything happen for a reason is a view that can justify a lot of harmful things and justify tragic, chance events that occur. "
+}

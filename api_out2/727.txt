@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1277_B_g",
+	"argument" : "Nothing is more important in this country than the rights and freedoms of citizens. Our second amendment rights are essential to our democracy and maintaining freedom from the government and a potential oppressive leader. Gun control is an oppressive idea to take away freedoms and increase big government in this country."
+}

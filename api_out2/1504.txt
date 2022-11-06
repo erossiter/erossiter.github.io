@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1074_A_i",
+	"argument" : "I believe that we allow too many people to immigrate and that it takes away from the jobs of actual citizens. I think that people should have to go through a strict process and that it should take a while for people to be considered deserving of getting into our country."
+}

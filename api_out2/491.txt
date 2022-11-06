@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1627_B_g",
+	"argument" : "I have mixed opinions on gun control laws, I do believe there should be more restrictions set in place on who can by guns, but I think its virtually impossible to ban certain types of guns. I do not necessarily think guns are the problem in American society, but I do think mental health and problems with social media should be more closely examined. "
+}

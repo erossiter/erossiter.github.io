@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1352_A_b",
+	"argument" : "I think he's done a good job leading us out of the pandemic. I think he has been doing his best with the problems from the pandemic and rising divisions in America."
+}

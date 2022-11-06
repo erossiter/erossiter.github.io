@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1289_B_i",
+	"argument" : "I believe that immigration policy in the United States needs to be less restrictive to allow more people to be accepted who are in need of acceptance!! The United States is a country made of immigrants, and is a safe haven for people searching for refuge. "
+}

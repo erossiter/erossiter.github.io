@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1125_B_b",
+	"argument" : "I believe that Biden's performance is ruining the country. The economy has gotten so bad; Inflation is up, gas prices is up, everything has a shortage. He is focusing on the wrong things like canceling student debt and fighting for trans rights when he should be helping the everyday American citizen first. "
+}

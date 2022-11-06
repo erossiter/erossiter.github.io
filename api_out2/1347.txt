@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1432_A_i",
+	"argument" : "Immigration in the United States should be regulated by boarder security and have consequences for those who enter the country illegally. Strengthening laws for immigration is an important step for immigration in the United States."
+}

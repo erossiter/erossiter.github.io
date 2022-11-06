@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1148_A_i",
+	"argument" : "I believe that immigration should be heavily monitored. The U.S. is not in a spot financially to support extra people, so immigration must be restricted. People who choose to immigrate to our country should do it correctly and apply for a visa and not just enter the country."
+}

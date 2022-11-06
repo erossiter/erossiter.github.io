@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1202_A_b",
+	"argument" : "I do not think that Joe Biden is worthy of being in office. He didn't fairly win anyways. He is doing nothing for our country and does not know how to. His administration is weak, and he isn't a strong leader like our previous president. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1696_A_i",
+	"argument" : "I believe that the American policy on immigration is inhumane and unjust, as people constantly come to our borders seeking help and yet they are thrown in jails or turned back to their countries where they face violence and instability. I believe that the process of legal immigration must be made easier and that our asylum-seeking laws should also be made less stringent so that people can find haven in the United States. I think the caging policies which have continued from the Obama administration to the Trump and Biden admins is inhumane and treats people like animals. I think a border wall is silly and an unproductive use of federal funds."
+}

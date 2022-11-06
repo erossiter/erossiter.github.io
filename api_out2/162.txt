@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1590_A_b",
+	"argument" : "He's been completely ineffective and totally incompetent. He is clearly too old to be president and does not make good policy decisions. His foreign policy is a joke and gas prices are way too high."
+}

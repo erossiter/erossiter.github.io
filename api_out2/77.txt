@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1282_A_b",
+	"argument" : "I think that President Biden's performance is going well so far. Recently he said that he would pardon all of those that were convicted of minor drug related issues and i think that is good because it is more fair."
+}

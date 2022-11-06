@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1613_B_r",
+	"argument" : "I respect various religions and the right for freedom of religion, but I think that religion should be separate from government/laws. I am a Christian, but I respect others' views."
+}

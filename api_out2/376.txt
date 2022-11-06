@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1045_B_g",
+	"argument" : "I believe that gun control laws should be further regulated and in that there should be very heavy restrictions. I would argue that guns should not be accessible to an average civilian, however, I do not think that this policy would ever fully pass. Therefore, procedures such as records should be filed electronically instead of on paper. Also, they should require the age to be at least 25 as you cannot legally rent a car or some hotels beforehand- which is very contrary and actually scares me. A side note as well, all schools and building should implement metal detectors as a part of their door design so such shooting can be somewhat prevented."
+}

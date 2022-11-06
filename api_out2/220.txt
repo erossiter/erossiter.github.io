@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1480_A_b",
+	"argument" : "I personally believe Biden is doing pretty decent despite the current state of the world. There is a lot going on, and anyone would be criticized for the way they handle any situation, i.e. taking soldiers out of Afghanistan and the war in Ukraine. We haven't had nuclear war yet, so I think he is doing good."
+}

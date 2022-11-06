@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1409_B_r",
+	"argument" : "Religion plays a very strong role in my life. I am Christian, so I believe the Bible is the word of God and His word is the backbone of everything I do. All of my beliefs and lifestyle revolve around His word and what He says is right and wrong. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1382_A_i",
+	"argument" : "I think we should welcome immigrants who are seeking a better life here. The US has been able to thrive with the large influx of immigrants. Our multicultural and diverse society is what makes us strong and helps our developments. I think closing our doors to immigrants is unfair to them and wrong of us to do so."
+}

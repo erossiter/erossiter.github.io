@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1358_A_i",
+	"argument" : "Immigration policy in the US has faltered in recent years, specifically beginning in 2016 with the threat of Trump's wall, but has improved significantly with the induction of the new administration. Immigration policy should be grounded in the belief that all individuals deserve equal opportunities to succeed in the US and politicians should do their best to make this happen."
+}

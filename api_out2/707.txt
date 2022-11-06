@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1103_B_g",
+	"argument" : "I think that people kill people and not guns. People should be punished for killing people. People like me like to hunt and have guns for protection so gun laws would limit our freedoms."
+}

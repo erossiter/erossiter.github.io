@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1652_A_g",
+	"argument" : "I believe that guns are extremely harmful and no one should have such loose access. The amount of school shootings in America is appalling and the government needs to place stricter gun background checks and ban assault rifles."
+}

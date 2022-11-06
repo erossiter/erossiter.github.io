@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1194_A_h",
+	"argument" : "I like to paint, hang out with my friends, and go to concerts. I listen to artists like Phoebe Bridgers, Taylor Swift, and Lucy Dacus. I also like to volunteer and get involved in the community; over the summer, I volunteered and taught a virtual ESL class!"
+}

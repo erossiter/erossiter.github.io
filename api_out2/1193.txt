@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1209_B_i",
+	"argument" : "I believe that any refugee or person seeking asylum in another country should be allowed to enter the country and receive aid. Additionally, I believe that there should be a threshold where undocumented people can evade being deported. For example, if someone's family has had multiple generations living in the United States, then it is illogical for them to be deported. Instead, they should be placed in a mandatory program that will make them become citizens."
+}

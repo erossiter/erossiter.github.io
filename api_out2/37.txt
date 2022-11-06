@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1393_B_b",
+	"argument" : "President Biden was the better choice out of the two candidates and has prior experience in office since he was vice president. He has been trying his best to implement policies that would be for the benefit of all the people and has helped with Covid relief policies."
+}

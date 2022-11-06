@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1634_A_i",
+	"argument" : "The immigration policy in the United States clearly has its flaws but that does not mean they should be completely erased or blocked, rather an improvement to the established rules and more care for others would be better. "
+}

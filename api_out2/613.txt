@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1481_B_g",
+	"argument" : "I believe that not everyone needs to have a gun. With so many mass shootings taking place every day within the United States, its apparent that our gun laws have so many loop holes that allow for dangerous people to have guns, which is why they need to be regulated more. Especially when it comes to military grade weapons, there truly is no need for the average civilian to have access to them."
+}

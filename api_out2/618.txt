@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1523_B_g",
+	"argument" : "I believe that guns should be banned from the United States unless they are registered hunting guns. In countries like New Zealand, following their first mass shooting, they banned guns and have not had a mass shooting since. The United States needs to follow suit and stop defending weapons that kills innocents, and especially kids in school. "
+}

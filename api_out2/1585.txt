@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1317_B_r",
+	"argument" : "Religion is an important facet of both my upbringing and my everyday life, however, I attempt to not let it infringe upon the way I view government and policy. I believe, overall, that there should be a strong separation between church and state, and even if I believe a strong way because of my religion, that does not mean I can let me views affect other peoples ways of life. "
+}

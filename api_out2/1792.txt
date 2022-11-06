@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1425_B_r",
+	"argument" : "Religion does not play a large role in my life. I try to make most of my decisions free of religious opinion’s constraints."
+}

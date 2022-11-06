@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1430_A_h",
+	"argument" : "I am from a small town called Mount Airy around 20 minutes north of Winston-Salem. I enjoy playing sports (football, basketball, baseball, etc), traveling, playing my Xbox, and fishing in the pond behind my house. Before I moved to UNC, I lived with both my parents, a younger brother, and a dog and a cat. Since arriving to UNC, I have had several people comment on my accent, as it is noticeably southern. My favorite food is probably Mexican food, but I also like traditional southern cooking as well."
+}

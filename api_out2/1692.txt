@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1169_B_r",
+	"argument" : "Religion plays an enormous role in my life. I go to church on most sundays, and I sent my children to a private school, because it is much better than the propaganda-filled public schools. I don't find much time to read the scripture, but it's okay because I still pray at night."
+}

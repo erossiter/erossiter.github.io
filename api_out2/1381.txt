@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1260_A_i",
+	"argument" : "I think that the immigration policy should not seek to make it more difficult to become a US citizen. I disagree with stances involving building/expanding upon the border wall, inspecting commercial truck, etc. I"
+}

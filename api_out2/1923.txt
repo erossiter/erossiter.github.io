@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1397_B_r",
+	"argument" : "I am pretty steadfast in my faith and it plays an important part in shaping my worldviews and perspectives, including my political views. I think that political decisions must be grounded in value-based reasoning. "
+}

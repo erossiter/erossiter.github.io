@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1029_B_i",
+	"argument" : "I believe the process to immigrate legally to the country should be made easier. I think this issue shouldn’t be a partisan as it is because both sides can agree that American citizenship is something to be desired. I believe it’s just difficult for some people to understand what it would be like to be in the shoes of an immigrant who desires citizenship."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1184_A_i",
+	"argument" : "I think that the United States should have a stricter immigration policy. Many of the immigrants who come to the United States are not provided with the tools and resources they need to succeed. They are left out on the street or forced to go on welfare. The U.S. should only take in immigrants they know they can provide for and can truly be given the chance to achieve the American Dream."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1392_A_b",
+	"argument" : "Biden has made a serious initiative to fight back against major world-problems (especially present in America). Some of his most notable actions are fighting gun violence, fighting gender-based violence, and assisting with the impact of Covid-19. He has been supportive of the general public and has provided aid for those in need. While I recognize his approval ratings aren't the highest at the moment, I appreciate his efforts to improve the lives of American citizens and fight for human rights and equality."
+}

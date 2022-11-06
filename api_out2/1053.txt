@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1024_A_h",
+	"argument" : "I am an extremely enthusiastic person who enjoys working hard for myself and my community. Since I have been young, I have taken a great interest in promoting the rights of minorities and speaking up for progressive issues. In my free time, I enjoy listening to artists such as Rage Against the Machine and Public Enemy. I do enjoy cooking as well. I am strictly vegan, as I feel this is more sustainable for the planet and healthier for my body. "
+}

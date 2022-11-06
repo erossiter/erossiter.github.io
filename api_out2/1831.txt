@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1216_A_r",
+	"argument" : "Although I recognize that religion does exist and plays a big role in other peoples lives, it doesn’t in mine. I tend to not agree with a lot of the social and cultural values associated with religions. I like to think about events more analytically and with reason, rather then thinking they happened because of a outside force."
+}

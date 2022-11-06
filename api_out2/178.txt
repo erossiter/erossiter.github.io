@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1078_A_b",
+	"argument" : "I believe that President Biden's performance has been good. He has made a positive impact by creating student loan forgiveness and hopes to continue to have positive change. I think he has been a far better representative than his predecessor Donald Trump."
+}

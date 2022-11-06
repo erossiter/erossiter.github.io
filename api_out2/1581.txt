@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1304_A_r",
+	"argument" : "Religion plays a role in my personal life. As a Catholic I attend Mass on Sunday and I live out the Catholic social teachings og compassion and generosity. Though I disagree with the Church on several important political issues. I don't try to convince anyone else of my religion and keep it to myself since religion is subjective."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1442_A_g",
+	"argument" : "As an avid supporter of the 2nd Amendment, I strongly believe that Democrats seek to take the guns of law-abiding citizens who use firearms for self defense. While I am sympathetic for the lives lost in recent mass shootings I believe that restricting and banning weapons sales will not reduce violence, but will in fact make it more difficult for the average citizen to protect themselves, as gun control laws will not make it any more difficult for criminals and violent people to procure guns. "
+}

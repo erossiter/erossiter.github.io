@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1112_A_b",
+	"argument" : "He does not fit the views of the majority of the population. We are the silent majority who do not want to be silent anymore. Biden has made the economy terrible, that's why gas prices are so high. "
+}

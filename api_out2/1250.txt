@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1686_A_i",
+	"argument" : "I believe immigration is a defining aspect of American character and the story of America's culture. I think we need to make it easier for people to come into our country and enjoy the freedoms of America. "
+}

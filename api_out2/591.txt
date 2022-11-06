@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1233_B_g",
+	"argument" : "Gun control laws are very important in order to ensure that gun-related fatalities, injuries, and deaths are properly dealt with and decrease in rate. Our nation's current state in regards to gun control is horrible. Mass shootings and gun-related deaths are one of the leading causes of death in the U.S. and they occur in disproportionately high rates in comparison to other countries. We need to be more restrictive with gun control and value human life and well-being over obtaining deathly weapons."
+}

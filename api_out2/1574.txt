@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1248_A_r",
+	"argument" : "I grew up in a non-religious household, and I am not religious at all. However, I do believe people should be able to practice their religion freely without any discrimination or hate. "
+}

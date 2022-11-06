@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1045_B_h",
+	"argument" : "My favorite hobbies are to go outside and sit in a hammock and listen to Bob Marley and similar artists. I occasionally will paint within this atmosphere in the area in which I feel thrilled in. I will also attend this scenery with my friend and sit on a blanket and have a picnic together and create life-long memories. To add, I really enjoy watching live music, specifically acoustic guitar that is joined by a raw singer whose voice is pure and free of autotune. Lastly, I really like staying in the loop of politics and daily news. I want to go into politics, so personally for me it is very important I know what is going on so that I can eventually jump right in and advocate for those who cannot speak up for themsleves."
+}

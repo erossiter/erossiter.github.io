@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1257_B_r",
+	"argument" : "Religion plays essentially no role in my personal life. While I am okay with others practicing their religion I don’t like when it feels forced upon me or others. I also don’t like when religion is used to justify practices that are often discriminatory."
+}

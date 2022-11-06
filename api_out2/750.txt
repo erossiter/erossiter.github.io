@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1511_B_g",
+	"argument" : "I believe that because of the second amendment, all American citizens should have the right to own and use guns, and also because of freedom of speech and freedom of expression "
+}

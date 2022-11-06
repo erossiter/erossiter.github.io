@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1225_B_r",
+	"argument" : "Religion plays a large role in my life. I am a devout Christian and I go to church every day. I think that religion influences a lot of my beliefs in regard to marriage and abortion. I believe that marriage is an institution agreed upon by a man and a woman. I also believe that abortion is wrong, as it goes against my religion and is stated in the Bible."
+}

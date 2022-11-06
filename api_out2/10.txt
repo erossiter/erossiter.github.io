@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1152_A_b",
+	"argument" : "Biden’s performance has been significantly better than Trump’s. Unstable oil prices are actually a good thing because it incentivizes electric cars but Biden has undeservingly received criticism for the oil prices."
+}

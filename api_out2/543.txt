@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1441_B_g",
+	"argument" : "I believe gun control laws are important to enforce safety to our community. With all the recent shootings, they are necessary. That does not mean taking away the right to buy a gun, but simply stricter gun laws so they are in the hands of the right people for the right reasons."
+}

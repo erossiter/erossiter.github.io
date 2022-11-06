@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1349_B_i",
+	"argument" : "I think that immigration policy in the US should be strengthened through more border patrol and stricter rules on handing out visas. There is too much illegal immigration going on in the US right now and it is hurting the economy as a result."
+}

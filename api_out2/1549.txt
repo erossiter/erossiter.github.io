@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1636_A_i",
+	"argument" : "The United States needs to be more strict with their immigration policy. People from other countries should not be able to live in the United States and reap the benefits from the taxes that real US citizens pay. Right now, with Biden in office, it is far too easy for immigrants to come to the US, whether illegally or legally, and those that are here illegally have little to no consequences if caught. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1596_A_b",
+	"argument" : "I think President Biden is doing an okay job in office, but I believe there is much more he could do to help people in the US. That being said, he is decidedly better than our former president."
+}

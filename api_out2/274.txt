@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1133_B_b",
+	"argument" : "For someone that has been in politics for a long time, he seems quite inexperienced. He makes taxes too high, and gas prices are ridiculous. The economy has definitely worsened under his presidency, and the issue in Afghanistan is worst so far. He is too old."
+}

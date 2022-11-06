@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1196_A_h",
+	"argument" : "I am a sophomore undergraduate on the pre-business track. I live in Charlotte, NC with my sister, mom, and dad. I play piano and flute, and I was part of the youth symphony in high school. My favorite memories are from the summer when my friends and I went on a road trip to New York and we explored the city, including the Empire State Building, Statue of Liberty, and China Town!"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1056_A_b",
+	"argument" : "He has been insufficient as a leader so far. The rising inflation, gas prices, and bad economy have been increasing since he has been in office. The country is going downhill. "
+}

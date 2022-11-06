@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1312_A_b",
+	"argument" : "I think Biden made some promising statements when he was running for office, but he has failed to move quickly enough to make solving grave issues like climate change a focus of the American people."
+}

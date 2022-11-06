@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1108_A_g",
+	"argument" : "Gun control laws are one of the most difficult topics to address. When we see news of mass shootings and unnecessary deaths, it is heartbreaking. Still, I feel the devastation has less to do with guns and more to do with mental illness or disaffected individuals. I appreciate my right to own a hunting rifle or a shotgun, and I believe there is legitimacy to using firearms to defend one's self."
+}

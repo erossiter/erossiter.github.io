@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1054_A_g",
+	"argument" : "Gun control laws are ineffective and are an infringement on our 2nd amendment rights. We need good guys with guns to protect us from bad guys with guns. There will be no way to protect ourselves if guns are taken away."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1007_B_g",
+	"argument" : "My family owns several guns and having had that exposure and experience, I think that gun control laws need to be reduced. It's important to me that I can protect myself and my family, and I just don't see how any sort of gun control should prevent that. I think that if this country attempted to improve mental health efforts we would stop seeing so many issues with guns in schools. I don't want my second amendment rights infringed on because some people can't handle it. "
+}

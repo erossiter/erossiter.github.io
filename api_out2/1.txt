@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1012_A_b",
+	"argument" : "I would not say that I am super pleased with Joe Biden's performance in office so far, however, I believe that we are doing better off than we would be if Trump was still in office."
+}

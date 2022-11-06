@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1284_A_b",
+	"argument" : "President Biden has been absolutely exceptional in office so far. He has passed a bipartisan budget to fund infrastructure, creating jobs and allowing for the rebuilding of roads and bridges. His inflation reduction act has lowered drug costs, he has created several incentives for green energy, and he has lowered healthcare for seniors. Employment and wages have been on the rise, and he has handled the covid mess left for him as satisfactory as anyone could. With costs for college continually rising, his student loan forgiveness program gives students/post grads an opportunity to work their way up instead of being weighed down with financial burdens."
+}

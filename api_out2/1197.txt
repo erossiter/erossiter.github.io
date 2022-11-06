@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1244_A_i",
+	"argument" : "I believe that although some immigration policies should be established, there is no need to separate families due to undocumentation. It is inhumane as well as the procedure of keeping kids in cages."
+}

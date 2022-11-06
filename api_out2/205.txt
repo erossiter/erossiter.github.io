@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1370_A_b",
+	"argument" : "Biden's done a great job fixing the massive issues created by our previous executive. It's so refreshing having a professional, inclusive, government figure who is able to unite us instead of forcing us apart. "
+}

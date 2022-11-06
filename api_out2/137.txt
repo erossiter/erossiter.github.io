@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1373_B_b",
+	"argument" : "I believe that Biden's performance has been subpar. I think that his policies are going to put the country into more debt and drastically increase inflation. He also seems to focus more on international relations than the strength of his own country. His decision to subsidize college education was wrong. People choose to go to college, and the jobs they get will pay back their student debt in time. "
+}

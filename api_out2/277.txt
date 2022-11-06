@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1272_A_b",
+	"argument" : "Joe Biden is highly ineffective and heavily taxes the rich, emphasizing doing absolutely nothing beneficial for the country and state as a whole. With him in office, we are likely to see an economic downturn already highly prevalent due to the increases in inflation."
+}

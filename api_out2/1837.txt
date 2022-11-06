@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1402_A_r",
+	"argument" : "I believe that everyone is entitled to their own opinion and there should be a separation of church and state. Nobody should be enforcing their religion on others. Personally, I am agnostic and it does not play a role in my life. I respect all religions, however, it does not play a role in my life. "
+}

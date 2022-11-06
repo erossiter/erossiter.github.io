@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1276_A_g",
+	"argument" : "I am pro gun control. The second amendment was written during a time in which weapons were no where near as advanced and lethal as they are today. Therefore we can not follow the second amendment so rigidly."
+}

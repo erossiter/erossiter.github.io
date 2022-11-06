@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1606_A_i",
+	"argument" : "Immigration within the United States should be encouraged because it is immoral to gatekeep better lives for other people because of where they happened to have been born. It is also illogical to assume that certain people are illegal on stolen land, as most wealth disparities results from colonization. "
+}

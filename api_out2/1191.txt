@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1203_B_i",
+	"argument" : "Immigration in the United States is too strict for a country that was born from immigrants. Under former president Donald Trump, polarizing views of immigrants were shared, that created a misconception and stereotypes that still harm immigrants or those in the immigration process. Policies of naturalization are extremely strict, and those currently living in the US can not answer all of the questions on a citizenship test. "
+}

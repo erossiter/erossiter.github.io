@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1089_B_r",
+	"argument" : "Religion has never been a huge factor in my life. I don't necessarily agree with some of the harsh values and teachings that come from the church and the people within it."
+}

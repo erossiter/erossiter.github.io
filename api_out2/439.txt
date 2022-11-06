@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1678_A_g",
+	"argument" : "Gun control laws need to be strict, and we need to make sure that we are protecting people (especially kids in school) from gun violence. There needs to be extensive background checks if people are to get a gun, and automatic weapons should be completely banned; there is absolutely no reason any ordinary citizen needs to own a weapon of that caliber. "
+}

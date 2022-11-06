@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1648_A_b",
+	"argument" : "I think Biden has done an ok job. He definitely isn’t the best president but he is 10000x better than Trump who was and is horrible. I think Biden has some things to work on but overall is a good president."
+}

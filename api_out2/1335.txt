@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1333_B_i",
+	"argument" : "I just think that there are enough Americans trying to find jobs without the added threat of foreigners trying to take those jobs. Bad immigration policy leads to the loss of opportunities for Americans."
+}

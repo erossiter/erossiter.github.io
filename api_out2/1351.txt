@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1535_B_i",
+	"argument" : "Immigration policy is currently a mess; Border Patrol arrests are at an all time high, and immigrants are crossing the border in record numbers. While Trump's wall wasn't realistic, the nation should seek to harden our borders. National security concerns about terrorists entering the country through our borders are legitimate and not xenophobic. It is important to stop the current flow of migrants before we focus on trying to improve conditions in the nations they're coming from, which often deal with corruption."
+}

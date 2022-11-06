@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1676_A_g",
+	"argument" : "Gun control is something that the United States Government needs to take action upon. Too many lives have been lost at the hands of senseless violence that could have been prevented by stricter gun laws. The United States has a disproportionate amount of mass shootings compared to other countries. Countries such as Britain and Japan have had no mass shootings in recent years because of their strict gun laws. It's obvious that guns are the things that are contributing to the violence and senseless death."
+}

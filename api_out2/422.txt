@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1527_B_g",
+	"argument" : "I believe that we need more gun control laws in this country. If the ongoing mass shootings that we see occurring so often in this country aren't enough evidence to prove this fact, I don't know what is. "
+}

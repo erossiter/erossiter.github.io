@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1611_B_i",
+	"argument" : "I believe that people who really want to be American should deserve to be American. With limited expectations, the United States should not be harsh on immigration as they need to consider why immigrants are coming here in the first place. People may have trouble with where they are coming from and are turning to the United States for a new life."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1487_B_g",
+	"argument" : "The right for American citizens to bear arms is under protection by the United States Constitution, written explicitly in the Bill of Rights. Although there may be some validity in the arguments for gun control laws, doing so would set a slippery slope in terms of precedent. If changes to the constitution, so that the 2nd amendment (right to bear arms) can be limited and restricted, what other constitutional rights can now be limited and restricted? This is more of the principle of restricting the freedom and rights of Americans, as per the constitution. "
+}

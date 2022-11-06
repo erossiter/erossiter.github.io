@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1089_B_g",
+	"argument" : "Gun control laws should be more strict than they are now. We are seeing schools, churches, supermarkets, and much more becoming places of fear rather than safety. At what point will the safety of our people become more important than guns. Guns are harmful to anyone who holds it"
+}

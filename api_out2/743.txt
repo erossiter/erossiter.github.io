@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1453_B_g",
+	"argument" : "I believe that American citizens have the right to own, carry, and use guns. Additionally, governmental regulation of firearms is largely unconstitutional, and therefore, most gun laws are an infringement on the individual’s right to bear arms."
+}

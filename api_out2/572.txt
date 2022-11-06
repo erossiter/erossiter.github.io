@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1078_A_g",
+	"argument" : "I believe that gun control is crucial in our country. Our society has glamorized guns and violence in a way that's unhealthy and provokes people to use guns in a harmful way. We have had too many mass shootings as well as school shootings to continue to allow guns to be bought so easily."
+}

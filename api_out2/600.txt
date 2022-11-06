@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1301_B_g",
+	"argument" : "There needs to be more gun control laws, and the existing ones should be stricter. The process of obtaining a gun is far too easy, and makes people who should not have access to a gun a clear and favorable pathway to get one. "
+}

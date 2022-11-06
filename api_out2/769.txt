@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1012_A_h",
+	"argument" : "I live in California, I am a vegan, I love getting myself politically involved and organizing political efforts in my community, especially in events that are centered around women's rights."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1691_B_i",
+	"argument" : "I believe that America should have a more welcoming policy towards immigrants because they are what makes our country strong, especially since we only pick the smartest immigrants and ones who can offer skills to help our economy."
+}

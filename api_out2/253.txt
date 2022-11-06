@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1214_A_b",
+	"argument" : "President Joe Biden has had a slightly less than optimal performance in office so far. He came in with high approval, serving as a voice of calm and reason following the Trump presidency and January 6th. He has also effectively handled COVID-19 through the mass implementation of vaccines. He has also passed the most effective and expansive gun reform measures in American history. However, his presidency has been marked by the Supreme Court decision to eliminate federal protections to abortion, compromising healthcare for people who can become pregnant across the country. Also, his tenure has overseen massive inflation that affects all American families. He has his work set out for him to defend his presidency before reelection. "
+}

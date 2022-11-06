@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1399_B_g",
+	"argument" : "I believe that our constitutional rights are important including the second amendment. the founding fathers gave us the right to bear arms. self-defense, is incredibly important and the only way to stop a bad guy with a gun is with a good guy with a gun. "
+}

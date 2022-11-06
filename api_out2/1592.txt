@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1372_A_r",
+	"argument" : "Religion does not play a huge role in my life, I also try to not allow other people's religions to influence any of my decisions. While I understand that some people let religion influence every aspect of their lives, I do not see it as important and choose to make my own decisions."
+}

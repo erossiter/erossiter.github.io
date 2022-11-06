@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1376_A_h",
+	"argument" : "I’m a sophomore Peace, War, and Defense student interested in national security work. Last year, I interned for my state legislator, and I’m looking at a consulting internship for next summer. My top artists are J. Cole and Kanye, but I pretty much listen to everything. In my free time, I’m usually at the gym, obsessively reading Wikipedia articles, or learning to cook."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1321_B_i",
+	"argument" : "I view immigration policy in the U.S. as something that needs to be reformed. I think as a matter of national security, we need to be more efficient and effective in ensuring those who enter the country are legal and not terrorists. I'm fine if people want to come to America for work or better lives, as long as they do it the legal way instead of hopping the border. There needs to be reforms on the laws that can be bended to allow for illegal immigration, and there needs to be more importance placed on the protection of our borders, especially the ones that border other countries such as Mexico. "
+}

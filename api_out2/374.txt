@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1032_A_g",
+	"argument" : "I think gun control is important to public health.  I do not think buying and selling guns should be illegal, but there should be more restrictions in terms of who is able to buy and sell.  This would prevent a lot of mass shootings by not allowing mentally disturbed people to gain access to a gun."
+}

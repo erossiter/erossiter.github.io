@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1438_A_g",
+	"argument" : "My views on gun laws are that there aren't enough of them. The 2nd Amendment was created during a time where guns were more catered to that lifestyle and when machine guns weren't sold to ordinary citizens. I think guns should be restricted and more laws should restrict who can own guns and what type."
+}

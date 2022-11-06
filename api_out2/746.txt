@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1457_B_g",
+	"argument" : "I feel that it is your constitutional right to own a gun. I understand that--given the recent political controversy surrounding guns--people will disagree with me, however, it is critically important to protect yourself. Personal safety is all that should be taken into account when ruling on gun laws. Furthermore, I feel that it is not right for the national government to regulate firearms. That should be left up to individual states to regulate. In places like North Carolina, hunting is prevalent due to culture and having state autonomy over gun laws allows for the preservation of that culture. Federal regulation should not couple states together when there is a clear cultural divide between states. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1187_B_h",
+	"argument" : "I really enjoy activism and political work. In my hometown, I founded a youth social justice organization that focused on community issues, where we gained national media attention for our work. I also went vegan over two years ago, so I enjoy making healthy, environmental-conscious food in my free time."
+}

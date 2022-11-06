@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1108_A_r",
+	"argument" : "Religion plays a pretty important role in my life. I was raised in the Baptist Church and we attended the Sunday Service every week throughout my childhood. While I am not as religious as my parents or grandparents, my faith is a central focus of my life."
+}

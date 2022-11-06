@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1315_B_i",
+	"argument" : "The immigration policy in the United States is flawed in many ways. The leniency of letting people in and the spending that goes towards this only strays farther and farther away from a true Democracy of the People (Who have been in the United States)."
+}

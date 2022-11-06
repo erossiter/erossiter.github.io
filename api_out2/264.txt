@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1552_A_b",
+	"argument" : "Biden's performance in office so far has not been of what was expected yet, still better than if Trump were president. Before his presidency, talk of all these new policies he wanted to implement sounded so exciting, however it is a little frustrating his economic failure ruined that for him. "
+}

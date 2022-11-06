@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1204_A_g",
+	"argument" : "I think we need them. Some say that the laws are never effective, that people would commit crimes with or without guns, but I still believe it's necessary to control them, at least making them less accessible to the general public. People do irrational things all the time. It would be better for them to pick up a wine bottle instead of a gun."
+}

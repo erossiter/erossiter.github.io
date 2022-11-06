@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1544_A_g",
+	"argument" : "Gun control laws are too lenient in their current state in the United States. It should not be possible for someone who can't even buy alcohol yet to be able to purchase an assault-style rifle capable of committing a mass shooting. There is an extremely low barrier to entry to purchase a gun, and that isn't right. There is no reason for the acquisition of a driver's license to be harder than getting a gun license. There should be an annual relicensing process for guns that includes a mental health examination, to determine that all legal gun owners in the United States are mentally sound and know the circumstances of using their weapon, either for self-defense or for recreational use."
+}

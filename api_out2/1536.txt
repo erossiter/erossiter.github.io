@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1502_A_i",
+	"argument" : "I believe that it is an important issue in today's political environment. I believe that changes should be made to how immigration is handled. There should be more precautions taken on who enters the country, in that people should be documented and checked. However, I am not saying that people should be denied more, but there should be more security measure in order keep order and safety within the US. "
+}

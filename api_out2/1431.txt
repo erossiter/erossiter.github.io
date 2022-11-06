@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1666_A_i",
+	"argument" : "I think that the U.S should have a very open policy and allow immigrants from other countries to enter easily and provide them with assistance once they do in order to integrate in society."
+}

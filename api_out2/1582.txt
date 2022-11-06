@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1305_B_r",
+	"argument" : "Religion does not play much of a role in my life at all. Religion in my household was something that was never much prioritized, and to me religion is something that does not matter. What matters to me more regarding religion is the treatment of different religions, and it is clear that some people are discriminated against because of their religion. My life might not be impacted by religion, but is very sad to see the injustices faced by people simply because they belong to a certain religion. "
+}

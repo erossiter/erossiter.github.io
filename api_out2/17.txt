@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1205_B_b",
+	"argument" : "President Biden has been doing a fair job. He definitely is better than whatever Trump had accomplished in 4 years. Biden made sure to get the COVID 19 vaccine distributed to everyone and made our lives somewhat go back to normal."
+}

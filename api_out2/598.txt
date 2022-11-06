@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1290_A_g",
+	"argument" : "I believe stricter gun control laws are necessary in order to decrease the issue of mass shootings in America. The average citizen does not need a military-grade weapon in their household to defend themselves. People who own guns for hunting should be required to keep them in a locked safe at all times when they are not in use. There should be very strict enforcement in order to make sure school shootings do not happen, even if that means putting metal detectors up and making everyone wear clear backpacks."
+}

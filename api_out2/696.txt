@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1657_B_g",
+	"argument" : "Although gun control may be merited in some ways due to the increase in assault rifle violence in America, one cannot disregard the second amendment and its guarantee to allow Americans to bear arms. Rather than outlawing these weapons, there should be an increased effort to perform concrete background checks. "
+}

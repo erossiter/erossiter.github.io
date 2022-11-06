@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1509_B_i",
+	"argument" : "I think that immigration policy should pursue background checks, but that it is essential for those in refugee situations to get the assistance they need to come to the U.S. The number of people being brought into the country should not be limited. What is most important is that families stay together and people are provided with opportunity. Immigration can help stimulate the American economy. "
+}

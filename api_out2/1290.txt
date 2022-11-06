@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1264_A_i",
+	"argument" : "I believe that we should have strict immigration policies. I believe that there should be a small quota of immigrants allowed in the United States. I think the United States should deport all illegal immigrants."
+}

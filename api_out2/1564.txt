@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1134_A_r",
+	"argument" : "Personally, religion plays virtually no role in my life.  I completely respect others who follow a particular faith and choose their morals based on it. However, I draw the line when someone believes that their religion's values or beliefs should be imposed on other peoples lives and choices. Ultimately, religion has no place in politics and our constitution was written to mirror this sentiment. "
+}

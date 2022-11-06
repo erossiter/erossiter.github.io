@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1661_B_r",
+	"argument" : "Religion plays little to no role in my day to day life. While I was raised Catholic, I see absolutely no point in sustaining that well into adulthood. Religion has a purpose for some, but I see no purpose for me."
+}

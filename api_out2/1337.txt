@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1355_B_i",
+	"argument" : "My views on immigration policy are as follows. Those who don't support our economy through taxes, such as property, income, and peer to peer sales should seek to become a full fledge member of our society by becoming a U.S. citizen."
+}

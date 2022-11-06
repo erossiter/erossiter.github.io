@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1437_B_g",
+	"argument" : "I do agree that there should be a few more gun control laws put into place because I hate seeing the massacres of innocent people, especially little children. However, I strongly disagree with the fact that all semi/automatic weapons should be banned. I think the best way to maintain the right to bear arms and stop the senseless killing of others would be to have better background checks and not sell to anyone under the age of 21."
+}

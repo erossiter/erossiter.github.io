@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1255_B_b",
+	"argument" : "I think that president Biden has not done a successful job in office as president. I more view him as innefective rather than damaging, as I dont think that he is a bad person. I just believe that he is not a strong, mentally capable leader that the country needs."
+}

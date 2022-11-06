@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1246_A_r",
+	"argument" : "I am moderately religious because I believe in God, but do not believe in the traditions and way of life that goes along with religion. I only attend church on Christmas and Easter, and I do not belong to a religious community. I do not believe religion should impact my actions or beliefs, and it shouldn't be enforced on others. "
+}

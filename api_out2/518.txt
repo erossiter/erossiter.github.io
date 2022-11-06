@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1243_B_g",
+	"argument" : "Written by someone who is Republican: Gun control law should not be as strict as the general population believes they should be. If it is allowed and is a given right, why would we want to remove something?"
+}

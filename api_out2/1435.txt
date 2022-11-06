@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1693_B_i",
+	"argument" : "Immigration policy is still suffering from the detrimental attitudes held by Donald Trump and his constituents. Discriminatory and racist views are often infused into immigration policy, and reform is greatly needed to support individuals coming into the United States and to help these individuals succeed. "
+}

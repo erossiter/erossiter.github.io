@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1035_B_b",
+	"argument" : "I don't think that President Biden is doing enough for the average American, especially for students. He was not done enough to alleviate the financial burden that college students experience, even though he claimed that he would. He also is not giving enough aid to the people of Ukraine even though they are in dire need. "
+}

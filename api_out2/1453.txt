@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1552_A_i",
+	"argument" : "As immigration into the United States continues to increase, there should be an established way for immigrants to stay in the US legally. In today's time, almost every business has a help wanted sign hanging in their window or they are looking for workers in some capacity. We can barely get our own citizens to work meanwhile immigrants without documents are denied jobs, healthcare, and housing. Given this, and how difficult it is to receive a visa, these immigrants may end up living in inhumane conditions. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1450_A_b",
+	"argument" : "I am ambivalent about his performance in office so far. I am impressed by some specific policies but am unconvinced by how effectively he will be able to carry them out."
+}

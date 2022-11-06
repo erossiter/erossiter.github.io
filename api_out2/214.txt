@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1438_A_b",
+	"argument" : "I think Biden has done a very good job in office so far. He has passed the infrastructure bill that benefits everyone. He also has handled the ongoing COVID outbreak much better than his predecessor, Donald Trump.  "
+}

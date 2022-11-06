@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1075_B_g",
+	"argument" : "I believe that there should be no regulation on gun laws in America. Guns do not commit crimes, people do. We are given the right to carry guns with the 2nd amendment, and strict gun laws directly interfere with this. "
+}

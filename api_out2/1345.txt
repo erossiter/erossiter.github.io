@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1403_B_i",
+	"argument" : "I think that the US migration policy is too open. I think that harsher restrictions on immigration should be imposed. I believe that Remain in Mexico should have not been overturned by the Supreme Court."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1056_A_i",
+	"argument" : "I think the immigration policy in the United States should be more strict. People who cross the border illegally should be deported. They should come legally into the United States. We need a stricter quota on how many immigrants we can accept each year."
+}

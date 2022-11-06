@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1670_A_i",
+	"argument" : "I am open to people immigrating to the United States as long as they take the legal approach, but the U.S. should not be tolerating unlawful immigration of any kind. People who try to pass by the law and cross our borders should be reprimanded and sent back to their countries."
+}

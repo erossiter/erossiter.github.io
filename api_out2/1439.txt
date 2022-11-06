@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1158_A_i",
+	"argument" : "I believes immigrations policies in the United States should allow immigrants to access our country. If they want to enjoy a better life in the United States, then they should be free and willing to."
+}

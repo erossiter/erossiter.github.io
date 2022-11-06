@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1450_A_i",
+	"argument" : "I think our borders are just too open. I would prefer if we cracked down more on illegal immigrants so that we could make sure American jobs are given to American citizens."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1019_B_r",
+	"argument" : "Religion is important in my life, but I understand that my personal religious stances are not to be imposed on other people--America is home to many people of many faiths and backgrounds, and the separation of church and state requires that the laws exist outside of religious boundaries (but with an idea of what is right and wrong in mind--the tricky part). My faith impacts the way I vote but is more my personal decision on the way to live than a code for everyone to live by."
+}

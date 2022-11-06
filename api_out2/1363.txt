@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1049_B_i",
+	"argument" : "I do not agree with the push to make the immigration process much more difficult for foreigners that are trying to become American citizens. I think immigration should be seen as less of a negative, especially since the United States praises itself on freedom and diversity. "
+}

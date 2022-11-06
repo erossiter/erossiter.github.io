@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1290_A_b",
+	"argument" : "I think Biden has done better in office than Trump did. I don't necessarily think he has been the best president of all time though. I liked the fact that he did the student loan forgiveness thing. He may not be the best public speaker, but at least he didn't make racist tweets or ignorant comments in the media about minorities. He also hasn't been impeached yet so that's a plus as well."
+}

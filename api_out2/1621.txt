@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1653_B_r",
+	"argument" : "I am religious and it plays a role in my personal life but I do not believe it plays as large of a role in my life as it does others. I am not an adamant believer of organized religion and I feel that everyone’s belief system is valid and should be respected. I do not judge others based on they believe and I think everyone’s values and faiths are valid."
+}

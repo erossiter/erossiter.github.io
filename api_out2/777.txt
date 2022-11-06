@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1107_B_h",
+	"argument" : "I am a junior here at UNC. I grew up in a very small and rural county, but wanted to come to UNC Chapel Hill in order to expand my horizons and knowledge I had been deprived of due to the small area I grew up in. I knew growing up that I was supposed to achieve more and never really agreed with my classmates views. I have a cat and her name is snowflake."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1097_B_g",
+	"argument" : "I believe the safety of children at school is more important than owning an AR gun. I believe that the safety of a human walking to and from work is more important than the ability to buy a gun with no training or background checks. Guns have become too dangerous, too normal, and too accessible. I do not believe in banning guns, but I think that background checks and the banning of AR rifles are a step in the right direction for the safety of people all across the United States. AR guns were created to kill people, specifically for the army, so why do regular American citizens with no background have access to such a lethal weapon?"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1279_B_g",
+	"argument" : "Gun Control is a serious issue in modern day society. It is also an important to consider the weight of the right to bear arms in citizens lives. While we must maintain out constitutional amendments, we must act towards stricter and more thorough measures to prevent access to those who might misuse them."
+}

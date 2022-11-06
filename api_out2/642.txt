@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1058_A_g",
+	"argument" : "We have a massive gun issue in this country. Obtaining guns should not be this easy. Many children have been slaughtered going to school. Guns need to be harder to obtain than they are now."
+}

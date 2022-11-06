@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1167_B_g",
+	"argument" : "Gun control laws are extremely weak. The laws we have in place right now have barely any effect on safety within our nation. Mass shooting are at an all time high within the last decade and this could be easily decreased with the addition of some simple gun safety laws."
+}

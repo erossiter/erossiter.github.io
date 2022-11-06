@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1012_A_g",
+	"argument" : "Gun control needs to be revised as soon as possible. While I understand there is a constitutional right to bear arms, there need to be tighter restrictions on who can buy a gun and what kinds of guns they can buy. Too many children are dying and we can't keep letting this happen."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1714_A_i",
+	"argument" : "i believe our immigration policy is way too harsh and immoral. no one should be separated from their families and deportation is too large of a focus in terms of policy."
+}

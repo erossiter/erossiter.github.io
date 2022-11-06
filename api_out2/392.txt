@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1203_B_g",
+	"argument" : "Gun control laws in America are too lenient. In our upbringing, we have watched countless headlines on the news on mass shootings, often in schools. When it comes to the second amendment, it is essential to view it with a living constitution mindset and understand that many of the limitations and rights originally expressed, were written to only fit a small group of white men, and when it comes to the second amendment, a militia. It has come to the point in our countries history that guns are being used to kill more often than they are to protect, and the type of guns available to the general public can do more damage than ever imagined. "
+}

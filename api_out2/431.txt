@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1613_B_g",
+	"argument" : "US citizens should not be able to easily access guns. Gun control laws should be enacted nationally to make it more difficult for people to obtain guns without background checks."
+}

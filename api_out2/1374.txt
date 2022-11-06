@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1186_A_i",
+	"argument" : "I believe that immigrants should be able to come to the United States if they desire to do so. This country provides ample opportunity to better one's self and their financial standings, so they should be able to take advantage of the resources we have in order to become economically prosperous and thus a living model of the American Dream."
+}

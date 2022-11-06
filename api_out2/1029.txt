@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1498_A_h",
+	"argument" : "My hobbies are thrifting, making jewelry, and crocheting. My favorite musicians to listen to are Harry Styles and Phoebe Bridgers. My favorite food is avocado toast. I am a journalism major and hope to someday move to New York City."
+}

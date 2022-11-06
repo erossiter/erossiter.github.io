@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1514_A_g",
+	"argument" : "Gun violence is a problem in America. No question about it. But, to take away gun rights from Americans puts everyone at risk, since no one will be able to protect themselves from threats (especially those illegally possessing guns). Therefore, we should instead focus on improving law enforcement and background checks to better stop and prevent gun violence and protect American citizens."
+}

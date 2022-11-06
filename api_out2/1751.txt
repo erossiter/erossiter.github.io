@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1683_B_r",
+	"argument" : "Religion plays a pivotal role in my life. I believe that religion should be incorporated more into the current U.S. government in order to prevent future problems. Separating the Protestant church from the U.S. government contributed to the issues that society has now. There is no structure, morals, or decorum being taught to children, rather, children now are encouraged to pursue whichever lifestyle is viewed as desirable. Society as a whole has lost its way because religion is no longer the foundation of the United States government. However, with the implementation of religion and more focus on the Protestant church, more change will come. "
+}

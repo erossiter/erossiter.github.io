@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1176_A_g",
+	"argument" : "I believe we need stricter gun control laws to prevent mass shootings in the future. We need to close gun loopholes that exist throughout many states. We also need an expansive background check program, and required training to receive a license to carry."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1009_B_i",
+	"argument" : "Should be stricter than they currently are. I’m not the biggest fan of the whole wall idea, but the idea comes from the right place. People have been coming into our country illegally, stealing our jobs and it’s really hurting people."
+}

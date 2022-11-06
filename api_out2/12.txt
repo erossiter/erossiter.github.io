@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1156_A_b",
+	"argument" : "Biden has done a decent job in office. While I believe the majority of his decisions will lead to more equity in the future, I also believe Biden could be doing more."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1106_A_r",
+	"argument" : "Religion doesn’t really play a role in my life, as I don’t believe in god. I think religion was originally invented as a way to keep people down and control them. Presently, I think religion is way for people to escape their real responsibilities and a way to clear themselves of all wrongdoing."
+}

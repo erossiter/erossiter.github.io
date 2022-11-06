@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1247_B_b",
+	"argument" : "I think President Biden has performed well in office so far, compared to his predecessor. President Biden had a big mess to clean up after Trump left office, and if anyone feels the President isn't doing enough, they should offer him a little patience and sympathy."
+}

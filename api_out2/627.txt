@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1565_B_g",
+	"argument" : "I think that gun laws should be stricter in the United States. I think this because there have been many recent events that individuals have used guns for unnecesary violence, and I think that this violence could be somewhat stopped with stricter gun laws."
+}

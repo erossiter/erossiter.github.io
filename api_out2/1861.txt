@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1227_B_r",
+	"argument" : "I have a strong relationship with God. I look to Him in everything that I do and I try to encourage others to do the same. I try my best to not judge others that do not have a relationship with God, while still trying to encourage them to do so. "
+}

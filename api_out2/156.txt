@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1495_B_b",
+	"argument" : "President Biden has made very controversial moves and has generally slowed the US’s growth. The impact of his election was seen as soon as he was sworn in, and has increasingly put the economy in danger."
+}

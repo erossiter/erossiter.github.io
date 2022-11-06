@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1579_B_r",
+	"argument" : "Religion plays almost no role in my life. My parents are both agnostic and raised me to be that way. They've always told me that it's not their place to say that a higher power exists, and it's also not their place to deny its existence. That being said, they've also always said that I am allowed to believe in whatever I want; if I choose to believe in God, they would respect that. But I have never chosen to believe in a higher power. Sometimes I like to believe that one exists, and there are times when it feels likely to me that one does. However, I don't pray, attend church, or actively worship any divine figure, so I would say religion really has no meaning in my life. "
+}

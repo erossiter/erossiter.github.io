@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1122_A_b",
+	"argument" : "I believe that Biden is doing his best in office given the circumstances that he is in with the house and senate. He is trying keep his promises with student loans"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1352_A_g",
+	"argument" : "I think there should be strong gun control laws in order to prevent the mass shootings that put Americans, especially children, in danger. I think there should be stronger background checks and a ban on assault weapons, and people with a violent crime record should be allowed to purchase firearms. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1531_B_h",
+	"argument" : "I am a man(he/him/his) who is 18 years old. I go to school at UNC Chapel Hill and am studying political science. I am very passionate about matters of social justice; I am the president of the Latinx heritage club and have gone to several pro-choice marches in Chapel Hill. After seeing the impact that mass farming has on the environment, I became a vegan at age 15 and do advocacy on Instagram for PETA. In high school, I even launched a meatless Mondays initiative, where I encouraged fellow students to abstain from meat and rewarded them with social media recognition. After I graduate college, I hope to be a force of change in this country by becoming a grassroots political activist in historically underrepresented areas across the US."
+}

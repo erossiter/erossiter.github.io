@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1661_B_i",
+	"argument" : "I think that while there are obvious political and economic obstacles to a more open immigration policy in the United States, I feel that it is a basic human right for humans to move to a place where they are afforded greater opportunities."
+}

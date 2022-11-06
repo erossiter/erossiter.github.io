@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1709_B_h",
+	"argument" : "Hi! My favorite musical artist is Taylor Swift (although I don't love her most recent album). In my free time, I like running, thrifting, getting my nails done, and going to the farmer's market. I love going to Caffe Driade in Chapel Hill and hanging out with friends. I'm not super involved on campus, but I do work for a university paper since I have a minor in journalism. My favorite season is fall & I am so excited for Halloween! I love watching scary movies with my friends, and I can't wait to dress up in a costume."
+}

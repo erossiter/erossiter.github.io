@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1280_A_i",
+	"argument" : "America is a place where people come to find opportunities and escape the sometimes hardships in their home countries and I think that is what makes America so special. I think immigration should be allowed to let people come to a country where they feel free and can create a new life for themselves."
+}

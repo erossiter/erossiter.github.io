@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1309_B_g",
+	"argument" : "I think that gun control laws should be more restrictive. I think its fine to have guns, but more restrictions are needed to make the US safe for everyone. There is no reason for the amount of gun-related deaths in our country - especially in reference to mass shootings."
+}

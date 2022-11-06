@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1284_A_g",
+	"argument" : "My views include: unless you are in the army, you should not be armed with a gun. I do not understand why a constitutional right from the 1700s dictates laws from a completely different day and age. To put it simply, if we took away guns from the public, there would be no more gun violence."
+}

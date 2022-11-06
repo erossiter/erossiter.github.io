@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1122_A_g",
+	"argument" : "I feel that gun control laws should be more strict, I do not think that the right to bear arms should be completely removed but that we should make it harder for people to retrieve guns."
+}

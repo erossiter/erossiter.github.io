@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1375_B_r",
+	"argument" : "I grew up going to church with my family. We pray before every meal, before we travel long distances, when a relative is feeling sick, during funerals, during weddings, during baby showers, before/during/after tests, job interviews, birthdays. It doesn’t matter the occasion. We even praise the Lord just to say thank you for being alive. For me, religion is a part of every day life."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1226_A_h",
+	"argument" : "When I am not focusing on school I like to go on walks. I typically listen to Zach Bryan, Bailey Zimmerman, Morgan Wallen or something of the country vibe. I like starting my day with chicken minis or a biscuit from Bojangles, I typically have dinner at my sorority house. I frequently visit my friends at NC State and ECU on weekends we don't have home football games. When I visit my friend at ECU we spend time riding her horse and going out to bars. I only get to see my boyfriend on the weekends because he works in construction."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1307_B_i",
+	"argument" : "I believe that immigration policy should not be so stringent as it was under the Trump Administration. Trump's harsh treatment towards these individuals has created so much conflict within our already polarized state."
+}

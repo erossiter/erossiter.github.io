@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1113_B_i",
+	"argument" : "I feel like it is good for the economy to an extent. It does boom the US economy, since the people who are immigrants, eat, live, and spend in the States which helps in the boom. There are some drawbacks as well though like the people already living in the United States do not get all the job opportunities they could have received. "
+}

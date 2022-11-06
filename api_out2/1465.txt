@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1069_B_i",
+	"argument" : "I believe the government should more strictly enforce immigration through legal means and reduce illegal immigration. I am totally supportive of immigration as long as it is done fairly and legally."
+}

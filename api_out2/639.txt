@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1014_A_g",
+	"argument" : "I think gun control laws need to be much stricter. Meaning that there should be more extensive screenings and precautionary measures taken when it comes to purchasing firearms. Gun control has not been as strict in recent years as it needs to be."
+}

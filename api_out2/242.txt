@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1655_B_b",
+	"argument" : "I believe that president Biden has come up short on any of his promises. He has been too reserved in his approach to tackling universal healthcare or the crisis that is college debt. He ran on these ideas but has failed to deliver. Biden is yet again a president who has promised to push for progress but failed to deliver."
+}

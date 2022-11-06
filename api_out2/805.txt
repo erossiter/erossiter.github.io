@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1309_B_h",
+	"argument" : "I am currently a journalism student at UNC and love storytelling. I love creating art; Vincent van Gogh is my favorite artist, and I take a lot of inspiration from him. I also love listening to music across genres, but my favorite artist is Noah Cyrus, Miley Cyrus' little sister. "
+}

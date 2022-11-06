@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1566_A_i",
+	"argument" : "Immigration policy must be subject to massive reform after the damage that former president Trump caused by alienating members of the Latinx community and single-handedly increasing racial divide in the US."
+}

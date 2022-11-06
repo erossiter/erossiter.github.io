@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1019_B_b",
+	"argument" : "The president has made good on some of his campaign promises. One could argue that the majority of his time in office thus far has been spent mending the mistakes made by his predecessor, and advances like legalizing marijuana on the federal level have made him a popular candidate with the younger generation."
+}

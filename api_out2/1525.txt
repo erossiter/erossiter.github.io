@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1359_B_i",
+	"argument" : "I don't have anything against people that are legally immigrating into the United States, but there are plenty of people that are sneaking into the country and using valuable government resources. I think the immigration policy should be stronger in the United States to make sure that foreigners without proper requirements are not illegally entering the country and causing higher unemployment rates for US citizens."
+}

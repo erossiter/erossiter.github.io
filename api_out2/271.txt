@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1022_A_b",
+	"argument" : "I feel like president Biden's performance so bad has been terrible. He is an old feeble man who doesn't even know what he's talking about anymore. Since his election inflation has skyrocketed to unprecedented rates and I am paying more at the pump than ever."
+}

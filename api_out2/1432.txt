@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1679_B_i",
+	"argument" : "Immigration policy in the US is too long and tedious of a process for asylum seekers and those who need immediate relocation in urgent cases. The southern border needs to be more open to immigrants and embrace American diversity."
+}

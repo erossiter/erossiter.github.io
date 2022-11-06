@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1150_A_g",
+	"argument" : "We should defend the NRA at all costs. Everyone should have access to a gun and be allowed to obtain a gun license. We live in a world of danger and violence. You should be allowed to conceal carry a gun and our rights should be protected. Imagine if you need to stop at a gas station late at night in an area with a high crime rate, you'd probably want to carry a gun. Guns allow us our safety and let us practice our rights. If we get rid of guns that would take away our freedoms as a true American. The world is dangerous and you can't predict what might happen. "
+}

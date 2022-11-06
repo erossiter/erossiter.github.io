@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1704_A_b",
+	"argument" : "Up to this point in his term I think President Biden has done a great job. He has helped pass several imported new laws including the infrastructure bill. I think his approval ratings do match his performance thus far."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1216_A_i",
+	"argument" : "I think that immigration policy should be more open. There are people that really struggle in other countries, and they should be given the chance to come in and succeed in our country. If we tighten immigration policies, we could be missing out on people that could positively impact us."
+}

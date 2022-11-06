@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1250_A_i",
+	"argument" : "I believe if you do not have your American citizenship, you should not be here. You should not be crossing the border illegally. We already have too many immigrants as it is and they're taking our jobs. Jobs that hardworking Americans actually need. The American policy should be stricter. "
+}

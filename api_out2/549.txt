@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1485_B_g",
+	"argument" : "The Constitution is the supreme law of the land. The Second Amendment gives me the right to defend myself whenever and wherever. If the government can have an endless supply of guns, the public should have access to it as well. Gun control laws take away my right to self-defense."
+}

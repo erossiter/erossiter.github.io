@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1386_A_g",
+	"argument" : "According to the Second Amendment as Americans we have the right to bear arms. Gun control laws should be strict enough to keep weapons out of criminals hands, but not so strict as to keep guns away from upstanding citizens. "
+}

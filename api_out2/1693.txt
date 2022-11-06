@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1171_B_r",
+	"argument" : "Religion is a big part of my life and I have always found it as an outlet for me since a child. I grew up always going to church and I hope to continue in that direction in the future with my kids. I would say that a lot of the decisions I make are a reflection of my beliefs. Christianity to me is more than just a religion but a way of life."
+}

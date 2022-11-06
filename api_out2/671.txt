@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1046_A_g",
+	"argument" : "Gun control laws are fine right now as is. While there have been many shootings as of late, none of them were the gun's fault, but rather the person who was carrying the gun. The fact of the matter is that the constitution allows anyone to have a gun. The type of gun should not matter. "
+}

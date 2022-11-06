@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1264_A_b",
+	"argument" : "I think President Biden has done a horrendous job at acting as a leader. He has failed our country economically and is an unfit president. He is merely a puppet."
+}

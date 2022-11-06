@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1360_A_g",
+	"argument" : "I believe that current gun control should be based off of the founders original intentions when the constitution was written. The second amendment says, A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed. In this statement, the constitution protects the people's right to bear arms, so gun control should be limited. The more recent trend to limit who can buy guns, if anyone, simply goes against basic civil liberties which are granted in the constitution. It is everyone's right to have a gun to keep them safe, just as the founders intended it. "
+}

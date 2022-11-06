@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1712_A_b",
+	"argument" : "I believe that Biden has not done well in office thus far. When looking at his role professionally, I have seen little change in the United States. However, the changes that I have noticed have not been positive; one prominent change being weaker international relations.  Now, looking at Biden on a personal level, I see his presidency as almost comical; he is basically senile. I believe the leaders of other nations realize this too. From falling down the stairs to falling off his bike, it is clear that he is not in a proper state to be running our country."
+}

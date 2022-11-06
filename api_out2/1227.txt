@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1488_A_i",
+	"argument" : "First and foremost, immigrants should be viewed as humans. It is incorrect and dehumanizing to call an immigrant illegal, and rather if needed the term undocumented should be used. The United States needs to improve its immigration policies to make the process of accessing citizenship, green cards, visas, etc. easier and more comprehensive for those who are traveling from other countries to the U.S. In addition, policies such as DACA need to be continuously maintained and implemented."
+}

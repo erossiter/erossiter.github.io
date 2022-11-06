@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1187_B_b",
+	"argument" : "As a left-leaning student, President Biden was not my first choice in office; however, his recent reforms regarding student loan debt and the pardoning of those with cannabis possessions has shown a step in the right direction towards progressivism. With the midterms coming up, I like that Biden is appealing to the more younger progressive generation to hopefully result in a Democratic sweep."
+}

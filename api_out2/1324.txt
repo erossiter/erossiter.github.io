@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1212_A_i",
+	"argument" : "Immigration started this country, which is important to note in this political debate. Discussions on immigration should not be focused on whether or not we as a country stand for it or not, but whether how it is conducted. Immigration and filing those who enter the country is crucial to the safety of citizens as well as the distribution of jobs. Immigrants are great. However, illegal immigrants are not beneficial to society within the United States, and the large quantities of immigrants per year that have entered within the last two decades has been extremely large, and many without official reasons of migrating. The people that come across our borders illegally, are the worst of other country's kind. Country's do not send the best of their people, and that is a fact."
+}

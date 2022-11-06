@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1180_A_g",
+	"argument" : "I believe that gun control laws are extremely necessary, especially given recent events of school and other mass shootings. The wait time for buying a gun should be increased, and there should be strict limits on what kind of guns people can own. There is no reason for normal, untrained citizens to have access to any semi-automatic, automatic, or military grade weapons. Gun buyers should also be required to undergo mental health screenings before buying and receiving the gun. "
+}

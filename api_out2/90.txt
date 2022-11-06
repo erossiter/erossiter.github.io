@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1165_B_b",
+	"argument" : "President Biden has done a horrendous job in office. He is far too old and not mentally capable of running a country. Inflation continues to rise, the internal unrest in the country is not being addressed, and polarization may be the worst it has ever been. The United States is a joke amongst other countries because our leader can barely form a sentence or climb stairs."
+}

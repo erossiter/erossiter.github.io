@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1062_A_g",
+	"argument" : "I believe that the United States need to have stricter requirements to purchase and gun and should limit the types of guns available for purchase by regular citizens. Stricter background checks and increased age should be required to purchase a gun. We should also ban automatic rifles for purchase."
+}

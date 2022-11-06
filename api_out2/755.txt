@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1560_A_g",
+	"argument" : "It is important to be able to protect yourself whenever you feel that you lack security and when a situation arises where you can't rely on law enforcement to come in time to handle a threat."
+}

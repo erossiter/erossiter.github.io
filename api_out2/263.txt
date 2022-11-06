@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1505_B_b",
+	"argument" : "President Biden has done his best in an economy that is recovering from the covid 19 pandemic. Biden has done a lot for our citizens. Although I cannot name a specific thing he has done to help us I believe he has done a better job than Trump!"
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1388_A_i",
+	"argument" : "I think that immigration policy is part of a failed system of immigration in the United States.  It can take decades for immigrants to receive citizenship, and this process has financial and other barriers that make achieving the American Dream hard for immigrants in search of a better life.  If America truly is the place where people of all backgrounds can prosper, we should craft immigration policies that allow for this.  Rather, the current state of immigration policy is deeply flawed; it works more to put up barriers for those trying to enter the country and become Americans than it does to actually help them enter into American society.  While I recognize that immigration and economic policies from both sides have contributed to this issue becoming more serious over the past couple of decades, it is no secret that immigration policy today needs to be changed."
+}

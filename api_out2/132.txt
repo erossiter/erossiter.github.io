@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1333_B_b",
+	"argument" : "Biden's performance in office has been detrimental to the future of our great nation. National debt is high, more people are homeless than ever. Biden has undone everything Trump did to make America great again. "
+}

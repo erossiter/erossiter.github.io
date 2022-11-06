@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1584_A_b",
+	"argument" : "President Biden has done an okay job thus far of bringing the economy through an unstable period which is in large part due to the inaction of the previous regime"
+}

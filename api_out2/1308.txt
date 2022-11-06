@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1072_A_i",
+	"argument" : "I think that the current immigration policy is not fair to many American people because they have established structure and order in this country since colonizing centuries ago, but in contemporary society our borders do not have strong protection as many Mexican immigrants enter our southern border on a daily basis."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1310_A_r",
+	"argument" : "Personally, religion does not play any type of role in my life, at all. However, I respect people who see religion differently than I do. I think it is most important to keep religion out of government."
+}

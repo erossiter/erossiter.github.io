@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1302_A_b",
+	"argument" : "Joe Biden is doing a bad job, he's not really changing anything and we cannot really hear what he is actually doing. I believe that we need someone in office who is more outgoing "
+}

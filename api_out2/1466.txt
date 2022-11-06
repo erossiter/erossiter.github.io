@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1111_B_i",
+	"argument" : "I think we should limit the amount of people immigrating to our country. We should make the process harder and not allow for refuges. We also need stricter boarder control so the people don't come into our country and steal our jobs and ruin our home."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1018_A_i",
+	"argument" : "I think that immigrants pose a threat of dependency on American institutions and tax benefits. We should also focus on helping people in our own country who are unemployed before offering jobs to those in other countries."
+}

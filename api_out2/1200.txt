@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1248_A_i",
+	"argument" : "I think America is a melting pot and people should be able to freely immigrate here because our country is full of opportunities for everyone to have a chance at working for a better life."
+}

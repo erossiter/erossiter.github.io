@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1651_B_r",
+	"argument" : "Religion is a really big factor in my life. I go to church every Sunday at 11 am and worship God as a rightful American should. I read the bible every day and make sure to make notes of the verses I feel that most important to me at that moment because keeping God near to you is a great thing. I am currently studying under the pastor to be a youth pastor for the youth center and hopefully one day become a pastor myself."
+}

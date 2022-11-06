@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1536_A_b",
+	"argument" : "I believe Biden is not handling a lot of situations correctly since his term. I believe his decisions are not effective, specifically speaking about his economic plans. I also believe that he is not aiding in bringing the country together and may actual divide us further."
+}

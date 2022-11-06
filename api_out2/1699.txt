@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1250_A_r",
+	"argument" : "Religion plays a huge part in my life. I'm a Christian so everything I do, I do through Christ. I go to Church every Sunday with my family. He is the one who strengthens me and I know everything I do is for him. Religion also plays a huge part in who I am as a person and is what I base most things off of. "
+}

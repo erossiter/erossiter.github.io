@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1389_B_b",
+	"argument" : "Biden has failed to deal with the issue of Ukraine, and gas prices are skyrocketing. He is going to lead us into an economic recession like Obama did in 2008."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1404_A_r",
+	"argument" : "I do not believe in a religion because I believe it gives a population an excuse to judge others. I will occasionally respect a religious person but I have encountered many unsavory Christians in my life so I personally chose not to subscribe to these belief systems."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1202_A_i",
+	"argument" : "I believe in a stricter immigration policy in the United States. Overall, I see immigration as a threat to the U.S., as immigrants are bringing along crime and taking jobs that belong to Americans. I believe the U.S. needs strict border control, as the number of immigrants here now is alarming. "
+}

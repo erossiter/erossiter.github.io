@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1639_B_g",
+	"argument" : "There need to be stricter gun control laws. Children are being put at risk when going to school, which should be a safe environment. Guns should only be used for self defense and not to harm others. "
+}

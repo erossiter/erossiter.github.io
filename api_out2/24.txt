@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1286_A_b",
+	"argument" : "I think that President Biden's performance in office so far has been far from ideal as he has made some insensitive and idiotic remarks that do not reflect highly on the United States."
+}

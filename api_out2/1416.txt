@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1548_A_i",
+	"argument" : "There needs to be reform so that everyone who wants to start a new life in the United States has a simple and legal way to do so. Immigration has become politicized to the point that families are denied access to better futures in this country."
+}

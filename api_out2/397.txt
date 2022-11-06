@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1228_A_g",
+	"argument" : "I believe that gun control is an issue here in the United States, there needs to be more accountability with our legislators on who can have a gun. Because there are people in the world who put themselves over the greater good of humanity families have to suffer through school shooting after school shooter. The clear solution is stricter gun laws but because there are people who will fight tooth and nail for the constitution we must sit back and watch as parents are afraid to send their children to school each year. Stricter gun laws would solve a lot of violence and grief in our society and I believe there should be much stricter gun laws implemented in the near future."
+}

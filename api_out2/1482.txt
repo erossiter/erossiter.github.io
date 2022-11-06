@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1416_A_i",
+	"argument" : "Immigration policy is too lenient in the United States, particularly on the southern border. People from central and south America are able to enter the US with impunity too often and sanctuary cities are breaking the law. "
+}

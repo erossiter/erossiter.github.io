@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1468_A_i",
+	"argument" : "I believe that immigration policies in the US are too strict. People that need to seek asylum should be allowed into the country and we should not generalize that they will be dangerous because of pre conceived steroetypes"
+}

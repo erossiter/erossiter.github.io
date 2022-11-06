@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1452_A_g",
+	"argument" : "I believe that gun control is protected by the 14th amendment and that all people should have access to guns if they want to have them. I believe that guns are necessary for self-defense and protection, especially in today's climate. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1631_B_g",
+	"argument" : "I think that everyone should be able to access a gun in this country. We should have the freedom to bear a gun, and government regulations would only result in greater market inefficacies."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1307_B_b",
+	"argument" : "I think President Biden has done the best he could be doing in office so far. In lieu of the circumstances surrounding his presidency, he has worked to uphold his campaign promises, and will likely continue to fulfill them throughout the remainder of his term."
+}

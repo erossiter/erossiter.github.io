@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1572_A_g",
+	"argument" : "Gun control is imperative for a safe America! We have to ban guns to stop the ever-present problem of gun violence. If there are no guns, the problem would be mitigated"
+}

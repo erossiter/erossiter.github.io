@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1297_B_r",
+	"argument" : "Religion is important. We should respect religion and treat everyone's own beliefs. It's their right to have different opinions. However, we must identify the bad, the old part about a particular religion. There might be something that is not accepted in today's society."
+}

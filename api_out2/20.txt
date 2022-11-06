@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1244_A_b",
+	"argument" : "I believe Biden has created enormous efforts to put the country back into a normal state. With increased COVID-19 efforts including vaccinations, it finally feels like we're moving forward as a country."
+}

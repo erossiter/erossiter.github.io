@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1531_B_g",
+	"argument" : "I believe we should strengthen the current set of gun control laws we have in place. I believe we should ban all assault rifles as they belong on the battlefield, and not in civilian society, and we should have a uniform federal age limit for purchasing firearms. I believe we should also implement a federal red-flag law, as it is only common sense that we stop potential shooters before they can inflict any harm. I believe the Second Amendment is outdated, as no firearm back then has the destructive capability of many of the firearms we have today, and should critically reevaluate it."
+}

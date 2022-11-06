@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1470_A_b",
+	"argument" : "Biden is doing a great job in office. He has focused on including minorities in government roles, such as having Harris as his VP. He is also passing some critical legislation that is reversing Trump's damage on the government."
+}

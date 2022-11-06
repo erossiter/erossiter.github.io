@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1330_A_b",
+	"argument" : "President Biden had not done a great job so far. Gas prices and inflation have skyrocketed, and we now find ourselves at the threat of a nuclear war with Russia."
+}

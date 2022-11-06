@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1194_A_i",
+	"argument" : "I think that immigration is crucial to American society. I believe that family-based visas and refugee status should be easier to gain and there should be more resources out there for those trying to gain visas instead of just confusing old websites and long documents."
+}

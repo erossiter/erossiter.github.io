@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1558_A_i",
+	"argument" : "The immigration system in the U.S. is currently broken. Over the last two years, we have seen over 2 million illegal immigrants cross the Southern border. This mass wave of illegal immigration has put a strain on many communities and contributed to the spike in crime across the country. In order to solve this issue, the federal government should increase funding and resources for border security, including finishing the wall along the Southern border. In addition, states bordering the Southern border should have the authority to deal with this issue as they see fit rather than wait on the federal government to act or provide assistance. "
+}

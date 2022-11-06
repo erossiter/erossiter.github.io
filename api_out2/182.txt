@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1110_A_b",
+	"argument" : "I personally believe President Joe Biden has done a better job in his first few days in office compared to Donald Trump. Biden signed meaningful bills within his first few days in office. Biden is a more respectful man and values trying to implement equality for all. Biden is an overall better man and cares more about the American people."
+}

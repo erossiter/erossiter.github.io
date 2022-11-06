@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1555_B_r",
+	"argument" : "Religion plays a key role in my ideas from my everyday processes. I make decisions on my day-to-day basis off Christianity and what the lord has passed down to me through wisdom."
+}

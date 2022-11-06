@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1083_B_g",
+	"argument" : "I believe to an extent the right to bear arms has a place in America, but the lack of any regulations on guns is causing a serious public safety crisis. I don’t mind the concealed carry of a handgun, but there’s no reason for a civilian to own any type of assault rifle. I hate knowing that my younger sisters walk into school and the first thing on their minds is “where would I hide in an active shooter drill?”. Furthermore, the fact that anyone can walk into a Walmart and purchase guns (not to mention, the several firearm conventions that take place around the country where they sell illegal magazines and guns under the table) is absurd to me. I think in general I’m just tired of being scared."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1358_A_g",
+	"argument" : "Gun control laws across the US should be strengthened for the safety of our children, family, and friends. The Uvalde shooting is a prime example of what happens when states do not mandate in-depth background checks or institute a cooling period between the purchase of the gun and the acquisition of the firearm. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1597_B_h",
+	"argument" : "I am a senior at UNC from Washington, D.C. I am studying political science and journalism--growing up in the heart of political activity, I have always been immersed in political activity and love to talk about political theory. If you have an elective take Introduction to Southern Politics with Dr. Clark! Outside of school, I love to go thrifting, go to shows at the Cat's Cradle, and hang out with my friends. My absolute favorite foods are Pho and bubble tea (Cha House renaming itself was the worst branding decision imo!). "
+}

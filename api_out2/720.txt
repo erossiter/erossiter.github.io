@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1181_B_g",
+	"argument" : "I believe that everyone has the right to bear arm, it is a freedom that is established by the constitution therefore it should be respected. I believe that there are multiple good reasons why people are allowed to have guns for example protection, pleasure such as going hunting. "
+}

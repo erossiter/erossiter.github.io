@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1434_A_i",
+	"argument" : "The immigration policy is simply not strong enough. Day after day we see illegal immigrants break down such a weak, fragile system. Instead, we need to strengthen the security around our nation's borders, and crack-down on immigration policy that allows illegal aliens to continually live tax free in The United States"
+}

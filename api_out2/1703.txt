@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1271_B_r",
+	"argument" : "Christianity plays a vital role in my life and the way that I think about the world. My view on policies can be directly tied to certain verses in the Bible. I support candidates that I truly believe have a relationship with God and are not simply calling themselves a Christian to win over people."
+}

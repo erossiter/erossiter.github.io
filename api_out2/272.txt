@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1039_B_b",
+	"argument" : "President Biden is doing one of the worst jobs as President in United States' history. His approval ratings are embarrassingly low. Inflation is at record highs and he is stressing issues that are of little importance to the average American. He has little regard for the sanctity of human life as seen in his stance on abortion and how he is turning a blind eye to the human trafficking and drug smuggling at our borders."
+}

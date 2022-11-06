@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1235_B_g",
+	"argument" : "I believe that Americans have a right to own guns but gun violence has gone too far. Something should be done to stop these attacks from taking place but not at the expensive of responsible gun owners."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1205_B_h",
+	"argument" : "My hobbies are watching the news, reading political articles, spending time with my family, and being with my dog. I wish to major in media and journalism in college because I wish to make a difference with my stories."
+}

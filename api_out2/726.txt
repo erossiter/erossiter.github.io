@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1249_B_g",
+	"argument" : "Guns can be dangerous, but necessary weapons for self-defense and protection. The protection of a person's right to bear arms is one of the foundations of freedom in this country, and needs to be protected."
+}

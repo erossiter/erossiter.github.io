@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1585_B_b",
+	"argument" : "I believe Joe Biden has done a great job in office so far. He came into office as the pandemic was raging and after Donald Trump had done considerable damage to the economy. Biden has done a good job of working to rebuild the economy and has also addressed multiple social issues such as climate change."
+}

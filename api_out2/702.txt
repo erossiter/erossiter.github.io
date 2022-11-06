@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1059_B_g",
+	"argument" : "The governmental regulation of firearms is largely unconstitutional and therefore, most gun laws are an infringement on the individual’s rights to bear arms. The Second Amendment gives the right to the individual to protect himself, his family, and his property."
+}

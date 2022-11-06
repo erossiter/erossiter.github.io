@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1220_A_g",
+	"argument" : "The #1 guiding principle of the United States is that we are a land of the free. That was founded on the basis that Americans have a right to bear arms. I am aware that there are some problems with gun violence at the moment but there are more things we can do to help people psychologically than taking away all guns. Canada has almost no gun control but there aren't problems up there."
+}

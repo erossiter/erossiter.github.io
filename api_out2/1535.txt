@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1500_A_i",
+	"argument" : "I think that we need to take care of our own citizens before we house and support those from other countries. Food and job supply should be directed at American citizens first."
+}

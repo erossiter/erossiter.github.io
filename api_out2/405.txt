@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1312_A_g",
+	"argument" : "Our society can only be safe when gun control laws are enforced to the maximum; there is no need for anybody in the US to own an assault rifle. More lives will be saved by the absence of guns than the presence of them."
+}

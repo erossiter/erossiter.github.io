@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1337_B_i",
+	"argument" : "The immigration policy in the Unites States is set up for these immigrants to fail. It is much too hard for these individuals to gain green cards and become legal citizens."
+}

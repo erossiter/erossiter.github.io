@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1112_A_i",
+	"argument" : "The border wall protects us from aliens trying to enter our country and use our taxpayer dollars. Without the wall cartels may enter the country and pose a threat as a whole."
+}

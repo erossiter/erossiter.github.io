@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1503_B_i",
+	"argument" : "I believe the immigration system in the US is deeply flawed. There are so many immigrants coming to this country to seek asylum or a better life for themselves yet we've made it nearly impossible for them. For this reason, I understand why we have the number of illegal immigrants in our country and I sympathize with them. "
+}

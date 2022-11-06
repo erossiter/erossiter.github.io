@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1193_B_b",
+	"argument" : "The country has made no substantial forward progress since Biden stepped into office. I've only seen a rise in gas prices, food, and rent and everything is much more expensive now."
+}

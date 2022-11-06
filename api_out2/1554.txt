@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1702_A_i",
+	"argument" : "The immigration system as it stands needs to be reconfigured. Refugees and other well-intentioned individuals and families should be able to come into the country through strict, legal means, but there is too much chaos at the border along with many people sneaking through. While I do not pretend to know the best way to restructure our immigration system, I'm sure that a better, more streamlined, and well-run system is possible."
+}

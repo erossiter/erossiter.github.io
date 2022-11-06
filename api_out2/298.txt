@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1027_B_b",
+	"argument" : "In my opinion, President Biden has been an unsuccessful president so far. He is too old to take care of himself, much less an entire country. Donald Trump should have been back in office because he could get policies enacted, and was more efficient. Biden also is responsible for the gas prices rising, which I do not appreciate."
+}

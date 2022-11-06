@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1677_B_g",
+	"argument" : "I do believe that many laws should be in place for people to use guns and that it should not be possible / easy for one to get access to weapons"
+}

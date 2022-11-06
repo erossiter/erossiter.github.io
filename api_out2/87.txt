@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1042_A_b",
+	"argument" : "President Biden's performance has been one big gaffe after another. From rising gas prices to falling stock markets to the disastrous rollout of American troops in Afghanistan and Congressional gridlock, Biden has hardly done anything right. Not everything is within his control but with what has been, he has messed it up. The country should have listened to Obama's warning about Biden. Trump may not have been a perfect candidate, but at least he knew how to run the country and could make coherent sentences."
+}

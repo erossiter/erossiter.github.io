@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1145_B_i",
+	"argument" : "Immigration has always been a tricky subject, but I believe that given this country's history and our obligation to set an example for the rest of the world, it is vital that U.S. immigration is reformed, so that we can accept more immigrants. The U.S. has always been a country with rich and diverse cultures, that is what makes the U.S. so great, but it seems in the modern day and especially during the Trump administration those values were forgotten. Immigration is what makes America America, and it is important that we do our duty as activists to ensure that the U.S. continues to be a safe place and a land of opportunity for all."
+}

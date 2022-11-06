@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1233_B_b",
+	"argument" : "President Biden has been quite effective in dealing with the nation's economic status, climate crisis, and more. Student loan relief, decreasing gas prices, and speaking out about climate change and racially motivated injustice have been especially important actions he has taken. Although his performance may not be as good as people anticipated, it is much better than the U.S.'s previous president."
+}

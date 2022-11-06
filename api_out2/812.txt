@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1361_B_h",
+	"argument" : "I am an undergraduate at UNC studying Political Science with a minor in Social and Economic Justice. In my spare time, I intern at a gender equity and policy advocacy organization called WomenNC, I play club sports, and I love listening to music (favorite artists include Phoebe Bridgers, Harry Styles, and Frank Ocean). My favorite TV shows at the moment include Ted Lasso, Atlanta, and Dopesick."
+}

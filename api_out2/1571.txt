@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1196_A_r",
+	"argument" : "Religion only plays a role in my private life. My beliefs do not interfere with the outer realm of politics or other public aspects of life."
+}

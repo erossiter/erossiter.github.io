@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1653_B_b",
+	"argument" : "I believe he has done well in office and has enacted much better policies than former president Donald Trump. I think he has done well with attempts to improve social equality and his platform aligns more or less with what I believe."
+}

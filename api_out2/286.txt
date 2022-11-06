@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1519_B_b",
+	"argument" : "Personally, Biden's performance in office has been subpar. His dealing with international relations has been piss poor. Pulling all troops out of Afghanistan could have been one of the worst political decisions I have seen since being of voting age. As he pulled troops out chaos erupted in the Middle East which intern caused oil prices to spike. He is not a good face for our country, he has piss poor public speaking skills. Although he did have some experience in the job his economical decisions have been subpar."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1170_A_r",
+	"argument" : "I think that religion is very important. Religions, especially Christianity, should be incorporated into politics. This means that abortion rights should be molded around my views as a pro-life christian. "
+}

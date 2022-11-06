@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1001_B_i",
+	"argument" : "Currently Immigration is one of the most pressing matters in the nation and needs our governments full attention. I think that we need to complete the border wall between us and mexico."
+}

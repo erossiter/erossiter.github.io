@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1501_B_r",
+	"argument" : "While I am religious, religion does not play a massive role in my life. I do not actively practice it or attend any gatherings. I do believe that each person is entitled to practice whatever religion they want without interference. "
+}

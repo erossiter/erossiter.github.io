@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1462_A_g",
+	"argument" : "Guns are very important to the safety of this country. The right to access guns is a constitutional right and we need them to protect ourselves against dangerous people such as criminals."
+}

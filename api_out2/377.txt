@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1052_A_g",
+	"argument" : "I think we need more gun control laws. There has been an increase in school shootings and gun violence because guns are in the wrong hands. This is also because guns are too accessible to the general public, where some people don't even run a background check to obtain a gun. "
+}

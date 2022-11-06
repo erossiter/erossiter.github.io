@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1501_B_g",
+	"argument" : "While I support the second amendment, the current state of gun control laws are too weak. Some type of restriction is needed in order to protect people from further violence."
+}

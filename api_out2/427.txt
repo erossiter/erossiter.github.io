@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1584_A_g",
+	"argument" : "I believe that guns have no place in the hands of average everyday citizens, and furthermore America is the only developed country in the world that makes it easier to obtain an assault rifle than decent healthcare to all citizens."
+}

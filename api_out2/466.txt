@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1661_B_g",
+	"argument" : "There is very little to no reason to own a gun in today's society. While it may be true that guns don't kill people, the fact remains that we are the only major country where mass shootings take place. With a major problem like that still occurring in the United States, I don't feel that the second amendment should take precedence over human lives."
+}

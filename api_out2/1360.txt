@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1701_B_i",
+	"argument" : "Our immigration policy is too lenient. We already have too many immigrants taking the jobs of American citizens for cheaper salaries, which weakens the whole job market. We need to make sure that real Americans have work and income, not people who could in their home countries. "
+}

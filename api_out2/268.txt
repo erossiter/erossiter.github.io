@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1662_A_b",
+	"argument" : "President Biden had a rough start in office. Because of the Covid-19 pandemic he was forced to clean up mess left from the previous presidency. He faced difficult decisions about immigration and the wall President Trump decided to put on the border of Mexico. He has had to make decisions about air travel and regulations because of Covid. President Biden has tried to help those escaping Mexico find homes and schools, the growing number of children and families coming into the U.S. is hard to manage, but I believe President Biden is doing all he can to protect these families from the dangers they are escaping from. He is giving these children the chance to learn in a safe environment, to go home and feel safe. He is doing the best he can to keep the nation safe and people of the nation safe. "
+}

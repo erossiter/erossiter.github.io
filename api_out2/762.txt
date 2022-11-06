@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1656_A_g",
+	"argument" : "My views on gun laws are that we as Americans have the right to choose to bear arms as granted to us by the 2nd constitution bestowed upon us by our founding fathers. Therefore, every American has a right to a firearm just as every American has the right to free speech. "
+}

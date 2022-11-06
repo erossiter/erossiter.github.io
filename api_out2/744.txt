@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1454_A_g",
+	"argument" : "Personally, I believe it is a human right to own, carry, and use guns. I support the second amendment, the right to bear arms is in the Constitution, meaning it would be hard to amend. I grew up with guns in my household and the guns did make me feel better about my safety. "
+}

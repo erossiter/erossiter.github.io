@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1003_B_i",
+	"argument" : "I think that immigration policy in the United States can be a scary subject sometimes since most of those coming into the country are doing so to build better lives for themselves. I think changes need to be made so that immigrating isn't as much of a hassle as it's seen as today."
+}

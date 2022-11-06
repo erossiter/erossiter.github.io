@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1192_A_r",
+	"argument" : "Religion plays a large role in my life. It is how I make decisions and it’s my moral compass for navigating life. I believe that others should as well because it will make out nation stronger, safer, and centered. We have gotten too far from our roots. "
+}

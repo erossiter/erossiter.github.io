@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1273_B_h",
+	"argument" : "I was born in Charleston, South Carolina. I am the youngest daughter out of 4 siblings (I have 3 older brothers). I love painting, going to Bible studies with my friends, spending time in nature, and listening to country. I am a nursing student and love eating chicken and waffles. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1183_B_i",
+	"argument" : "I think the government is far too strict on immigration. No person is illegal and all people should be able to relocate for better resources. The US was built on immigration."
+}

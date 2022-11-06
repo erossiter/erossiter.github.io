@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1438_A_i",
+	"argument" : "I think the immigration policy in the US should be more welcoming. As Hilary Clinton had once said, We should be building bridges, not walls. We should promote diplomacy and make a way for illegal immigrants to become citizens."
+}

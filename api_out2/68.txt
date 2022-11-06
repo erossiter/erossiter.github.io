@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1061_B_b",
+	"argument" : "I think president Biden has let us, democrats, down a lot. He is struggling to do what he was promised and although he is better than the alternative he has struggled to keep the economy afloat. I hope that a different democrat runs next year. "
+}

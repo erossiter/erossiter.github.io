@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1402_A_i",
+	"argument" : "I believe immigration strengthens our economy and there is no reason to split families apart. ICE should not have the right to deport illegal immigrants when they have families. This is America and we should welcome everyone no matter their race, ethnicity, and background. "
+}

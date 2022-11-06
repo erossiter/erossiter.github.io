@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1155_B_g",
+	"argument" : "We need gun control laws to live safe day-to-day lives. School shootings will continue without stricter gun control laws."
+}

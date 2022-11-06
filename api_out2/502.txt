@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1072_A_g",
+	"argument" : "I think that the gun control policy in America today does have some issues but there is no reason to take away rifles that people deem to be assault weapons. Gun safety and proper education is what is lacking rather than people who are pushing for taking away all firearms which would take away many people's sense of protection and sport."
+}

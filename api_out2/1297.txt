@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1513_B_i",
+	"argument" : "I'm all for immigration in the United States, as long as it's done through a legal process. I understand that individuals are seeking asylum and that at times, our immigration system can be selective, however, this is for our benefit. Our towns at the boarder aren't capable of handling a massive influx of illegal immigrants. That's why we have the immigration system in place. While I don't believe we should deport ALL illegal immigrants, I believe that the problem needs to be addressed and we need to strictly tighten our southern border. "
+}

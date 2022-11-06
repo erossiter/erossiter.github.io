@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1206_A_b",
+	"argument" : "I think President Biden has overall done a good job in office so far. It is impossible to be a perfect president if you're following Trump's term because of all the damage that Trump caused to our country."
+}

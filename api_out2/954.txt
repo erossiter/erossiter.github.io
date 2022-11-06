@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1431_B_h",
+	"argument" : "I am a very passionate person, especially when it comes to politics and my family. My dad is for sure my hero, he's served in the United States Navy for 13 years and I want to follow in his footsteps. I'm a member of the NROTC which takes up a lot of my time. Politics is another passion of mine and I interned for Senator Burr this past summer. As far as music, I like pretty much anything but especially country and some new rap."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1695_B_i",
+	"argument" : "I believe that the immigration policy should be more strict in the United States. I believe that the resources that are being used to provide to immigrants should be provided to the people born in the U.S. The opportunities that immigrants are given should be provided in a wider scope to those born inside the country."
+}

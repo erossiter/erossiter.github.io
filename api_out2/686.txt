@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1398_A_g",
+	"argument" : "I believe strong gun laws just take guns out of good peoples hands. We must realize that there is a black market for guns and criminals who want guns, will get guns regardless of the laws. I look at cities like NYC and Chicago as prime examples of this. They have the strictest gun laws, but they also have the most gun violence. You don't hear about gun violence in Texas and Arizona nearly as much."
+}

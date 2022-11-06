@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1407_B_b",
+	"argument" : "Joe has had a very poor performance in office so far. He hasn't accomplished anything useful and he is not fit to be in office. He's very old and constantly misremembers information or misspeaks."
+}

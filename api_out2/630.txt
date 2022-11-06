@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1606_A_g",
+	"argument" : "Gun control laws should be more strict and more regulated than what they are now due to the intense amount of gun violence that happens within the United States each year."
+}

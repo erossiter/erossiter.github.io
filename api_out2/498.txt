@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1028_A_g",
+	"argument" : "Gun control is very important to me. There are too many guns out there that people simply do not need and it is super important to restrict access to guns in the US."
+}

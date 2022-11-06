@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1557_B_i",
+	"argument" : "I think that the immigration policy is fair in the US for legal immigration, but there needs to be stricter border patrol to prevent illegal immigrants from coming into the country undocumented. "
+}

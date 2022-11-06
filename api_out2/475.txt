@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1124_A_g",
+	"argument" : "I do not think guns should be banned. Everyone deserves the right to protect themselves and their families. Also, many families depend on deer and/or other animals for survival. In low income households hunting can be a staple. Banning guns is never a good solution."
+}

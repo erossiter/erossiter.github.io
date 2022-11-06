@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1447_B_h",
+	"argument" : "I like trucks, american flags, Texas and Reagan. I like the NRA and support the second amendment. Moreover I like capitalism and the ability for people to earn their own wealth and success."
+}

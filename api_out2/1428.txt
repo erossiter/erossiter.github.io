@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1616_A_i",
+	"argument" : "I think that our immigration policy is far too strict, and that we need to have a lot more open of borders to people immigrating to our country. Our country was founded on immigrants, so it makes no sense to discriminate toward them."
+}

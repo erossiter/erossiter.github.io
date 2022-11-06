@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1657_B_b",
+	"argument" : "President Biden’s performance in office so far has been abysmal. With a poor response to the Covid-19 pandemic, resulting in unnecessary quarantine periods as well as significant inflation which has damaged the economy, there is not much he has done right.  "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1675_B_b",
+	"argument" : "Biden's performance in office has been poor.  Biden administration is really performative with the pardoning of federal marijuana crimes and appointment of Justice Brown.  There is no substantive improvements. We still have high inflation  and low unemployment rates. There has been an excessive spending on projects like stimulus checks and cancelling of student loans. While I believe it can help those who really need it it also gives people incentives to not work which is hurting our economy."
+}

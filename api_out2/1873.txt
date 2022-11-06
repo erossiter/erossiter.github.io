@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1575_B_r",
+	"argument" : "I grew up in a Catholic household.  I went to a private Catholic school from third grade to eighth grade. I go to Church and confession weekly.  I would like to say that religion plays a massive role in how I have developed."
+}

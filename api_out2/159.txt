@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1520_A_b",
+	"argument" : "I don't think he should've been in office in the first place because I can't see he's done much good for the nation so far."
+}

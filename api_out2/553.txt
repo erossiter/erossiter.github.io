@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1520_A_g",
+	"argument" : "Gun ownership is a right that was given to Americans by the Constitution and it's morally wrong to take that away from us. In many ways, gun control laws are unconstitutional and are a restriction of our liberty. We need firearms because they necessary today as protection: banning guns won't prevent violence it will just take away our ability to defends ourselves. And truth be told, gun don't actually kill people, people kill people."
+}

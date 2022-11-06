@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1381_B_g",
+	"argument" : "I believe that the second amendment grants us our right to bear arms and the government should not impede on that right. I believe that the current gun control laws are sufficient as many states already require background checks and there are age restrictions."
+}

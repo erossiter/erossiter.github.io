@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1594_A_r",
+	"argument" : "Religion does not play a huge role in my life. I am not completely against the idea but I prefer to base my decisions off of logical points or science. Therefore, I believe religion has no place in political affairs."
+}

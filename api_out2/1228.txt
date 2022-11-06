@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1494_A_i",
+	"argument" : "I think immigration policy in the United States needs to be reformed in a way that does not stop people from entering the country but makes it easier for them to obtain citizenship and be functioning members of our society. A foundation of America is that we welcome all people, and that should be reflected in our immigration policy. "
+}

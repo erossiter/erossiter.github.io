@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1581_B_i",
+	"argument" : "I believe that the government should place importance on paths to legal status for those who entered this country illegally, especially those that are children. I cannot fathom the idea of my family being torn apart, therefore the idea of separation just because a family was trying to give their children a better life is heartbreaking. I understand that not every situation is like that, but most of them are. Our nations immigration system is broken. We need a system that improves boarder security and prioritizes targeting criminals, not families. "
+}

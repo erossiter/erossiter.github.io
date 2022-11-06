@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1469_B_b",
+	"argument" : "I think President Biden's performance in office so far is okay. No president is perfect, obviously, but really most anything was better than Trump. I think there are some certain things that could be done better, but he's doing pretty well considering all the circumstances. "
+}

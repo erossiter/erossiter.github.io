@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1193_B_i",
+	"argument" : "Immigration policies need to be more enforced in the united states. Immigrants coming into our borders illegally can be very dangerous for our country. They could potentially bring drugs and other things that could be detrimental to the safety of our country."
+}

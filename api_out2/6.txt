@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1080_A_b",
+	"argument" : "I have not payed nearly enough attention to his time in office, but I think he has done an adequate job at getting the country through the latter stages of the pandemic, providing more jobs for people and maintaining the federal budget deficit. I am not familiar with some of his other policies but I do think favorably with his decision to reduce student loans that people have taken out."
+}

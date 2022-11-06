@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1035_B_r",
+	"argument" : "Religion does not play any role in my life and I think of myself as an atheist. I think that using religion to inform your world view is misguided and old fashioned."
+}

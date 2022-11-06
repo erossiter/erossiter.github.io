@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1603_B_r",
+	"argument" : "Religion does not have a massive role in my life. I grew up in a family that is not that religious as well. I have looked over the Bible several times, but nothing has ever resonated with me, and I do not believe in most of the things I have read. I think that science solves a lot of answers and that we should look to science for answers, not religion. "
+}

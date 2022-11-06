@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1199_B_g",
+	"argument" : "The United States needs to adopt stricter gun control laws. For no reason does anyone need to own an AR-15. Also, universal background checks are necessary. We need to protect our nation. "
+}

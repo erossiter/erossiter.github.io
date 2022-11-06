@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1686_A_r",
+	"argument" : "I'm relatively religious; however, this is not an essential part of my life. I am still figuring out my religious beliefs and do not makes decisions based on them. I have been raised a Catholic but I do not approve of how the Church treats women or minorities."
+}

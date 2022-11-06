@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1262_A_i",
+	"argument" : "Immigrants should stop being seen automatically in a negative light. Because of the rhetoric used by certain politicians, a large section of the United States believes all immigrants are here to steal our healthcare, commit crimes, and hurt the American people. This is obviously not true, but yet still remains a prominent belief regarding immigrants. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1147_B_i",
+	"argument" : "I think immigrants are great but I definitely think we should have some control over who comes in. It'd be so easy for anyone to sneak over the border right now, especially because there aren't any barriers in certain spots. I know most immigrants are good people I'd just be worried about people who shouldn't be here trying to sneak in. "
+}

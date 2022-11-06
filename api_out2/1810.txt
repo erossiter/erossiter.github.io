@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1571_B_r",
+	"argument" : "I am not religious and have grown up in an agnostic household. While I can respect other people's religious beliefs, I am slightly judgemental of people who rely heavily on their deities' explanations of life rather than scientific proof."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1515_B_g",
+	"argument" : "We need more gun control bills. So far, none of the ones passed have been effective, but that doesn't mean we shouldn't have them. Too many children have died in school shootings for us to ignore this epidemic."
+}

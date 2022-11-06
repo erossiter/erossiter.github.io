@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1049_B_b",
+	"argument" : "I think that Biden is doing a good job in office at the moment. In the past few years, he has made good policies with increasing available jobs and improved foreign relations. In addition, the new student debt program that he created will relieve financial stress from hundreds of thousands of Americans. "
+}

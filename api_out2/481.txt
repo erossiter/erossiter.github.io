@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1428_A_g",
+	"argument" : "I believe everyone has the right to own a gun, it is written in the 2nd amendment. Without guns we would not be able to protect ourselves from people who want to hurt us."
+}

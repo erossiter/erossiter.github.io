@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1572_A_i",
+	"argument" : "I believe that in the United States, immigration policy should be pro-immigration. Meaning, that people who choose to seek asylum here should have the ability to do so without jumping through too many hoops. Not open borders, but easier access to legal immigration than there currently is. "
+}

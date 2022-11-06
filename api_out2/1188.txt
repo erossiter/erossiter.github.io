@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1190_A_i",
+	"argument" : "I believe that immigrants should be treated like humans, as they are just like us. America is known as the mixing pot, and yet treats those from other countries as inferior. We pride ourselves in treating everyone equally, and yet that isn't reality. Our borders should be open to anyone who needs help and who comes to the land of freedom for it."
+}

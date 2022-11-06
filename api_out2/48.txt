@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1494_A_b",
+	"argument" : "I think President Biden has done a fine job in office so far. He has passed a gun reform bill, an infrastructure bill, and the Inflation Reduction Act. He has forgiven some student loan debts and decriminalized marijuana. By my book, that is a successful tenure so far. The high gas prices and inflation are out of his control for the most part, as that is largely effected by the global economic instability because of Russia's invasion of Ukraine. "
+}

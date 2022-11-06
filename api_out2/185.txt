@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1159_B_b",
+	"argument" : "The Biden administration has been stepping up efforts to deter Russia from seriously considering what would be the first use of a nuclear weapon in a conflict and to look after the American economy amid a crisis of inflation."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1615_B_h",
+	"argument" : "My hobbies growing up were dancing and playing the violin.  I listen to pop-music and musical soundtracks and my favorite food is Whoopie-Pies :) I am passionate about protecting the environment, having been raised by a marine biologist, I have enjoyed participating in stream clean ups and had a compost bin growing up. Having done the IB Program in high school and developing an interest in global perspectives, I love traveling and seeing the ways different people live their lives. I love to learn about different cultures and the ways this effects the decisions we make."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1497_B_i",
+	"argument" : "Strict immigration policies are harmful to our country and come from a place of ignorance. Our economy thrives off the contributions of immigrants that come to this country. The United States is a melting pot of people from different ethnic backgrounds. Immigrants do not take jobs, they do the opposite by enriching our economy. "
+}

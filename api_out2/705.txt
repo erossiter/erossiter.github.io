@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1085_B_g",
+	"argument" : "As a big proponent of the 2nd amendment, I do not think that the government should have any hand in taking my weaponry. We have a right as Americans to protect ourselves and no one in power can change that. "
+}

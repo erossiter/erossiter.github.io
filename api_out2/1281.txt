@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1648_A_i",
+	"argument" : "I think more immigrants should be allowed into the country. Although there does need to be precautions, it is a free country and people come to the US to thrive and escape from a previous place. We have enough resources and I think more people should be allowed in.  "
+}

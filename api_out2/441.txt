@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1696_A_g",
+	"argument" : "I believe that one of the most prominent issues plaguing our nation at the moment is the high rates of gun violence which affect not only our adult citizens, but also young children, who are frequently targeted in school shootings. I think in order to make advances in this field, we must take immediate action such as banning all assault weapons, which are military-grade and used only to reap as much destruction as possible. I also think that we should strengthen background check laws and implement more stringent red-flag laws and mental illness screenings. This is the only way to take significant steps in tackling the gun violence problem."
+}

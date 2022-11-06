@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1303_B_i",
+	"argument" : "Our immigration policies are a bit too harsh. At the end of the day, if someone from another country wants to come to the US and work, there does not seem to be much of a problem. The problem would become even smaller if we made our naturalization process easier as well."
+}

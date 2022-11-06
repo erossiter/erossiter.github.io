@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1481_B_i",
+	"argument" : "The United States should be a safe haven for those escaping dangerous situations at home, whether that be war or an attack on their civil rights. I truly believe that everyone should be able to try and make a better life for themselves here in the United States, if they choose to do so. As long as our immigration policy aligns with that, then I am happy."
+}

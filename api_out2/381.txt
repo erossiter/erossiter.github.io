@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1080_A_g",
+	"argument" : "Gun control should be extremely limited, and in most cases banned. Guns are tools for putting living things in danger, and often used for more bad than good. It is sickening how easy it is for someone to obtain a gun and be able to use it. Although there will always be ways for people to obtain guns, I feel as if it is necessary to further limit the availability of them."
+}

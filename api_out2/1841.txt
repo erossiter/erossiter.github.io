@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1470_A_r",
+	"argument" : "Religion is an option to me. For some, having a faith works for them and guides their decisions. I get frustrated when some stereotypical groups, like white old men, are super religious and traditional. Everyone needs to discover their beliefs because there are many potential answers to the social problems we face."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1235_B_i",
+	"argument" : "With the economy as bad as it is I feel like it would be hard for the United States to support more immigrants. Americans already have it hard enough. Immigration can be a good thing for the United States but not when its own citizens are struggling."
+}

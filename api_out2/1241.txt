@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1586_A_i",
+	"argument" : "Immigration into the United States should be more accessible and inclusive. The current obstacles and conditions that immigrants face are unacceptable."
+}

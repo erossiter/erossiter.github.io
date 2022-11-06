@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1319_B_i",
+	"argument" : "I believe in a fair path to citizenship but I also believe we should keep our country safe.  I think that Donald Trump's immigration policy was wrong and that we need to make it safer for people to come into this country.  I think that Joe Biden's immigration policy is currently very good."
+}

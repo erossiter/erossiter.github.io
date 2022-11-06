@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1163_B_g",
+	"argument" : "Overall, I think guns are bad for society. Self-protections is okay, but guns should not be viewed as a recreational activity. We need much stricter gun laws in the U.S. "
+}

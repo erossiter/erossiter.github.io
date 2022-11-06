@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1602_A_i",
+	"argument" : "This country sure has some stuck-up policies about immigration for a country that stole from, replaced, and massacred the indigenous people of America. Sure is the white supremacist country we know and love dearly. Most politicians use immigration policy as a legal excuse to exercise institutional racism. "
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1277_B_r",
+	"argument" : "Christianity is extremely important to me and my family. I go to church every Sunday and seek guidance from God and my bible. I try to model my values and ideas off of my religious framework."
+}

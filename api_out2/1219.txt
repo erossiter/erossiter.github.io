@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1393_B_i",
+	"argument" : "There is no reason why the United States should not work to accommodate more immigrants, especially ones that are fleeing from worse situations back home and need a new place to start their life. These immigrants help us anyways and are a part of our lives."
+}

@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1077_B_i",
+	"argument" : "I think that in the US, we need pretty strict immigration laws. It would be a disorganizaed and chaotic country if undocumented people continue flooding in. I support strong border control and background checks to make sure Americans stay safe from unsafe people and drug dealers."
+}

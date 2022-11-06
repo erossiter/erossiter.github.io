@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1598_A_g",
+	"argument" : "Guns have been in my life since I was a young kid. I come from a family that likes to hunt, and I typically see guns as a tool, not a weapon. "
+}

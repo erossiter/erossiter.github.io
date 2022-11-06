@@ -1,0 +1,4 @@
+{
+	"uniqueid_t" : "2022_F_1033_B_r",
+	"argument" : "My faith is an important part of my life and something I want to share with others. However, as a Christian, I understand and respect that not everyone has the same views as me. I believe that all people (regardless of religious beliefs) should be treated with love and respect. Likewise, I don't believe people should ever use religion to justify abuse/exploitation of any kind. "
+}
