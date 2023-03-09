@@ -4,30 +4,33 @@ title: "Research"
 
 ### Publications
 
-Montgomery, Jacob M., and Erin L. Rossiter. (2020) "So many questions, so little time: Integrating adaptive inventories into public opinion research." *Journal of Survey Statistics and Methodology.* 8(4): 667-690.\
+"So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research." *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery)\
 [Paper](https://doi.org/10.1093/jssam/smz027) | [Replication files](https://doi.org/10.7910/DVN/BRJAPZ) | [`catSurv` software](https://cran.r-project.org/package=catSurv) 
 
-Measuring Agenda Setting in Interactive Political Communication. *American Journal of Political Science.* Forthcoming.\
+Measuring Agenda Setting in Interactive Political Communication. *American Journal of Political Science.*\
 [Paper](files/agenda_setting.pdf) | [Appendix](files/agenda_setting_appendix.pdf) | [Replication files](https://doi.org/10.7910/DVN/MYM5OB)
 
 
-
-### Under review
-
-*Adaptive Inventories: A Practical Guide for Applied Researchers*. Book project under contract with *Cambridge University Press*. (with Jacob M. Montgomery)\
-[Project website](https://catsurv.com/)
+"Adaptive Inventories: A Practical Guide for Applied Researchers." Cambridge Elements Series: *Elements in Quantitative and Computational Methods for the Social Sciences*. (with Jacob M. Montgomery)\
+[Book](https://www.cambridge.org/core/elements/abs/adaptive-inventories/56F7F734D6A22261D7BD2887CA9E8F97) | [Project website](https://catsurv.com/)
 
 
 
-### Selected works in progress
+### Under Review
 
 
-The Consequences of Interparty Conversation on Outparty Affect and Stereotypes.\
-[Paper](files/conversations.pdf)
+The Similar and Distinct Effects of Political and Non-Political Conversation on Affective Polarization.\
+[Paper](files/conversations.pdf) | [Appendix](files/conversations_appendix.pdf)
 
-Electoral Threat and the Impact of Interparty Contact on Affective Polarization. (with Taylor N. Carlson)\
+Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. (with Taylor N. Carlson)\
 [Paper](files/rossiter_carlson_threat_contact_letter.pdf) | [Appendix](files/rossiter_carlson_threat_contact_appendix.pdf)
 
-Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.
+Interacting as Equals: How Contact Can Promote Tolerance Among Opposing Partisans. (with Kenneth Greene, Enrique Seira,
+and Alberto Simpser)\
 
-Judges' Views on Presidential Power and Promotion to the U.S. Supreme Court. (with Ryden Butler, JBrandon Duck-Mayr, and David R. Miller)
+
+### Other works in progress
+
+Balancing Precision and Retention in Experimental Design. (with Gustavo Diaz)
+
+Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.

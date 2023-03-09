@@ -13,7 +13,8 @@
 
 <title>Teaching</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -69,6 +70,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -93,6 +95,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -150,11 +155,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -183,8 +192,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -192,16 +201,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -245,7 +247,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -259,9 +261,6 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="research.html">Research</a>
-</li>
-<li>
-  <a href="teaching.html">Teaching</a>
 </li>
 <li>
   <a href="cv.html">CV</a>
@@ -286,20 +285,31 @@ $(document).ready(function () {
 </div>
 
 
-<p>As a instructor and section-leading teaching assistant at Washington University in St. Louis I’ve taught primarily in the areas of political methodology and programming for the social sciences. See a summary of course evaluation data and student comments <a href="files/rossiter_teaching_evals.pdf">here</a> and view my course materials below.</p>
+<p>As a instructor and section-leading teaching assistant at Washington
+University in St. Louis I’ve taught primarily in the areas of political
+methodology and programming for the social sciences. See a summary of
+course evaluation data and student comments <a
+href="files/rossiter_teaching_evals.pdf">here</a> and view my course
+materials below.</p>
 <div id="instructor" class="section level3">
 <h3>Instructor</h3>
 <ul>
-<li><p>Social Influence in Politics (Spring 2021, Undergraduate)</p></li>
-<li><p>Introduction to Python (Summer 2018, Graduate, <a href="https://github.com/erossiter/pythoncourse2018">Materials</a>)</p></li>
+<li><p>Social Influence in Politics (Spring 2021,
+Undergraduate)</p></li>
+<li><p>Introduction to Python (Summer 2018, Graduate, <a
+href="https://github.com/erossiter/pythoncourse2018">Materials</a>)</p></li>
 </ul>
 </div>
 <div id="section-leading-teaching-assistant" class="section level3">
 <h3>Section-leading teaching assistant</h3>
 <ul>
-<li><p>Computational Social Science (Spring 2019, Graduate, <a href="https://github.com/erossiter/csslab2019">Materials</a>)</p></li>
-<li><p>Quantitative Political Methodology (Fall 2018, Undergraduate, <a href="https://github.com/erossiter/qpmlab2018">Sample materials</a>)</p></li>
-<li><p>Quantitative Political Methodology (Fall 2017, Undergraduate)</p></li>
+<li><p>Computational Social Science (Spring 2019, Graduate, <a
+href="https://github.com/erossiter/csslab2019">Materials</a>)</p></li>
+<li><p>Quantitative Political Methodology (Fall 2018, Undergraduate, <a
+href="https://github.com/erossiter/qpmlab2018">Sample
+materials</a>)</p></li>
+<li><p>Quantitative Political Methodology (Fall 2017,
+Undergraduate)</p></li>
 </ul>
 </div>
 <div id="teaching-assistant" class="section level3">

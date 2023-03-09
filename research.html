@@ -13,7 +13,8 @@
 
 <title>Research</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -69,6 +70,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -93,6 +95,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -150,11 +155,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -183,8 +192,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -192,16 +201,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -245,7 +247,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -259,9 +261,6 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="research.html">Research</a>
-</li>
-<li>
-  <a href="teaching.html">Teaching</a>
 </li>
 <li>
   <a href="cv.html">CV</a>
@@ -288,24 +287,49 @@ $(document).ready(function () {
 
 <div id="publications" class="section level3">
 <h3>Publications</h3>
-<p>Montgomery, Jacob M., and Erin L. Rossiter. (2020) “So many questions, so little time: Integrating adaptive inventories into public opinion research.” <em>Journal of Survey Statistics and Methodology.</em> 8(4): 667-690.<br />
-<a href="https://doi.org/10.1093/jssam/smz027">Paper</a> | <a href="https://doi.org/10.7910/DVN/BRJAPZ">Replication files</a> | <a href="https://cran.r-project.org/package=catSurv"><code>catSurv</code> software</a></p>
-<p>Measuring Agenda Setting in Interactive Political Communication. <em>American Journal of Political Science.</em> Forthcoming.<br />
-<a href="files/agenda_setting.pdf">Paper</a> | <a href="files/agenda_setting_appendix.pdf">Appendix</a> | <a href="https://doi.org/10.7910/DVN/MYM5OB">Replication files</a></p>
+<p>“So Many Questions, So Little Time: Integrating Adaptive Inventories
+into Public Opinion Research.” <em>Journal of Survey Statistics and
+Methodology.</em> (with Jacob M. Montgomery)<br />
+<a href="https://doi.org/10.1093/jssam/smz027">Paper</a> | <a
+href="https://doi.org/10.7910/DVN/BRJAPZ">Replication files</a> | <a
+href="https://cran.r-project.org/package=catSurv"><code>catSurv</code>
+software</a></p>
+<p>Measuring Agenda Setting in Interactive Political Communication.
+<em>American Journal of Political Science.</em><br />
+<a href="files/agenda_setting.pdf">Paper</a> | <a
+href="files/agenda_setting_appendix.pdf">Appendix</a> | <a
+href="https://doi.org/10.7910/DVN/MYM5OB">Replication files</a></p>
+<p>“Adaptive Inventories: A Practical Guide for Applied Researchers.”
+Cambridge Elements Series: <em>Elements in Quantitative and
+Computational Methods for the Social Sciences</em>. (with Jacob M.
+Montgomery)<br />
+<a
+href="https://www.cambridge.org/core/elements/abs/adaptive-inventories/56F7F734D6A22261D7BD2887CA9E8F97">Book</a>
+| <a href="https://catsurv.com/">Project website</a></p>
 </div>
 <div id="under-review" class="section level3">
-<h3>Under review</h3>
-<p><em>Adaptive Inventories: A Practical Guide for Applied Researchers</em>. Book project under contract with <em>Cambridge University Press</em>. (with Jacob M. Montgomery)<br />
-<a href="https://catsurv.com/">Project website</a></p>
+<h3>Under Review</h3>
+<p>The Similar and Distinct Effects of Political and Non-Political
+Conversation on Affective Polarization.<br />
+<a href="files/conversations.pdf">Paper</a> | <a
+href="files/conversations_appendix.pdf">Appendix</a></p>
+<p>Cross-Partisan Conversation Reduced Affective Polarization for
+Republicans and Democrats Even After the Contentious 2020 Election.
+(with Taylor N. Carlson)<br />
+<a href="files/rossiter_carlson_threat_contact_letter.pdf">Paper</a> |
+<a
+href="files/rossiter_carlson_threat_contact_appendix.pdf">Appendix</a></p>
+<p>Interacting as Equals: How Contact Can Promote Tolerance Among
+Opposing Partisans. (with Kenneth Greene, Enrique Seira, and Alberto
+Simpser)<br />
+</p>
 </div>
-<div id="selected-works-in-progress" class="section level3">
-<h3>Selected works in progress</h3>
-<p>The Consequences of Interparty Conversation on Outparty Affect and Stereotypes.<br />
-<a href="files/conversations.pdf">Paper</a></p>
-<p>Electoral Threat and the Impact of Interparty Contact on Affective Polarization. (with Taylor N. Carlson)<br />
-<a href="files/rossiter_carlson_threat_contact_letter.pdf">Paper</a> | <a href="files/rossiter_carlson_threat_contact_appendix.pdf">Appendix</a></p>
-<p>Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.</p>
-<p>Judges’ Views on Presidential Power and Promotion to the U.S. Supreme Court. (with Ryden Butler, JBrandon Duck-Mayr, and David R. Miller)</p>
+<div id="other-works-in-progress" class="section level3">
+<h3>Other works in progress</h3>
+<p>Balancing Precision and Retention in Experimental Design. (with
+Gustavo Diaz)</p>
+<p>Improving Balance in Group-Based Lab Experiments with Blocked Cluster
+Designs.</p>
 </div>
 
 
