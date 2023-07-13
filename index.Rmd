@@ -3,11 +3,9 @@ title: "Welcome!"
 ---
 
 
-
-
 ```{r pressure, echo=FALSE, out.width= "35%", out.extra='style="float:right; padding:0 10px 10px 10px"'}
 knitr::include_graphics("images/pic.jpg")
 ```
 
 
-I am an Assistant Professor of Political Science at University of Notre Dame. I broadly study the dynamics of interpersonal political communications and the consequences such communications have for American political behavior, with a specific interest in political discussion and polarization. My research agenda also involves advancing quantitative methodologies, namely text-as-data and experimental methods, for settings involving interpersonal communication. My current work experimentally examines the consequences of conversations that cross partisan lines on how Americans feel about opposing party members. Before coming to Notre Dame, I earned a Ph.D. in Political Science at Washington University in St. Louis and a B.A. in Political Science & English at Creighton University.
+I am the Nancy Reeves Dreux Assistant Professor of Political Science at University of Notre Dame. I study the dynamics of interpersonal political communications and the consequences such communications have for American political behavior, with a specific interest in everyday political conversation and polarization. My research agenda also involves advancing quantitative methodologies, namely text-as-data and experimental methods, for settings involving interpersonal communication. My current work experimentally examines the consequences of conversations that cross partisan lines on how Americans feel about opposing party members. Before coming to Notre Dame, I earned a Ph.D. in Political Science at Washington University in St. Louis and a B.A. in Political Science & English at Creighton University.
