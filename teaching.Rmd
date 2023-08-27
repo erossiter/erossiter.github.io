@@ -2,30 +2,30 @@
 title: "Teaching"
 ---
 
-I teach courses in political methodology, programming for the social sciences, and American political behavior. You can see a summary of student evaluations for the following courses [here](files/rossiter_nd_teaching_evals.pdf), and you can view my course materials below.
+I teach courses in political methodology, programming for the social sciences, and American political behavior. You can see a summary of student evaluations for the following courses [here](files/rossiter_nd_teaching_evals.pdf){target="_blank"}, and you can view my course materials below.
 
 ### University of Notre Dame
 
-- Introduction to Quantitative Methods, Graduate (Fall 2023, Fall 2022, [Syllabus](files/Syllabus-IntrotoQuant-Fall2023.pdf))
-- Experimental Design, Graduate (Spring 2024, Spring 2022, [Materials](https://github.com/erossiter/ExperimentalDesign2022), [Syllabus](files/Syllabus-ExperimentalDesign-Spring2022.pdf))
-- Programming for the Social Sciences, Graduate (Spring 2023, [Materials](https://github.com/erossiter/ProgrammingSpring2023), [Syllabus](files/Syllabus-Programming-Spring2023.pdf))
-- Social Influence in Politics, Undergraduate (Fall 2023, Fall 2022, Fall 2021, [Syllabus](files/Syllabus-SocialInfluence-Fall2023.pdf))
+- Introduction to Quantitative Methods, Graduate (Fall 2023, Fall 2022, [Syllabus](files/Syllabus-IntrotoQuant-Fall2023.pdf){target="_blank"})
+- Experimental Design, Graduate (Spring 2024, Spring 2022, [Materials](https://github.com/erossiter/ExperimentalDesignSpring2022){target="_blank"}, [Syllabus](files/Syllabus-ExperimentalDesign-Spring2022.pdf){target="_blank"})
+- Programming for the Social Sciences, Graduate (Spring 2023, [Materials](https://github.com/erossiter/ProgrammingSpring2023){target="_blank"}, [Syllabus](files/Syllabus-Programming-Spring2023.pdf){target="_blank"})
+- Social Influence in Politics, Undergraduate (Fall 2023, Fall 2022, Fall 2021, [Syllabus](files/Syllabus-SocialInfluence-Fall2023.pdf){target="_blank"})
 
 
 \vspace{5em}
 
 ### Washington University in St. Louis
 
-You can find a summary of student evaluations for the following courses [here](files/rossiter_washu_teaching_evals.pdf).
+You can find a summary of student evaluations for the following courses [here](files/rossiter_washu_teaching_evals.pdf){target="_blank"}.
 
 #### Instructor
 
 - Social Influence in Politics, Undergraduate (Spring 2021)
-- Introduction to Python, Graduate (Summer 2018, [Materials](https://github.com/erossiter/pythoncourse2018))
+- Introduction to Python, Graduate (Summer 2018, [Materials](https://github.com/erossiter/pythoncourse2018){target="_blank"})
 
 #### Section-Leading Teaching Assistant
 
-- Computational Social Science, Graduate (Spring 2019, [Materials](https://github.com/erossiter/csslab2019))
-- Quantitative Political Methodology, Undergraduate (Fall 2018, Fall 2017, [Sample materials](https://github.com/erossiter/qpmlab2018))
+- Computational Social Science, Graduate (Spring 2019, [Materials](https://github.com/erossiter/csslab2019){target="_blank"})
+- Quantitative Political Methodology, Undergraduate (Fall 2018, Fall 2017, [Sample materials](https://github.com/erossiter/qpmlab2018){target="_blank"})
 
 

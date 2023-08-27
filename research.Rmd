@@ -6,41 +6,41 @@ title: "Research"
 #### **Books**
 
 Adaptive Inventories: A Practical Guide for Applied Researchers. *Cambridge Elements Series: Elements in Quantitative and Computational Methods for the Social Sciences*. (with Jacob M. Montgomery)\
-$\;\;\;$ [Book](https://www.cambridge.org/core/elements/abs/adaptive-inventories/56F7F734D6A22261D7BD2887CA9E8F97) | [Project website](https://catsurv.com/) | [Replication archive](https://codeocean.com/capsule/2685679/tree/v2)
+$\;\;\;$ [Book](https://www.cambridge.org/core/elements/abs/adaptive-inventories/56F7F734D6A22261D7BD2887CA9E8F97){target="_blank"} | [Project website](https://catsurv.com/){target="_blank"} | [Replication archive](https://codeocean.com/capsule/2685679/tree/v2){target="_blank"}
 
 #### **Peer-Reviewed Articles**
 
 Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. Conditionally accepted (pending replication). *Journal of Politics*. (with Taylor N. Carlson)\
-$\;\;\;$ [Paper](files/rossiter_carlson_threat_contact_letter.pdf) | [Appendix](files/rossiter_carlson_threat_contact_appendix.pdf)
+$\;\;\;$ [Paper](files/rossiter_carlson_threat_contact_letter.pdf){target="_blank"} | [Appendix](files/rossiter_carlson_threat_contact_appendix.pdf){target="_blank"}
 
 Measuring Agenda Setting in Interactive Political Communication. *American Journal of Political Science.*\
-$\;\;\;$ [Paper](files/agenda_setting.pdf) | [Appendix](files/agenda_setting_appendix.pdf) | [Replication archive](https://doi.org/10.7910/DVN/MYM5OB)
+$\;\;\;$ [Paper](files/agenda_setting.pdf){target="_blank"} | [Appendix](files/agenda_setting_appendix.pdf){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/MYM5OB){target="_blank"}
 
 So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research. *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
-$\;\;\;$ [Paper](https://doi.org/10.1093/jssam/smz027) | [Replication files](https://doi.org/10.7910/DVN/BRJAPZ) | [`catSurv` software](https://cran.r-project.org/package=catSurv)
+$\;\;\;$ [Paper](https://doi.org/10.1093/jssam/smz027){target="_blank"} | [Replication files](https://doi.org/10.7910/DVN/BRJAPZ){target="_blank"} | [`catSurv` software](https://cran.r-project.org/package=catSurv){target="_blank"}
 
 
 #### **Under Review**
 
 Interacting as Equals: How Contact Can Promote Tolerance Among Opposing Partisans. **(Revise and Resubmit, *Nature Human Behavior*)** (with Kenneth Greene, Enrique Seira, and Alberto Simpser)\
-$\;\;\;$ [Paper](files/equalstatuscontact.pdf) | [Appendix](files/equalstatuscontact_appendix.pdf)
+$\;\;\;$ [Paper](files/equalstatuscontact.pdf){target="_blank"} | [Appendix](files/equalstatuscontact_appendix.pdf){target="_blank"}
 
 The Similar and Distinct Effects of Political and Non-Political Conversation on Affective Polarization.\
-$\;\;\;$ [Paper](files/conversations.pdf) | [Appendix](files/conversations_appendix.pdf) | [Chat application](https://chatter-washu.herokuapp.com/) | [Statistical software](https://github.com/erossiter/blockclustr)
+$\;\;\;$ [Paper](files/conversations.pdf){target="_blank"} | [Appendix](files/conversations_appendix.pdf){target="_blank"} | [Chat application](https://chatter-washu.herokuapp.com/){target="_blank"} | [Statistical software](https://github.com/erossiter/blockclustr){target="_blank"}
 
 Balancing Precision and Retention in Experimental Design. (with Gustavo Diaz) \
-$\;\;\;$ [Paper](files/precision.pdf) | [Appendix](files/precision_appendix.pdf)
+$\;\;\;$ [Paper](files/precision.pdf){target="_blank"} | [Appendix](files/precision_appendix.pdf){target="_blank"}
 
 
 #### **Works in Progress**
 
-Interpersonal Pathways to Radicalization and Deradicalization. (with Carly Wayne and Taylor N. Carlson) *Supported by the National Science Foundation.* [*Award Abstract*](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241835&HistoricalAwards=false) 
+Interpersonal Pathways to Radicalization and Deradicalization. (with Carly Wayne and Taylor N. Carlson) *Supported by the National Science Foundation.* [*Award Abstract*](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241835&HistoricalAwards=false){target="_blank"} 
 
 To Discuss or Not to Discuss? How Selective Exposure to Political Discussion Conditions Experimental Findings on Polarization. (with Taylor N. Carlson) *Preregistered*
 
 Empathy via Imitation: A Game to Elicit Understanding of Others' Views. (with Martin Naunov, Timothy Ryan, Jaime Settle) *Preregistered*
 
-A Natural Experiment on the Formation of Issue Publics. (with Jeffrey J. Harden) [*Public preregistration*](https://osf.io/y9m6b/)
+A Natural Experiment on the Formation of Issue Publics. (with Jeffrey J. Harden) [*Public preregistration*](https://osf.io/y9m6b/){target="_blank"}
 
 Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.
 
