@@ -14,7 +14,7 @@ Cross-Partisan Conversation Reduced Affective Polarization for Republicans and D
 $\;\;\;$ [Paper](files/rossiter_carlson_threat_contact_letter.pdf){target="_blank"} | [Appendix](files/rossiter_carlson_threat_contact_appendix.pdf){target="_blank"}
 
 Measuring Agenda Setting in Interactive Political Communication. *American Journal of Political Science.*\
-$\;\;\;$ [Paper](files/agenda_setting.pdf){target="_blank"} | [Appendix](files/agenda_setting_appendix.pdf){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/MYM5OB){target="_blank"}
+$\;\;\;$ [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12653){target="_blank"} | [Appendix](files/agenda_setting_appendix.pdf){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/MYM5OB){target="_blank"}
 
 So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research. *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
 $\;\;\;$ [Paper](https://doi.org/10.1093/jssam/smz027){target="_blank"} | [Replication files](https://doi.org/10.7910/DVN/BRJAPZ){target="_blank"} | [`catSurv` software](https://cran.r-project.org/package=catSurv){target="_blank"}
