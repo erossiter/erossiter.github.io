@@ -7,7 +7,7 @@ title: "About Me"
 knitr::include_graphics("images/pic.jpg")
 ```
 
-<p style="font-size: 18px;">
+<p style="font-size: 22px;">
 I am the Nancy Reeves Dreux Assistant Professor of Political Science at University of Notre Dame. I study interpersonal
 communication and its political consequences, with a specific interest in political discussion and polarization. My research agenda equally involves advancing quantitative methodologies, namely experimental design and
 text-as-data methods, suited for the complexities inherent in interpersonal communications. My work has been supported by two grants from the National Science Foundation and is published or accepted (pending replication) in *The American Journal of Political Science,* *The Journal of Politics,* and other outlets.
