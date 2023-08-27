@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: ""
 ---
 
 
@@ -8,4 +8,8 @@ knitr::include_graphics("images/pic.jpg")
 ```
 
 
-I am the Nancy Reeves Dreux Assistant Professor of Political Science at University of Notre Dame. I study the dynamics of interpersonal political communications and the consequences such communications have for American political behavior, with a specific interest in everyday political conversation and polarization. My research agenda also involves advancing quantitative methodologies, namely text-as-data and experimental methods, for settings involving interpersonal communication. My current work experimentally examines the consequences of conversations that cross partisan lines on how Americans feel about opposing party members. Before coming to Notre Dame, I earned a Ph.D. in Political Science at Washington University in St. Louis and a B.A. in Political Science & English at Creighton University.
+I am the Nancy Reeves Dreux Assistant Professor of Political Science at University of Notre Dame. I study interpersonal
+communication and its political consequences, with a specific interest in political discussion and polarization. My research agenda equally involves advancing quantitative methodologies, namely experimental design and
+text-as-data methods, suited for the complexities inherent in interpersonal communications. My work has been supported by two grants from the National Science Foundation and is published or accepted pending replication in *The American Journal of Political Science,* *The Journal of Politics,* and other outlets.
+
+Before coming to Notre Dame, I earned a Ph.D. in Political Science at Washington University in St. Louis in 2021 and a B.A. in Political Science & English at Creighton University in 2015.

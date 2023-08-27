@@ -2,22 +2,25 @@
 title: "Research"
 ---
 
-### **Publications**
 
-"So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research." *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
-$\;\;\;$ [Paper](https://doi.org/10.1093/jssam/smz027) | [Replication files](https://doi.org/10.7910/DVN/BRJAPZ) | [`catSurv` software](https://cran.r-project.org/package=catSurv) 
+#### **Books**
+
+Adaptive Inventories: A Practical Guide for Applied Researchers. *Cambridge Elements Series: Elements in Quantitative and Computational Methods for the Social Sciences*. (with Jacob M. Montgomery)\
+$\;\;\;$ [Book](https://www.cambridge.org/core/elements/abs/adaptive-inventories/56F7F734D6A22261D7BD2887CA9E8F97) | [Project website](https://catsurv.com/) | [Replication archive](https://codeocean.com/capsule/2685679/tree/v2)
+
+#### **Peer-Reviewed Articles**
+
+Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. Conditionally accepted (pending replication). *Journal of Politics*. (with Taylor N. Carlson)\
+$\;\;\;$ [Paper](files/rossiter_carlson_threat_contact_letter.pdf) | [Appendix](files/rossiter_carlson_threat_contact_appendix.pdf)
 
 Measuring Agenda Setting in Interactive Political Communication. *American Journal of Political Science.*\
 $\;\;\;$ [Paper](files/agenda_setting.pdf) | [Appendix](files/agenda_setting_appendix.pdf) | [Replication archive](https://doi.org/10.7910/DVN/MYM5OB)
 
-"Adaptive Inventories: A Practical Guide for Applied Researchers." Cambridge Elements Series: *Elements in Quantitative and Computational Methods for the Social Sciences*. (with Jacob M. Montgomery)\
-$\;\;\;$ [Book](https://www.cambridge.org/core/elements/abs/adaptive-inventories/56F7F734D6A22261D7BD2887CA9E8F97) | [Project website](https://catsurv.com/) | [Replication archive](https://codeocean.com/capsule/2685679/tree/v2)
+So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research. *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
+$\;\;\;$ [Paper](https://doi.org/10.1093/jssam/smz027) | [Replication files](https://doi.org/10.7910/DVN/BRJAPZ) | [`catSurv` software](https://cran.r-project.org/package=catSurv)
 
 
-### **Under Review**
-
-Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. **(Revise and Resubmit, *Journal of Politics*)** (with Taylor N. Carlson)\
-$\;\;\;$ [Paper](files/rossiter_carlson_threat_contact_letter.pdf) | [Appendix](files/rossiter_carlson_threat_contact_appendix.pdf)
+#### **Under Review**
 
 Interacting as Equals: How Contact Can Promote Tolerance Among Opposing Partisans. **(Revise and Resubmit, *Nature Human Behavior*)** (with Kenneth Greene, Enrique Seira, and Alberto Simpser)\
 $\;\;\;$ [Paper](files/equalstatuscontact.pdf) | [Appendix](files/equalstatuscontact_appendix.pdf)
@@ -29,22 +32,21 @@ Balancing Precision and Retention in Experimental Design. (with Gustavo Diaz) \
 $\;\;\;$ [Paper](files/precision.pdf) | [Appendix](files/precision_appendix.pdf)
 
 
-### **Works in Progress**
+#### **Works in Progress**
 
-Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.
+Interpersonal Pathways to Radicalization and Deradicalization. (with Carly Wayne and Taylor N. Carlson) *Supported by the National Science Foundation.* [*Award Abstract*](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241835&HistoricalAwards=false) 
 
 To Discuss or Not to Discuss? How Selective Exposure to Political Discussion Conditions Experimental Findings on Polarization. (with Taylor N. Carlson) *Preregistered*
 
-Interpersonal Pathways to Radicalization and Deradicalization. (with Carly Wayne and Taylor N. Carlson) *Supported by the National Science Foundation.* \
-$\;\;\;$ [Award Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241835&HistoricalAwards=false) 
-
 Empathy via Imitation: A Game to Elicit Understanding of Others' Views. (with Martin Naunov, Timothy Ryan, Jaime Settle) *Preregistered*
 
-<!-- A Natural Experiment on the Formation of Issue Publics. (with Jeff Harden) -->
+A Natural Experiment on the Formation of Issue Publics. (with Jeffrey J. Harden) [*Public preregistration*](https://osf.io/y9m6b/)
 
-<!-- Assessing the Effects of Visits with Incarcerated Individuals on Prejudice and Political Activism. (with Kenneth Greene and Hannah Walker) -->
+Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.
 
-<!-- Building Bridges: Understanding the Occurrence and Effects of Turning Points in Cross-Partisan Political Discussions. (with Jeremy Levy and Gregory Wurm) -->
+Assessing the Effects of Visits with Incarcerated Individuals on Prejudice Reduction and Political Activism. (with Kenneth Greene and Hannah Walker)
+
+Building Bridges: Understanding the Occurrence and Effects of Turning Points in Cross-Partisan Political Discussions. (with Jeremy Levy and Gregory Wurm)
 
 <!-- How to Conduct Group Discussion Experiments Online. -->
 
