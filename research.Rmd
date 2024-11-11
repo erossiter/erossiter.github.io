@@ -5,23 +5,23 @@ title: "Research"
 
 #### **Monograph**
 
-Adaptive Inventories: A Practical Guide for Applied Researchers. *Cambridge Elements Series: Elements in Quantitative and Computational Methods for the Social Sciences*. (with Jacob M. Montgomery)\
+Adaptive Inventories: A Practical Guide for Applied Researchers. 2022. *Cambridge Elements Series: Elements in Quantitative and Computational Methods for the Social Sciences*. (with Jacob M. Montgomery)\
 [Book](https://www.cambridge.org/core/elements/abs/adaptive-inventories/56F7F734D6A22261D7BD2887CA9E8F97){target="_blank"} | [Project website](https://catsurv.com/){target="_blank"} | [Replication archive](https://codeocean.com/capsule/2685679/tree/v2){target="_blank"}
 
 
 #### **Peer-Reviewed Articles**
 
-Interacting as Equals: How Contact Can Promote Tolerance Among Opposing Partisans. Forthcoming. *Nature Human Behavior.* (with Kenneth Greene, Enrique Seira, and Alberto Simpser)\
-[Paper](files/equalstatuscontact.pdf){target="_blank"} | [Appendix](files/equalstatuscontact_appendix.pdf){target="_blank"} |
+Interacting as Equals Reduces Partisan Polarization in Mexico. 2024. *Nature Human Behavior.* (with Kenneth Greene, Enrique Seira, and Alberto Simpser)\
+[Paper](https://doi.org/10.1038/s41562-024-02043-y){target="_blank"} | [Appendix](https://www.nature.com/articles/s41562-024-02043-y#Sec16){target="_blank"} |
 [Replication archive](https://osf.io/f7bzy/){target="_blank"}
 
-Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. *Journal of Politics*. (with Taylor N. Carlson)\
+Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. 2024. *Journal of Politics*. (with Taylor N. Carlson)\
 [Paper](https://doi.org/10.1086/729931){target="_blank"} | [Appendix](https://doi.org/10.1086/729931){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/EVRMBG){target="_blank"}
 
-Measuring Agenda Setting in Interactive Political Communication. *American Journal of Political Science.*\
+Measuring Agenda Setting in Interactive Political Communication. 2021. *American Journal of Political Science.*\
 [Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12653){target="_blank"} | [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fajps.12653&file=ajps12653-sup-0001-SuppMat.pdf){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/MYM5OB){target="_blank"}
 
-So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research. *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
+So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research. 2020. *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
 [Paper](https://doi.org/10.1093/jssam/smz027){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/BRJAPZ){target="_blank"} | [`catSurv` software](https://cran.r-project.org/package=catSurv){target="_blank"}
 
 
