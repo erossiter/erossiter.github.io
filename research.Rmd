@@ -20,7 +20,7 @@ Balancing Precision and Retention in Experimental Design. 2025. *Political Analy
 The Development of an Issue Public: Evidence from The Eras Tour. 2025. *Journal of Politics.* (with Jeffrey J. Harden) \
  [Article](https://doi.org/10.1086/737279){target="_blank"} |
  [Replication archive](https://doi.org/10.7910/DVN/NQLNFZ){target="_blank"} |
- [Preregistration](https://osf.io/y9m6b/){target="_blank"}
+ [Preregistration](https://osf.io/m6nqd){target="_blank"}
 
 Interacting as Equals Reduces Partisan Polarization in Mexico. 2024. *Nature Human Behavior.* (with Kenneth Greene, Enrique Seira, and Alberto Simpser)\
 [Article](https://doi.org/10.1038/s41562-024-02043-y){target="_blank"} |
