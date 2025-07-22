@@ -11,31 +11,33 @@ Adaptive Inventories: A Practical Guide for Applied Researchers. 2022. *Cambridg
 
 #### **Peer-Reviewed Articles**
 
-Interacting as Equals Reduces Partisan Polarization in Mexico. 2024. *Nature Human Behavior.* (with Kenneth Greene, Enrique Seira, and Alberto Simpser)\
-[Paper](https://doi.org/10.1038/s41562-024-02043-y){target="_blank"} | [Appendix](https://www.nature.com/articles/s41562-024-02043-y#Sec16){target="_blank"} |
-[Replication archive](https://osf.io/f7bzy/){target="_blank"}
+Balancing Precision and Retention in Experimental Design. 2025. *Political Analysis.* (with Gustavo Diaz) \
+[Article](https://doi.org/10.1017/pan.2025.10008){target="_blank"} |
+[Replication archive](https://doi.org/10.7910/DVN/LMFOBS){target="_blank"} |
+[Pregistration 1](https://osf.io/xj35p){target="_blank"}  |
+[Pregistration 2](https://osf.io/kpwy6){target="_blank"} 
 
-Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. 2024. *Journal of Politics*. (with Taylor N. Carlson)\
-[Paper](https://doi.org/10.1086/729931){target="_blank"} | [Appendix](https://doi.org/10.1086/729931){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/EVRMBG){target="_blank"}
-
-Measuring Agenda Setting in Interactive Political Communication. 2021. *American Journal of Political Science.*\
-[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12653){target="_blank"} | [Appendix](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fajps.12653&file=ajps12653-sup-0001-SuppMat.pdf){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/MYM5OB){target="_blank"}
-
-So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research. 2020. *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
-[Paper](https://doi.org/10.1093/jssam/smz027){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/BRJAPZ){target="_blank"} | [`catSurv` software](https://cran.r-project.org/package=catSurv){target="_blank"}
-
-
-#### **Under Review**
-
-The Development of an Issue Public: Evidence from The Eras Tour. (with Jeffrey J. Harden) \
- [Paper](https://doi.org/10.31219/osf.io/qy7m3){target="_blank"} |
+The Development of an Issue Public: Evidence from The Eras Tour. 2025. *Journal of Politics.* (with Jeffrey J. Harden) \
+ [Article](https://doi.org/10.1086/737279){target="_blank"} |
+ [Replication archive](https://doi.org/10.7910/DVN/NQLNFZ){target="_blank"} |
  [Preregistration](https://osf.io/y9m6b/){target="_blank"}
 
-Balancing Precision and Retention in Experimental Design. (with Gustavo Diaz) \
-[Paper](https://osf.io/smuqr){target="_blank"} |
-[Appendix](https://osf.io/b2rsu){target="_blank"} |
-[Pregistration (Experiment)](https://osf.io/xj35p){target="_blank"}  |
-[Pregistration (Simulation)](https://osf.io/kpwy6){target="_blank"} 
+Interacting as Equals Reduces Partisan Polarization in Mexico. 2024. *Nature Human Behavior.* (with Kenneth Greene, Enrique Seira, and Alberto Simpser)\
+[Article](https://doi.org/10.1038/s41562-024-02043-y){target="_blank"} |
+[Replication archive](https://osf.io/f7bzy/){target="_blank"} |
+[Preregistration](https://www.socialscienceregistry.org/trials/8143){target="_blank"}
+
+Cross-Partisan Conversation Reduced Affective Polarization for Republicans and Democrats Even After the Contentious 2020 Election. 2024. *Journal of Politics*. (with Taylor N. Carlson)\
+[Article](https://doi.org/10.1086/729931){target="_blank"} |
+[Replication archive](https://doi.org/10.7910/DVN/EVRMBG){target="_blank"} |
+[Preregistration](https://osf.io/sfr9c){target="_blank"}
+
+Measuring Agenda Setting in Interactive Political Communication. 2021. *American Journal of Political Science.*\
+[Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12653){target="_blank"} |
+[Replication archive](https://doi.org/10.7910/DVN/MYM5OB){target="_blank"}
+
+So Many Questions, So Little Time: Integrating Adaptive Inventories into Public Opinion Research. 2020. *Journal of Survey Statistics and Methodology.* (with Jacob M. Montgomery) \
+[Article](https://doi.org/10.1093/jssam/smz027){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/BRJAPZ){target="_blank"} | [`catSurv` software](https://cran.r-project.org/package=catSurv){target="_blank"}
 
 
 #### **Selected Works in Progress**
