@@ -11,13 +11,13 @@ Adaptive Inventories: A Practical Guide for Applied Researchers. 2022. *Cambridg
 
 #### **Peer-Reviewed Articles**
 
-Balancing Precision and Retention in Experimental Design. 2025. *Political Analysis.* (with Gustavo Diaz) \
+Balancing Precision and Retention in Experimental Design. Forthcoming. *Political Analysis.* (with Gustavo Diaz) \
 [Article](https://doi.org/10.1017/pan.2025.10008){target="_blank"} |
 [Replication archive](https://doi.org/10.7910/DVN/LMFOBS){target="_blank"} |
 [Pregistration 1](https://osf.io/xj35p){target="_blank"}  |
 [Pregistration 2](https://osf.io/kpwy6){target="_blank"} 
 
-The Development of an Issue Public: Evidence from The Eras Tour. 2025. *Journal of Politics.* (with Jeffrey J. Harden) \
+The Development of an Issue Public: Evidence from The Eras Tour. Forthcoming. *Journal of Politics.* (with Jeffrey J. Harden) \
  [Article](https://doi.org/10.1086/737279){target="_blank"} |
  [Replication archive](https://doi.org/10.7910/DVN/NQLNFZ){target="_blank"} |
  [Preregistration](https://osf.io/m6nqd){target="_blank"}
@@ -40,22 +40,26 @@ So Many Questions, So Little Time: Integrating Adaptive Inventories into Public 
 [Article](https://doi.org/10.1093/jssam/smz027){target="_blank"} | [Replication archive](https://doi.org/10.7910/DVN/BRJAPZ){target="_blank"} | [`catSurv` software](https://cran.r-project.org/package=catSurv){target="_blank"}
 
 
-#### **Selected Works in Progress**
+#### **Under Review**
+
+From the Briefing Room to Your Living Room: How the President Sets the Media’s Agenda. (with David R. Miller and Benjamin S. Noble) \
+[Paper and Appendix](https://www.davidryanmiller.com/files/Presidents_PressBriefings.pdf){target="_blank"}
+
+Revisiting Celebrity Political Influence with Personalized Interventions. (with Shay Hafner) \
+[Paper](files/celeb_influence.pdf){target="_blank"} |
+[Appendix](files/celeb_influence_appendix.pdf){target="_blank"}
+
+
+#### **Select Working Papers**
+
+To Discuss or Not to Discuss? How Selective Exposure to Political Discussion Conditions Experimental Findings on Polarization. (with Taylor N. Carlson)
+
+Can Personal Social Ties Counter Support for Political Violence? Evidence from a Network Dyad Experiment. (with Carly Wayne and Taylor N. Carlson) *Supported by the National Science Foundation.*\
+[Award Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241835&HistoricalAwards=false){target="_blank"} 
 
 The Similar and Distinct Effects of Political and Non-Political Conversation on Affective Polarization.\
 [Paper](files/conversations.pdf){target="_blank"} | [Appendix](files/conversations_appendix.pdf){target="_blank"} | [Chat application](https://chatter-washu.herokuapp.com/){target="_blank"} | [Statistical software](https://github.com/erossiter/blockclustr){target="_blank"}
 
-To Discuss or Not to Discuss? How Selective Exposure to Political Discussion Conditions Experimental Findings on Polarization. (with Taylor N. Carlson) *Working paper*
-
-Interpersonal Pathways to Radicalization and Deradicalization. (with Carly Wayne and Taylor N. Carlson) *Supported by the National Science Foundation.*\
-[Award Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241835&HistoricalAwards=false){target="_blank"} 
-
-Improving Balance in Group-Based Lab Experiments with Blocked Cluster Designs.
-
-A Game to Elicit Understanding of Others' Views. (with Martin Naunov, Timothy Ryan, Jaime Settle) *Preregistered*
-
-Assessing the Effects of Visits with Incarcerated Individuals on Prejudice Reduction and Political Activism. (with Kenneth Greene and Hannah Walker)\
-[Pregistration](https://aspredicted.org/MGS_33H){target="_blank"}
 
 
 
