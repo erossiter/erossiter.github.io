@@ -49,6 +49,8 @@ Revisiting Celebrity Political Influence with Personalized Interventions. (with 
 [Paper](files/celeb_influence.pdf){target="_blank"} |
 [Appendix](files/celeb_influence_appendix.pdf){target="_blank"}
 
+The Similar and Distinct Effects of Political and Non-Political Conversation on Affective Polarization.\
+[Paper](files/conversations.pdf){target="_blank"} | [Appendix](files/conversations_appendix.pdf){target="_blank"} | [Chat application](https://chatter-washu.herokuapp.com/){target="_blank"} | [Statistical software](https://github.com/erossiter/blockclustr){target="_blank"}
 
 #### **Select Working Papers**
 
@@ -57,8 +59,7 @@ To Discuss or Not to Discuss? How Selective Exposure to Political Discussion Con
 Can Personal Social Ties Counter Support for Political Violence? Evidence from a Network Dyad Experiment. (with Carly Wayne and Taylor N. Carlson) *Supported by the National Science Foundation.*\
 [Award Abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241835&HistoricalAwards=false){target="_blank"} 
 
-The Similar and Distinct Effects of Political and Non-Political Conversation on Affective Polarization.\
-[Paper](files/conversations.pdf){target="_blank"} | [Appendix](files/conversations_appendix.pdf){target="_blank"} | [Chat application](https://chatter-washu.herokuapp.com/){target="_blank"} | [Statistical software](https://github.com/erossiter/blockclustr){target="_blank"}
+
 
 
 
