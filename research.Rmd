@@ -42,15 +42,16 @@ So Many Questions, So Little Time: Integrating Adaptive Inventories into Public 
 
 #### **Under Review**
 
-From the Briefing Room to Your Living Room: How the President Sets the Media’s Agenda. (with David R. Miller and Benjamin S. Noble) \
+From the Briefing Room to Your Living Room: How the President Sets the Media’s Agenda. (with David R. Miller and Benjamin S. Noble) *Revise and resubmit.*\
 [Paper and Appendix](https://www.davidryanmiller.com/files/Presidents_PressBriefings.pdf){target="_blank"}
+
+The Similar and Distinct Effects of Political and Non-Political Conversation on Affective Polarization. *Revise and resubmit.*\
+[Paper](files/conversations.pdf){target="_blank"} | [Appendix](files/conversations_appendix.pdf){target="_blank"} | [Chat application](https://chatter-washu.herokuapp.com/){target="_blank"} | [Statistical software](https://github.com/erossiter/blockclustr){target="_blank"}
 
 Revisiting Celebrity Political Influence with Personalized Interventions. (with Shay Hafner) \
 [Paper](files/celeb_influence.pdf){target="_blank"} |
 [Appendix](files/celeb_influence_appendix.pdf){target="_blank"}
 
-The Similar and Distinct Effects of Political and Non-Political Conversation on Affective Polarization.\
-[Paper](files/conversations.pdf){target="_blank"} | [Appendix](files/conversations_appendix.pdf){target="_blank"} | [Chat application](https://chatter-washu.herokuapp.com/){target="_blank"} | [Statistical software](https://github.com/erossiter/blockclustr){target="_blank"}
 
 #### **Select Working Papers**
 
